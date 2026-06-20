@@ -1,0 +1,1285 @@
+{
+  "generated_at_utc": "2026-06-20T13:55:06.980902Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1354,
+    "inline_internal_target_page_count": 210,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 1,
+    "visible_pages_with_inline_outbound_links": 211,
+    "average_inline_inbound_links_per_visible_page": 6.42,
+    "unresolved_inline_internal_target_count": 1,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2",
+        "title": "Cover Story",
+        "permalink": "/cover-story-d54fb1/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882",
+        "title": "Debris",
+        "permalink": "/debris/",
+        "inline_inbound_count": 93
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "title": "Air Force",
+        "permalink": "/air-force/",
+        "inline_inbound_count": 89
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_mogul_classified_bal_fb5570",
+        "title": "Project Mogul",
+        "permalink": "/project-mogul/",
+        "inline_inbound_count": 88
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6",
+        "title": "Testimony",
+        "permalink": "/testimony/",
+        "inline_inbound_count": 62
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_flying_disc_announce_c7d9fc",
+        "title": "Flying Disc",
+        "permalink": "/flying-disc/",
+        "inline_inbound_count": 60
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd",
+        "title": "Bodies",
+        "permalink": "/bodies/",
+        "inline_inbound_count": 59
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a",
+        "title": "Newspaper",
+        "permalink": "/newspaper/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d",
+        "title": "Records",
+        "permalink": "/records/",
+        "inline_inbound_count": 46
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "title": "Secrecy",
+        "permalink": "/secrecy/",
+        "inline_inbound_count": 45
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_mogul_balloon_train_7aac08",
+        "title": "Balloon train",
+        "permalink": "/balloon-train/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f",
+        "title": "Marcel",
+        "permalink": "/marcel/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b",
+        "title": "Brazel",
+        "permalink": "/brazel/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2",
+        "title": "Mogul",
+        "permalink": "/mogul/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_credibility_t_0ed9a8",
+        "title": "Credibility",
+        "permalink": "/credibility/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3",
+        "title": "Cold War",
+        "permalink": "/cold-war/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_radar_reflector_matc_828e78",
+        "title": "Radar Target",
+        "permalink": "/radar-target/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2",
+        "title": "What Really Fell Near Roswell?",
+        "permalink": "/roswell-ufo-crash/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5",
+        "title": "Cover Up",
+        "permalink": "/cover-up/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129",
+        "title": "Body Stories",
+        "permalink": "/body-stories/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056",
+        "title": "Media",
+        "permalink": "/media/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe",
+        "title": "Sheriff",
+        "permalink": "/sheriff/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9",
+        "title": "Ramey",
+        "permalink": "/ramey/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "title": "Saucer Craze",
+        "permalink": "/saucer-craze/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_reading_later_testim_3a3275",
+        "title": "Later Claims",
+        "permalink": "/later-claims/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_daily_record_two_mys_807cd2",
+        "title": "Daily Record",
+        "permalink": "/daily-record/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_remote_foster_ranch_b11d2e",
+        "title": "Remote Ranch",
+        "permalink": "/remote-ranch/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_glenn_dennis_coffin_172ddc",
+        "title": "Glenn Dennis",
+        "permalink": "/glenn-dennis/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_missing_records_myst_6e558b",
+        "title": "Missing Records",
+        "permalink": "/missing-records/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_case_closed_dispute_cdd362",
+        "title": "Case Closed",
+        "permalink": "/case-closed/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_official_reviews_ram_ca6fb4",
+        "title": "Official Reviews",
+        "permalink": "/official-reviews/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b",
+        "title": "Dummies",
+        "permalink": "/dummies/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70",
+        "title": "Timeline",
+        "permalink": "/timeline/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc",
+        "title": "Retraction",
+        "permalink": "/retraction/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2",
+        "title": "Walter Haut",
+        "permalink": "/walter-haut/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_memory_compression_r_0d3ef7",
+        "title": "Memory Merge",
+        "permalink": "/memory-merge/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_late_body_claims_ae2f60",
+        "title": "Body Claims",
+        "permalink": "/body-claims/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868",
+        "title": "Cavitt",
+        "permalink": "/cavitt/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "title": "Tourism",
+        "permalink": "/tourism/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_rubber_balloon_fragm_034d67",
+        "title": "Rubber strips",
+        "permalink": "/rubber-strips/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e",
+        "title": "1959 Mishap",
+        "permalink": "/1959-mishap/",
+        "inline_inbound_count": 6
+      }
+    ],
+    "unresolved_inline_internal_targets": [
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_index",
+        "target": "/cover-story/"
+      }
+    ],
+    "edge_samples": [
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_index",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2",
+        "to": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2",
+        "type": "parent"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_alamogordo_mogul_par_999168",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_brazel_debris_match_1b6f75",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_flight4_record_gaps_93a54f",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_flowered_tape_hierog_cbd7a1",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_index",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_june_4_flight4_candi_d86323",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_weather_balloon_half_ad1c0a",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "to": "Roswell_UFO_crash_f2c9c2",
+        "type": "ancestor"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2",
+        "type": "parent"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_alien_main_street_0e54fc",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_believers_sceptics_t_ace706",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_index",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_portable_alien_brand_924fba",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_ufo_festival_economi_f4fd73",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_ufo_museum_anchor_a84897",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_visitor_center_photo_d15dbe",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "to": "Roswell_UFO_crash_f2c9c2",
+        "type": "ancestor"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2",
+        "type": "parent"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_index",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_missing_records_myst_6e558b",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_mogul_nuclear_test_m_f6f898",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_mogul_vs_alien_evide_dbf108",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_nuclear_monitoring_s_104a32",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_roswell_1990s_invest_3b8eef",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "to": "Roswell_UFO_crash_f2c9c2",
+        "type": "ancestor"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2",
+        "type": "parent"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_arnold_saucer_label_09908d",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_cold_war_saucer_pani_bb8bba",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_daily_record_two_mys_807cd2",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_index",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_newspapers_primed_fo_0f88d3",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_pre_alien_saucer_mea_be28c5",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_roswell_speed_over_v_4653c3",
+        "type": "child"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "to": "Roswell_UFO_crash_f2c9c2",
+        "type": "ancestor"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2",
+        "type": "parent"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2",
+        "type": "sibling"
+      },
+      {
+        "from": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+        "to": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213",
+        "type": "sibling"
+      }
+    ]
+  }
+}

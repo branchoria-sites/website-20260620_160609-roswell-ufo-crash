@@ -1,0 +1,3375 @@
+{
+  "version": 1,
+  "page_count": 209,
+  "total_page_seconds": 36731.3261,
+  "average_page_seconds": 175.748,
+  "phase_totals_seconds": {
+    "preparation": 36437.4047,
+    "media_svg": 134.7113,
+    "content_assembly": 86.1272,
+    "monetization": 52.6812,
+    "youtube": 12.3644,
+    "quality_write": 8.0371
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 382.4,
+      "phases": {
+        "preparation": 381.6179,
+        "media_svg": 0.1432,
+        "youtube": 0.0123,
+        "content_assembly": 0.4953,
+        "monetization": 0.078,
+        "quality_write": 0.0531
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 348.8094,
+      "phases": {
+        "preparation": 347.9701,
+        "media_svg": 0.1632,
+        "youtube": 0.012,
+        "content_assembly": 0.5498,
+        "monetization": 0.0621,
+        "quality_write": 0.0521
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 327.6909,
+      "phases": {
+        "preparation": 324.7247,
+        "media_svg": 0.1373,
+        "youtube": 1.0313,
+        "content_assembly": 0.4874,
+        "monetization": 1.2593,
+        "quality_write": 0.0509
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 319.4441,
+      "phases": {
+        "preparation": 315.2934,
+        "media_svg": 0.1666,
+        "youtube": 0.0163,
+        "content_assembly": 0.5326,
+        "monetization": 3.389,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 312.0523,
+      "phases": {
+        "preparation": 311.258,
+        "media_svg": 0.154,
+        "youtube": 0.0121,
+        "content_assembly": 0.5026,
+        "monetization": 0.0781,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_newspapers_primed_fo_0f88d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 306.6799,
+      "phases": {
+        "preparation": 305.199,
+        "media_svg": 0.9416,
+        "youtube": 0.0171,
+        "content_assembly": 0.4259,
+        "monetization": 0.0561,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 306.6745,
+      "phases": {
+        "preparation": 305.9216,
+        "media_svg": 0.1505,
+        "youtube": 0.0098,
+        "content_assembly": 0.4941,
+        "monetization": 0.051,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_late_body_claims_ae2f60",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 263.5077,
+      "phases": {
+        "preparation": 262.1302,
+        "media_svg": 0.8672,
+        "youtube": 0.0175,
+        "content_assembly": 0.4039,
+        "monetization": 0.0488,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 261.3117,
+      "phases": {
+        "preparation": 260.5304,
+        "media_svg": 0.16,
+        "youtube": 0.0111,
+        "content_assembly": 0.4957,
+        "monetization": 0.0701,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 258.7028,
+      "phases": {
+        "preparation": 257.9687,
+        "media_svg": 0.1291,
+        "youtube": 0.012,
+        "content_assembly": 0.4993,
+        "monetization": 0.0443,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 257.8898,
+      "phases": {
+        "preparation": 256.4074,
+        "media_svg": 0.8847,
+        "youtube": 0.0194,
+        "content_assembly": 0.4165,
+        "monetization": 0.1244,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 256.5864,
+      "phases": {
+        "preparation": 255.7829,
+        "media_svg": 0.1705,
+        "youtube": 0.0127,
+        "content_assembly": 0.5074,
+        "monetization": 0.0612,
+        "quality_write": 0.0518
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_1947_records_body_ga_11554a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 250.6674,
+      "phases": {
+        "preparation": 249.345,
+        "media_svg": 0.8054,
+        "youtube": 0.0143,
+        "content_assembly": 0.4174,
+        "monetization": 0.0462,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc_saucer_panic_context_399740",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 249.5286,
+      "phases": {
+        "preparation": 248.1184,
+        "media_svg": 0.8635,
+        "youtube": 0.011,
+        "content_assembly": 0.4288,
+        "monetization": 0.0667,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_weather_balloon_corr_012c7b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 244.0559,
+      "phases": {
+        "preparation": 243.0574,
+        "media_svg": 0.4525,
+        "youtube": 0.0131,
+        "content_assembly": 0.4306,
+        "monetization": 0.0612,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 243.4208,
+      "phases": {
+        "preparation": 239.4657,
+        "media_svg": 0.1665,
+        "youtube": 0.0154,
+        "content_assembly": 0.5261,
+        "monetization": 3.1996,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 240.4186,
+      "phases": {
+        "preparation": 239.6615,
+        "media_svg": 0.079,
+        "youtube": 0.0149,
+        "content_assembly": 0.5173,
+        "monetization": 0.0885,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 240.4181,
+      "phases": {
+        "preparation": 239.7325,
+        "media_svg": 0.0671,
+        "youtube": 0.0111,
+        "content_assembly": 0.4972,
+        "monetization": 0.0646,
+        "quality_write": 0.0456
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_secret_balloon_debri_52d8e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 235.8947,
+      "phases": {
+        "preparation": 234.9388,
+        "media_svg": 0.4225,
+        "youtube": 0.0136,
+        "content_assembly": 0.4281,
+        "monetization": 0.0571,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 231.893,
+      "phases": {
+        "preparation": 231.0963,
+        "media_svg": 0.1536,
+        "youtube": 0.0178,
+        "content_assembly": 0.5038,
+        "monetization": 0.0788,
+        "quality_write": 0.0427
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 171.0163,
+      "phases": {
+        "preparation": 167.1512,
+        "media_svg": 0.144,
+        "youtube": 1.7844,
+        "content_assembly": 0.5347,
+        "monetization": 1.3535,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 327.6909,
+      "phases": {
+        "preparation": 324.7247,
+        "media_svg": 0.1373,
+        "youtube": 1.0313,
+        "content_assembly": 0.4874,
+        "monetization": 1.2593,
+        "quality_write": 0.0509
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 319.4441,
+      "phases": {
+        "preparation": 315.2934,
+        "media_svg": 0.1666,
+        "youtube": 0.0163,
+        "content_assembly": 0.5326,
+        "monetization": 3.389,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 240.4181,
+      "phases": {
+        "preparation": 239.7325,
+        "media_svg": 0.0671,
+        "youtube": 0.0111,
+        "content_assembly": 0.4972,
+        "monetization": 0.0646,
+        "quality_write": 0.0456
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 212.1353,
+      "phases": {
+        "preparation": 211.3667,
+        "media_svg": 0.1557,
+        "youtube": 0.0101,
+        "content_assembly": 0.4914,
+        "monetization": 0.064,
+        "quality_write": 0.0473
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 202.4623,
+      "phases": {
+        "preparation": 201.7061,
+        "media_svg": 0.1478,
+        "youtube": 0.0176,
+        "content_assembly": 0.4939,
+        "monetization": 0.0514,
+        "quality_write": 0.0456
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 382.4,
+      "phases": {
+        "preparation": 381.6179,
+        "media_svg": 0.1432,
+        "youtube": 0.0123,
+        "content_assembly": 0.4953,
+        "monetization": 0.078,
+        "quality_write": 0.0531
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 142.3076,
+      "phases": {
+        "preparation": 139.9911,
+        "media_svg": 0.1526,
+        "youtube": 1.5898,
+        "content_assembly": 0.471,
+        "monetization": 0.057,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 191.2266,
+      "phases": {
+        "preparation": 190.4807,
+        "media_svg": 0.1509,
+        "youtube": 0.0145,
+        "content_assembly": 0.4747,
+        "monetization": 0.0544,
+        "quality_write": 0.0514
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 134.2326,
+      "phases": {
+        "preparation": 133.5877,
+        "media_svg": 0.0713,
+        "youtube": 0.0116,
+        "content_assembly": 0.4541,
+        "monetization": 0.0641,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 143.1838,
+      "phases": {
+        "preparation": 142.4982,
+        "media_svg": 0.1459,
+        "youtube": 0.0109,
+        "content_assembly": 0.4438,
+        "monetization": 0.0432,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 258.7028,
+      "phases": {
+        "preparation": 257.9687,
+        "media_svg": 0.1291,
+        "youtube": 0.012,
+        "content_assembly": 0.4993,
+        "monetization": 0.0443,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 190.5014,
+      "phases": {
+        "preparation": 189.7238,
+        "media_svg": 0.1438,
+        "youtube": 0.0122,
+        "content_assembly": 0.4892,
+        "monetization": 0.0792,
+        "quality_write": 0.0532
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 243.4208,
+      "phases": {
+        "preparation": 239.4657,
+        "media_svg": 0.1665,
+        "youtube": 0.0154,
+        "content_assembly": 0.5261,
+        "monetization": 3.1996,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 348.8094,
+      "phases": {
+        "preparation": 347.9701,
+        "media_svg": 0.1632,
+        "youtube": 0.012,
+        "content_assembly": 0.5498,
+        "monetization": 0.0621,
+        "quality_write": 0.0521
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 185.4892,
+      "phases": {
+        "preparation": 184.746,
+        "media_svg": 0.1673,
+        "youtube": 0.0138,
+        "content_assembly": 0.469,
+        "monetization": 0.0458,
+        "quality_write": 0.0473
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 312.0523,
+      "phases": {
+        "preparation": 311.258,
+        "media_svg": 0.154,
+        "youtube": 0.0121,
+        "content_assembly": 0.5026,
+        "monetization": 0.0781,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 211.9679,
+      "phases": {
+        "preparation": 211.2241,
+        "media_svg": 0.1212,
+        "youtube": 0.0212,
+        "content_assembly": 0.5033,
+        "monetization": 0.0496,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 208.4921,
+      "phases": {
+        "preparation": 207.7708,
+        "media_svg": 0.1316,
+        "youtube": 0.0099,
+        "content_assembly": 0.483,
+        "monetization": 0.0486,
+        "quality_write": 0.0482
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 240.4186,
+      "phases": {
+        "preparation": 239.6615,
+        "media_svg": 0.079,
+        "youtube": 0.0149,
+        "content_assembly": 0.5173,
+        "monetization": 0.0885,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 195.1111,
+      "phases": {
+        "preparation": 194.4319,
+        "media_svg": 0.076,
+        "youtube": 0.0114,
+        "content_assembly": 0.4799,
+        "monetization": 0.0578,
+        "quality_write": 0.0541
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 231.893,
+      "phases": {
+        "preparation": 231.0963,
+        "media_svg": 0.1536,
+        "youtube": 0.0178,
+        "content_assembly": 0.5038,
+        "monetization": 0.0788,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 158.8692,
+      "phases": {
+        "preparation": 156.204,
+        "media_svg": 0.0917,
+        "youtube": 0.014,
+        "content_assembly": 0.4716,
+        "monetization": 2.0454,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 256.5864,
+      "phases": {
+        "preparation": 255.7829,
+        "media_svg": 0.1705,
+        "youtube": 0.0127,
+        "content_assembly": 0.5074,
+        "monetization": 0.0612,
+        "quality_write": 0.0518
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 159.7916,
+      "phases": {
+        "preparation": 159.1401,
+        "media_svg": 0.0734,
+        "youtube": 0.0119,
+        "content_assembly": 0.4738,
+        "monetization": 0.0507,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 261.3117,
+      "phases": {
+        "preparation": 260.5304,
+        "media_svg": 0.16,
+        "youtube": 0.0111,
+        "content_assembly": 0.4957,
+        "monetization": 0.0701,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 110.0174,
+      "phases": {
+        "preparation": 109.3285,
+        "media_svg": 0.1367,
+        "youtube": 0.0163,
+        "content_assembly": 0.4537,
+        "monetization": 0.0408,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 306.6745,
+      "phases": {
+        "preparation": 305.9216,
+        "media_svg": 0.1505,
+        "youtube": 0.0098,
+        "content_assembly": 0.4941,
+        "monetization": 0.051,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 168.5267,
+      "phases": {
+        "preparation": 167.7268,
+        "media_svg": 0.2026,
+        "youtube": 0.0148,
+        "content_assembly": 0.4837,
+        "monetization": 0.0569,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 196.9495,
+      "phases": {
+        "preparation": 196.272,
+        "media_svg": 0.067,
+        "youtube": 0.0117,
+        "content_assembly": 0.4911,
+        "monetization": 0.0547,
+        "quality_write": 0.0528
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 209.964,
+      "phases": {
+        "preparation": 209.1688,
+        "media_svg": 0.1358,
+        "youtube": 0.0112,
+        "content_assembly": 0.5444,
+        "monetization": 0.0448,
+        "quality_write": 0.0589
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_alien_main_street_0e54fc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 198.8222,
+      "phases": {
+        "preparation": 197.4885,
+        "media_svg": 0.8261,
+        "youtube": 0.013,
+        "content_assembly": 0.4093,
+        "monetization": 0.0448,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 166.722,
+      "phases": {
+        "preparation": 165.366,
+        "media_svg": 0.8252,
+        "youtube": 0.0134,
+        "content_assembly": 0.3932,
+        "monetization": 0.0843,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_ufo_museum_anchor_a84897",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 228.6618,
+      "phases": {
+        "preparation": 227.3001,
+        "media_svg": 0.8286,
+        "youtube": 0.0095,
+        "content_assembly": 0.4243,
+        "monetization": 0.0544,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_brazel_debris_match_1b6f75",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 148.9682,
+      "phases": {
+        "preparation": 148.0328,
+        "media_svg": 0.3763,
+        "youtube": 0.0131,
+        "content_assembly": 0.4556,
+        "monetization": 0.0567,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_flight4_record_gaps_93a54f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 128.6312,
+      "phases": {
+        "preparation": 127.8142,
+        "media_svg": 0.3383,
+        "youtube": 0.0114,
+        "content_assembly": 0.3697,
+        "monetization": 0.0562,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_transcript_test_752e55",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 166.677,
+      "phases": {
+        "preparation": 165.2899,
+        "media_svg": 0.8869,
+        "youtube": 0.0259,
+        "content_assembly": 0.3796,
+        "monetization": 0.0586,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_dummy_body_claims_8a1fe0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 167.5482,
+      "phases": {
+        "preparation": 166.2701,
+        "media_svg": 0.7875,
+        "youtube": 0.0162,
+        "content_assembly": 0.3798,
+        "monetization": 0.0611,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_memory_gap_309321",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 154.7856,
+      "phases": {
+        "preparation": 153.324,
+        "media_svg": 0.9675,
+        "youtube": 0.0096,
+        "content_assembly": 0.3962,
+        "monetization": 0.0525,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_too_late_5a0101",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 208.8839,
+      "phases": {
+        "preparation": 207.4802,
+        "media_svg": 0.9101,
+        "youtube": 0.0095,
+        "content_assembly": 0.3802,
+        "monetization": 0.0627,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_alamogordo_mogul_par_999168",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 142.3671,
+      "phases": {
+        "preparation": 141.6201,
+        "media_svg": 0.2474,
+        "youtube": 0.0115,
+        "content_assembly": 0.3936,
+        "monetization": 0.0509,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_flowered_tape_hierog_cbd7a1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 136.4272,
+      "phases": {
+        "preparation": 135.5771,
+        "media_svg": 0.3792,
+        "youtube": 0.0119,
+        "content_assembly": 0.3733,
+        "monetization": 0.053,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_weather_balloon_half_ad1c0a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 128.3572,
+      "phases": {
+        "preparation": 127.5385,
+        "media_svg": 0.3394,
+        "youtube": 0.015,
+        "content_assembly": 0.3663,
+        "monetization": 0.0617,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_june_4_flight4_candi_d86323",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.1775,
+      "phases": {
+        "preparation": 140.3393,
+        "media_svg": 0.3413,
+        "youtube": 0.0186,
+        "content_assembly": 0.3733,
+        "monetization": 0.066,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_disc_word_debate_3c3507",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 138.0252,
+      "phases": {
+        "preparation": 136.7188,
+        "media_svg": 0.8099,
+        "youtube": 0.0101,
+        "content_assembly": 0.3925,
+        "monetization": 0.06,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_mogul_flight_4_dbac42",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 215.333,
+      "phases": {
+        "preparation": 214.4779,
+        "media_svg": 0.3338,
+        "youtube": 0.0124,
+        "content_assembly": 0.4282,
+        "monetization": 0.041,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_enhancement_risk_250f19",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 135.8906,
+      "phases": {
+        "preparation": 134.5985,
+        "media_svg": 0.8294,
+        "youtube": 0.0103,
+        "content_assembly": 0.3569,
+        "monetization": 0.0619,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_ramey_photo_proof_bb4a2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 165.5228,
+      "phases": {
+        "preparation": 164.1464,
+        "media_svg": 0.8636,
+        "youtube": 0.0093,
+        "content_assembly": 0.4064,
+        "monetization": 0.0606,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 187.0711,
+      "phases": {
+        "preparation": 182.5876,
+        "media_svg": 0.8083,
+        "youtube": 0.012,
+        "content_assembly": 0.4207,
+        "monetization": 3.2064,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_believers_sceptics_t_ace706",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 165.3672,
+      "phases": {
+        "preparation": 163.4535,
+        "media_svg": 0.8703,
+        "youtube": 0.0129,
+        "content_assembly": 0.3895,
+        "monetization": 0.6076,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_portable_alien_brand_924fba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 175.0334,
+      "phases": {
+        "preparation": 173.7419,
+        "media_svg": 0.8068,
+        "youtube": 0.0081,
+        "content_assembly": 0.3975,
+        "monetization": 0.0455,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_ufo_festival_economi_f4fd73",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 154.1591,
+      "phases": {
+        "preparation": 152.9037,
+        "media_svg": 0.7812,
+        "youtube": 0.0108,
+        "content_assembly": 0.3859,
+        "monetization": 0.0435,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_visitor_center_photo_d15dbe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 203.0589,
+      "phases": {
+        "preparation": 200.6785,
+        "media_svg": 0.7783,
+        "youtube": 0.0163,
+        "content_assembly": 0.4183,
+        "monetization": 1.1302,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_dummy_1947_limit_1a7705",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 211.6182,
+      "phases": {
+        "preparation": 210.2655,
+        "media_svg": 0.8468,
+        "youtube": 0.0094,
+        "content_assembly": 0.4164,
+        "monetization": 0.0447,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_kc97_body_claims_546af3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 158.7096,
+      "phases": {
+        "preparation": 157.4377,
+        "media_svg": 0.7964,
+        "youtube": 0.0127,
+        "content_assembly": 0.3836,
+        "monetization": 0.0446,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_arnold_saucer_label_09908d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 167.2331,
+      "phases": {
+        "preparation": 164.4606,
+        "media_svg": 0.8904,
+        "youtube": 0.0141,
+        "content_assembly": 0.3728,
+        "monetization": 1.4605,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_case_closed_dispute_cdd362",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 220.1105,
+      "phases": {
+        "preparation": 218.6922,
+        "media_svg": 0.8769,
+        "youtube": 0.0141,
+        "content_assembly": 0.4463,
+        "monetization": 0.0443,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_gao_missing_records_3833ea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 174.0901,
+      "phases": {
+        "preparation": 172.7684,
+        "media_svg": 0.8081,
+        "youtube": 0.0141,
+        "content_assembly": 0.3882,
+        "monetization": 0.0685,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_glenn_dennis_coffin_172ddc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.2068,
+      "phases": {
+        "preparation": 138.841,
+        "media_svg": 0.8641,
+        "youtube": 0.0157,
+        "content_assembly": 0.373,
+        "monetization": 1.0795,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_moore_mogul_role_dba1aa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 147.9597,
+      "phases": {
+        "preparation": 146.6291,
+        "media_svg": 0.821,
+        "youtube": 0.0122,
+        "content_assembly": 0.4164,
+        "monetization": 0.0484,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_missing_records_myst_6e558b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 183.2957,
+      "phases": {
+        "preparation": 182.4527,
+        "media_svg": 0.3588,
+        "youtube": 0.0118,
+        "content_assembly": 0.3815,
+        "monetization": 0.0538,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_mogul_nuclear_test_m_f6f898",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 164.1291,
+      "phases": {
+        "preparation": 163.237,
+        "media_svg": 0.3585,
+        "youtube": 0.0142,
+        "content_assembly": 0.4315,
+        "monetization": 0.0543,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_mogul_vs_alien_evide_dbf108",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 173.9772,
+      "phases": {
+        "preparation": 167.8717,
+        "media_svg": 0.3436,
+        "youtube": 0.0115,
+        "content_assembly": 0.4073,
+        "monetization": 5.3073,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_roswell_1990s_invest_3b8eef",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 211.47,
+      "phases": {
+        "preparation": 210.1288,
+        "media_svg": 0.8201,
+        "youtube": 0.0121,
+        "content_assembly": 0.411,
+        "monetization": 0.0554,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_air_accident_rules_527795",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 135.0325,
+      "phases": {
+        "preparation": 133.6923,
+        "media_svg": 0.8445,
+        "youtube": 0.0132,
+        "content_assembly": 0.3946,
+        "monetization": 0.0546,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_missing_base_files_8262eb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 144.4881,
+      "phases": {
+        "preparation": 143.0785,
+        "media_svg": 0.8781,
+        "youtube": 0.011,
+        "content_assembly": 0.4218,
+        "monetization": 0.0565,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_two_1947_documents_cf0866",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 172.1833,
+      "phases": {
+        "preparation": 170.8599,
+        "media_svg": 0.8167,
+        "youtube": 0.015,
+        "content_assembly": 0.4099,
+        "monetization": 0.0445,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_debris_trail_712a41",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 158.1001,
+      "phases": {
+        "preparation": 153.7103,
+        "media_svg": 0.8105,
+        "youtube": 0.0114,
+        "content_assembly": 0.3784,
+        "monetization": 3.1555,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_air_force_filtering_552e90",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 119.3893,
+      "phases": {
+        "preparation": 118.1317,
+        "media_svg": 0.7933,
+        "youtube": 0.0086,
+        "content_assembly": 0.3668,
+        "monetization": 0.0573,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_remote_foster_ranch_b11d2e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 134.5087,
+      "phases": {
+        "preparation": 132.4539,
+        "media_svg": 0.3755,
+        "youtube": 0.0118,
+        "content_assembly": 0.375,
+        "monetization": 1.2593,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_corona_debris_field_8007ba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 204.2039,
+      "phases": {
+        "preparation": 202.8925,
+        "media_svg": 0.8004,
+        "youtube": 0.0115,
+        "content_assembly": 0.4169,
+        "monetization": 0.0455,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_black_box_74697f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.9307,
+      "phases": {
+        "preparation": 140.6462,
+        "media_svg": 0.8204,
+        "youtube": 0.0128,
+        "content_assembly": 0.3727,
+        "monetization": 0.0451,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_mogul_control_case_39ffbd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 187.4941,
+      "phases": {
+        "preparation": 186.1663,
+        "media_svg": 0.7891,
+        "youtube": 0.0125,
+        "content_assembly": 0.4356,
+        "monetization": 0.0552,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_ramey_memo_victims_ea617a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 190.7614,
+      "phases": {
+        "preparation": 189.3922,
+        "media_svg": 0.834,
+        "youtube": 0.0157,
+        "content_assembly": 0.4279,
+        "monetization": 0.056,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_cold_war_saucer_pani_bb8bba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 198.3596,
+      "phases": {
+        "preparation": 196.9803,
+        "media_svg": 0.8592,
+        "youtube": 0.0131,
+        "content_assembly": 0.4132,
+        "monetization": 0.0566,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_late_body_claims_ae2f60",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 263.5077,
+      "phases": {
+        "preparation": 262.1302,
+        "media_svg": 0.8672,
+        "youtube": 0.0175,
+        "content_assembly": 0.4039,
+        "monetization": 0.0488,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_daily_record_two_mys_807cd2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 231.7621,
+      "phases": {
+        "preparation": 230.3384,
+        "media_svg": 0.8306,
+        "youtube": 0.0173,
+        "content_assembly": 0.4453,
+        "monetization": 0.0828,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_newspapers_primed_fo_0f88d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 306.6799,
+      "phases": {
+        "preparation": 305.199,
+        "media_svg": 0.9416,
+        "youtube": 0.0171,
+        "content_assembly": 0.4259,
+        "monetization": 0.0561,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_pre_alien_saucer_mea_be28c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 203.1238,
+      "phases": {
+        "preparation": 198.6402,
+        "media_svg": 0.8581,
+        "youtube": 0.8657,
+        "content_assembly": 0.3871,
+        "monetization": 2.3381,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_roswell_speed_over_v_4653c3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 225.1792,
+      "phases": {
+        "preparation": 221.155,
+        "media_svg": 0.8256,
+        "youtube": 0.0181,
+        "content_assembly": 0.3963,
+        "monetization": 2.7455,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_hospital_accident_cl_4a5f83",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 156.4125,
+      "phases": {
+        "preparation": 155.0445,
+        "media_svg": 0.9042,
+        "youtube": 0.0093,
+        "content_assembly": 0.3764,
+        "monetization": 0.0408,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_why_air_force_reopen_a456f0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 125.0415,
+      "phases": {
+        "preparation": 123.7334,
+        "media_svg": 0.8337,
+        "youtube": 0.0123,
+        "content_assembly": 0.3673,
+        "monetization": 0.0607,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_1947_records_body_ga_11554a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 250.6674,
+      "phases": {
+        "preparation": 249.345,
+        "media_svg": 0.8054,
+        "youtube": 0.0143,
+        "content_assembly": 0.4174,
+        "monetization": 0.0462,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_barnett_body_story_m_3c8918",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 163.1986,
+      "phases": {
+        "preparation": 161.4759,
+        "media_svg": 0.7578,
+        "youtube": 0.0102,
+        "content_assembly": 0.3695,
+        "monetization": 0.5506,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 154.8388,
+      "phases": {
+        "preparation": 153.5385,
+        "media_svg": 0.8144,
+        "youtube": 0.0143,
+        "content_assembly": 0.3883,
+        "monetization": 0.0472,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_body_claim_proof_sta_cba7bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 214.5892,
+      "phases": {
+        "preparation": 213.3353,
+        "media_svg": 0.7768,
+        "youtube": 0.012,
+        "content_assembly": 0.3851,
+        "monetization": 0.0448,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_haut_posthumous_stat_40a473",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 201.9198,
+      "phases": {
+        "preparation": 199.9817,
+        "media_svg": 1.0,
+        "youtube": 0.0131,
+        "content_assembly": 0.7449,
+        "monetization": 0.1113,
+        "quality_write": 0.0688
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 189.9438,
+      "phases": {
+        "preparation": 188.5504,
+        "media_svg": 0.9064,
+        "youtube": 0.0126,
+        "content_assembly": 0.3887,
+        "monetization": 0.0478,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_gao_actual_findings_f21913",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 178.748,
+      "phases": {
+        "preparation": 177.4082,
+        "media_svg": 0.8591,
+        "youtube": 0.0123,
+        "content_assembly": 0.3902,
+        "monetization": 0.0443,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_secrecy_afterlife_544685",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 204.8509,
+      "phases": {
+        "preparation": 203.5413,
+        "media_svg": 0.8096,
+        "youtube": 0.0128,
+        "content_assembly": 0.3839,
+        "monetization": 0.0671,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_fort_worth_photo_dis_288f2c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 125.4665,
+      "phases": {
+        "preparation": 124.1497,
+        "media_svg": 0.8522,
+        "youtube": 0.0112,
+        "content_assembly": 0.3674,
+        "monetization": 0.0517,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_credibility_t_0ed9a8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 160.0,
+      "phases": {
+        "preparation": 158.7347,
+        "media_svg": 0.7875,
+        "youtube": 0.0131,
+        "content_assembly": 0.3753,
+        "monetization": 0.0541,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_jr_kitchen_de_551554",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.0066,
+      "phases": {
+        "preparation": 148.7439,
+        "media_svg": 0.7803,
+        "youtube": 0.0125,
+        "content_assembly": 0.3763,
+        "monetization": 0.0554,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_mogul_vs_marcel_debr_448f87",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 154.671,
+      "phases": {
+        "preparation": 153.3666,
+        "media_svg": 0.8243,
+        "youtube": 0.0109,
+        "content_assembly": 0.3846,
+        "monetization": 0.0487,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_burned_remains_evide_8a0d62",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 148.5234,
+      "phases": {
+        "preparation": 147.2839,
+        "media_svg": 0.7709,
+        "youtube": 0.0102,
+        "content_assembly": 0.371,
+        "monetization": 0.0531,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_composite_memory_tim_a87c8f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 186.1836,
+      "phases": {
+        "preparation": 184.874,
+        "media_svg": 0.8235,
+        "youtube": 0.0133,
+        "content_assembly": 0.3863,
+        "monetization": 0.0482,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_glenn_dennis_mortici_a63ad8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 142.9783,
+      "phases": {
+        "preparation": 141.7004,
+        "media_svg": 0.7966,
+        "youtube": 0.0093,
+        "content_assembly": 0.3776,
+        "monetization": 0.0558,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_kc97_crash_body_clai_8cd75f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 159.8688,
+      "phases": {
+        "preparation": 158.5668,
+        "media_svg": 0.8148,
+        "youtube": 0.0126,
+        "content_assembly": 0.3854,
+        "monetization": 0.0543,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 148.2513,
+      "phases": {
+        "preparation": 146.9448,
+        "media_svg": 0.8161,
+        "youtube": 0.0132,
+        "content_assembly": 0.3849,
+        "monetization": 0.0575,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_failed_kite_reconstr_004fa6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 134.1501,
+      "phases": {
+        "preparation": 133.3394,
+        "media_svg": 0.3435,
+        "youtube": 0.0123,
+        "content_assembly": 0.3753,
+        "monetization": 0.0466,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_five_pound_debris_bu_15a73a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 172.8621,
+      "phases": {
+        "preparation": 172.0149,
+        "media_svg": 0.3551,
+        "youtube": 0.0135,
+        "content_assembly": 0.3907,
+        "monetization": 0.05,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_july_4_debris_return_ad1ea0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 214.2197,
+      "phases": {
+        "preparation": 213.361,
+        "media_svg": 0.3419,
+        "youtube": 0.0167,
+        "content_assembly": 0.4161,
+        "monetization": 0.0477,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_vernon_brazel_witnes_8f902c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 154.8621,
+      "phases": {
+        "preparation": 154.0562,
+        "media_svg": 0.3483,
+        "youtube": 0.0129,
+        "content_assembly": 0.3712,
+        "monetization": 0.0387,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_weather_balloon_doub_2811fe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 123.8814,
+      "phases": {
+        "preparation": 123.0688,
+        "media_svg": 0.3442,
+        "youtube": 0.0122,
+        "content_assembly": 0.3782,
+        "monetization": 0.045,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc_ramey_memo_debate_6877ed",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 164.2549,
+      "phases": {
+        "preparation": 162.9151,
+        "media_svg": 0.8372,
+        "youtube": 0.0129,
+        "content_assembly": 0.3987,
+        "monetization": 0.0529,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 196.2465,
+      "phases": {
+        "preparation": 194.8165,
+        "media_svg": 0.893,
+        "youtube": 0.0124,
+        "content_assembly": 0.3965,
+        "monetization": 0.0909,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 159.1025,
+      "phases": {
+        "preparation": 157.731,
+        "media_svg": 0.8486,
+        "youtube": 0.0121,
+        "content_assembly": 0.4059,
+        "monetization": 0.0709,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 169.6474,
+      "phases": {
+        "preparation": 168.2774,
+        "media_svg": 0.881,
+        "youtube": 0.0094,
+        "content_assembly": 0.3861,
+        "monetization": 0.0581,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_roswell_air_field_pr_e880e7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 164.8725,
+      "phases": {
+        "preparation": 163.5134,
+        "media_svg": 0.8665,
+        "youtube": 0.0112,
+        "content_assembly": 0.3912,
+        "monetization": 0.052,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_white_sands_test_geo_072221",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 225.2029,
+      "phases": {
+        "preparation": 223.8242,
+        "media_svg": 0.861,
+        "youtube": 0.0146,
+        "content_assembly": 0.4103,
+        "monetization": 0.0535,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 257.8898,
+      "phases": {
+        "preparation": 256.4074,
+        "media_svg": 0.8847,
+        "youtube": 0.0194,
+        "content_assembly": 0.4165,
+        "monetization": 0.1244,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_ufo_crash_template_41397a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 171.9344,
+      "phases": {
+        "preparation": 170.5398,
+        "media_svg": 0.8597,
+        "youtube": 0.0128,
+        "content_assembly": 0.3992,
+        "monetization": 0.0877,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_cover_story_coverup_5b2ee9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 184.6899,
+      "phases": {
+        "preparation": 183.2332,
+        "media_svg": 0.8895,
+        "youtube": 0.0107,
+        "content_assembly": 0.3997,
+        "monetization": 0.1219,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_flight_4_candidate_e4904f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 171.9809,
+      "phases": {
+        "preparation": 170.5024,
+        "media_svg": 0.8835,
+        "youtube": 0.0129,
+        "content_assembly": 0.4186,
+        "monetization": 0.1206,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 175.2504,
+      "phases": {
+        "preparation": 173.8523,
+        "media_svg": 0.896,
+        "youtube": 0.0129,
+        "content_assembly": 0.3865,
+        "monetization": 0.0641,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_worth_hiding_d8c029",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 155.9673,
+      "phases": {
+        "preparation": 154.5747,
+        "media_svg": 0.8664,
+        "youtube": 0.0139,
+        "content_assembly": 0.3791,
+        "monetization": 0.0987,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_gao_mogul_explanatio_08666d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 199.5849,
+      "phases": {
+        "preparation": 198.12,
+        "media_svg": 0.9218,
+        "youtube": 0.0129,
+        "content_assembly": 0.404,
+        "monetization": 0.0891,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_steven_schiff_record_bc2c97",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 120.8286,
+      "phases": {
+        "preparation": 119.4921,
+        "media_svg": 0.8634,
+        "youtube": 0.0121,
+        "content_assembly": 0.3662,
+        "monetization": 0.0599,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_suggestion_transcrip_ccacf3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 122.3537,
+      "phases": {
+        "preparation": 120.778,
+        "media_svg": 0.9183,
+        "youtube": 0.0232,
+        "content_assembly": 0.4778,
+        "monetization": 0.1193,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_victims_phrase_dispu_9bd4ec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 121.207,
+      "phases": {
+        "preparation": 119.8802,
+        "media_svg": 0.8305,
+        "youtube": 0.0123,
+        "content_assembly": 0.3621,
+        "monetization": 0.0892,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 217.0561,
+      "phases": {
+        "preparation": 215.6024,
+        "media_svg": 0.8618,
+        "youtube": 0.0166,
+        "content_assembly": 0.4047,
+        "monetization": 0.1326,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_jesse_marcel_revival_8dec97",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 212.5916,
+      "phases": {
+        "preparation": 211.1915,
+        "media_svg": 0.8495,
+        "youtube": 0.015,
+        "content_assembly": 0.4063,
+        "monetization": 0.0924,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_roswell_drama_witnes_7214cd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 161.582,
+      "phases": {
+        "preparation": 160.2193,
+        "media_svg": 0.8849,
+        "youtube": 0.0092,
+        "content_assembly": 0.3653,
+        "monetization": 0.0686,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_roswell_incident_blu_801f27",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 194.9354,
+      "phases": {
+        "preparation": 193.605,
+        "media_svg": 0.8248,
+        "youtube": 0.0093,
+        "content_assembly": 0.3832,
+        "monetization": 0.0765,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_roswell_witness_book_69ffe3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 152.4742,
+      "phases": {
+        "preparation": 151.124,
+        "media_svg": 0.8657,
+        "youtube": 0.0137,
+        "content_assembly": 0.3798,
+        "monetization": 0.0548,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_unsolved_mysteries_r_aee931",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 130.5153,
+      "phases": {
+        "preparation": 129.1855,
+        "media_svg": 0.8622,
+        "youtube": 0.0089,
+        "content_assembly": 0.3653,
+        "monetization": 0.0608,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_cumulative_witnesses_938db4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 181.9569,
+      "phases": {
+        "preparation": 180.5857,
+        "media_svg": 0.8455,
+        "youtube": 0.0138,
+        "content_assembly": 0.4001,
+        "monetization": 0.0767,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_early_debris_later_c_a637ae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 189.3829,
+      "phases": {
+        "preparation": 188.0273,
+        "media_svg": 0.8365,
+        "youtube": 0.015,
+        "content_assembly": 0.4038,
+        "monetization": 0.065,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 149.9068,
+      "phases": {
+        "preparation": 148.5303,
+        "media_svg": 0.8582,
+        "youtube": 0.0099,
+        "content_assembly": 0.3803,
+        "monetization": 0.0911,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_balsa_radar_frames_d94f48",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 133.42,
+      "phases": {
+        "preparation": 132.0644,
+        "media_svg": 0.8016,
+        "youtube": 0.013,
+        "content_assembly": 0.3812,
+        "monetization": 0.1252,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_balloon_mishap_body_d761d5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 115.418,
+      "phases": {
+        "preparation": 114.1217,
+        "media_svg": 0.7827,
+        "youtube": 0.0118,
+        "content_assembly": 0.3745,
+        "monetization": 0.0931,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_sierra_sam_mismatch_6b7a02",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 182.0505,
+      "phases": {
+        "preparation": 180.7428,
+        "media_svg": 0.8141,
+        "youtube": 0.0144,
+        "content_assembly": 0.3811,
+        "monetization": 0.0628,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_july_8_announcement_9fbb3d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 179.4227,
+      "phases": {
+        "preparation": 178.4935,
+        "media_svg": 0.3843,
+        "youtube": 0.0144,
+        "content_assembly": 0.394,
+        "monetization": 0.1018,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 108.4778,
+      "phases": {
+        "preparation": 107.1459,
+        "media_svg": 0.8303,
+        "youtube": 0.0117,
+        "content_assembly": 0.3692,
+        "monetization": 0.087,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_fulgham_injury_memor_645a54",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 118.1623,
+      "phases": {
+        "preparation": 116.8377,
+        "media_svg": 0.8343,
+        "youtube": 0.0108,
+        "content_assembly": 0.3756,
+        "monetization": 0.0699,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 146.501,
+      "phases": {
+        "preparation": 145.0601,
+        "media_svg": 0.9421,
+        "youtube": 0.0137,
+        "content_assembly": 0.3836,
+        "monetization": 0.0622,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.1397,
+      "phases": {
+        "preparation": 139.8161,
+        "media_svg": 0.8443,
+        "youtube": 0.0113,
+        "content_assembly": 0.3781,
+        "monetization": 0.0523,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_kittinger_red_haired_50d9bd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 128.3887,
+      "phases": {
+        "preparation": 127.0934,
+        "media_svg": 0.8365,
+        "youtube": 0.0107,
+        "content_assembly": 0.3616,
+        "monetization": 0.0522,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_walker_hospital_memo_76f3eb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 125.0331,
+      "phases": {
+        "preparation": 123.7361,
+        "media_svg": 0.8211,
+        "youtube": 0.0122,
+        "content_assembly": 0.3735,
+        "monetization": 0.0556,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_purple_tape_symbols_9d4be1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 204.3279,
+      "phases": {
+        "preparation": 203.0502,
+        "media_svg": 0.7934,
+        "youtube": 0.0133,
+        "content_assembly": 0.385,
+        "monetization": 0.05,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d_marcel_announcement_11c027",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 122.7943,
+      "phases": {
+        "preparation": 121.581,
+        "media_svg": 0.5531,
+        "youtube": 0.0212,
+        "content_assembly": 0.4222,
+        "monetization": 0.1588,
+        "quality_write": 0.0581
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d_raaf_saucer_wording_295e4a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 158.445,
+      "phases": {
+        "preparation": 157.5547,
+        "media_svg": 0.3903,
+        "youtube": 0.0105,
+        "content_assembly": 0.3823,
+        "monetization": 0.0725,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc_first_press_release_a520da",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 169.728,
+      "phases": {
+        "preparation": 168.3268,
+        "media_svg": 0.839,
+        "youtube": 0.0119,
+        "content_assembly": 0.3737,
+        "monetization": 0.1415,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_daily_record_saucer_211e97",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 201.0142,
+      "phases": {
+        "preparation": 196.8963,
+        "media_svg": 0.8358,
+        "youtube": 0.013,
+        "content_assembly": 0.3907,
+        "monetization": 2.8412,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_wilmot_sighting_gap_6769b6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 164.6874,
+      "phases": {
+        "preparation": 163.3268,
+        "media_svg": 0.8468,
+        "youtube": 0.0102,
+        "content_assembly": 0.3843,
+        "monetization": 0.0841,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_fbi_teletype_bridge_2bd34b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 166.2047,
+      "phases": {
+        "preparation": 163.3869,
+        "media_svg": 0.9244,
+        "youtube": 0.7777,
+        "content_assembly": 0.3919,
+        "monetization": 0.6718,
+        "quality_write": 0.052
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_first_roswell_story_7511f0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 203.4325,
+      "phases": {
+        "preparation": 202.0769,
+        "media_svg": 0.8371,
+        "youtube": 0.0134,
+        "content_assembly": 0.3955,
+        "monetization": 0.072,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_jesse_marcel_revival_8dec97",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 140.9862,
+      "phases": {
+        "preparation": 138.427,
+        "media_svg": 0.8725,
+        "youtube": 1.2073,
+        "content_assembly": 0.3846,
+        "monetization": 0.0606,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_flying_disc_announce_c7d9fc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 193.1739,
+      "phases": {
+        "preparation": 191.0924,
+        "media_svg": 0.8537,
+        "youtube": 0.014,
+        "content_assembly": 0.398,
+        "monetization": 0.7803,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_debris_claim_4abddb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 118.8301,
+      "phases": {
+        "preparation": 117.4679,
+        "media_svg": 0.8469,
+        "youtube": 0.0126,
+        "content_assembly": 0.3849,
+        "monetization": 0.085,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_official_reports_deb_93860e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 151.0062,
+      "phases": {
+        "preparation": 149.6445,
+        "media_svg": 0.8572,
+        "youtube": 0.0141,
+        "content_assembly": 0.3857,
+        "monetization": 0.0672,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_brazel_wilcox_visit_b33d69",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 184.8627,
+      "phases": {
+        "preparation": 183.8972,
+        "media_svg": 0.403,
+        "youtube": 0.0111,
+        "content_assembly": 0.3889,
+        "monetization": 0.1239,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_mogul_balloon_train_7aac08",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 172.908,
+      "phases": {
+        "preparation": 171.5045,
+        "media_svg": 0.8725,
+        "youtube": 0.0142,
+        "content_assembly": 0.3826,
+        "monetization": 0.0984,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_roswell_foil_scraps_e7ae12",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 149.0283,
+      "phases": {
+        "preparation": 147.6698,
+        "media_svg": 0.8621,
+        "youtube": 0.0133,
+        "content_assembly": 0.3804,
+        "monetization": 0.0689,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_dummy_recovery_evide_74365f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 197.9425,
+      "phases": {
+        "preparation": 196.6051,
+        "media_svg": 0.8236,
+        "youtube": 0.0129,
+        "content_assembly": 0.3935,
+        "monetization": 0.0693,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_memory_compression_r_0d3ef7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 143.3462,
+      "phases": {
+        "preparation": 142.0295,
+        "media_svg": 0.8367,
+        "youtube": 0.0126,
+        "content_assembly": 0.3808,
+        "monetization": 0.0507,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_army_air_field_recov_c03d7b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 160.9102,
+      "phases": {
+        "preparation": 160.0086,
+        "media_svg": 0.392,
+        "youtube": 0.0111,
+        "content_assembly": 0.3774,
+        "monetization": 0.0864,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_brazel_debris_report_469518",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 189.5225,
+      "phases": {
+        "preparation": 188.6131,
+        "media_svg": 0.3936,
+        "youtube": 0.0122,
+        "content_assembly": 0.3899,
+        "monetization": 0.0772,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_fbi_teletype_balloon_061275",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 132.1942,
+      "phases": {
+        "preparation": 131.297,
+        "media_svg": 0.3824,
+        "youtube": 0.0099,
+        "content_assembly": 0.4017,
+        "monetization": 0.0688,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_wilcox_sheriff_hando_071f0b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.6585,
+      "phases": {
+        "preparation": 125.7726,
+        "media_svg": 0.391,
+        "youtube": 0.0146,
+        "content_assembly": 0.3738,
+        "monetization": 0.0712,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_project_mogul_explan_2128c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 153.2445,
+      "phases": {
+        "preparation": 152.3536,
+        "media_svg": 0.389,
+        "youtube": 0.012,
+        "content_assembly": 0.3848,
+        "monetization": 0.0679,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 143.3218,
+      "phases": {
+        "preparation": 141.9936,
+        "media_svg": 0.8554,
+        "youtube": 0.0094,
+        "content_assembly": 0.3763,
+        "monetization": 0.0509,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_compartmentalized_wi_94d101",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 175.5943,
+      "phases": {
+        "preparation": 174.2551,
+        "media_svg": 0.8378,
+        "youtube": 0.0148,
+        "content_assembly": 0.3831,
+        "monetization": 0.0685,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_flight_4_debri_77eac8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 176.4327,
+      "phases": {
+        "preparation": 175.0645,
+        "media_svg": 0.8525,
+        "youtube": 0.0122,
+        "content_assembly": 0.3869,
+        "monetization": 0.0813,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_weather_balloon_cove_fec8c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 153.4587,
+      "phases": {
+        "preparation": 152.1304,
+        "media_svg": 0.8431,
+        "youtube": 0.0121,
+        "content_assembly": 0.3775,
+        "monetization": 0.0591,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d_509th_credibility_ef_56312c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 171.437,
+      "phases": {
+        "preparation": 170.5328,
+        "media_svg": 0.3931,
+        "youtube": 0.0117,
+        "content_assembly": 0.3937,
+        "monetization": 0.0698,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d_daily_record_headlin_f05408",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 216.7694,
+      "phases": {
+        "preparation": 215.8287,
+        "media_svg": 0.419,
+        "youtube": 0.0126,
+        "content_assembly": 0.3987,
+        "monetization": 0.0723,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d_fort_worth_balloon_r_bf165c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 131.1558,
+      "phases": {
+        "preparation": 130.2677,
+        "media_svg": 0.3921,
+        "youtube": 0.0116,
+        "content_assembly": 0.3839,
+        "monetization": 0.0647,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d_local_sightings_reco_12d213",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 175.1145,
+      "phases": {
+        "preparation": 172.4766,
+        "media_svg": 0.3948,
+        "youtube": 0.0179,
+        "content_assembly": 0.3871,
+        "monetization": 1.8034,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc_fort_worth_public_re_4612f7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 164.5465,
+      "phases": {
+        "preparation": 163.188,
+        "media_svg": 0.8363,
+        "youtube": 0.0134,
+        "content_assembly": 0.3864,
+        "monetization": 0.087,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc_half_true_balloon_st_ba3661",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.0934,
+      "phases": {
+        "preparation": 124.7787,
+        "media_svg": 0.8447,
+        "youtube": 0.0125,
+        "content_assembly": 0.3647,
+        "monetization": 0.0586,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc_later_reports_too_la_fbb51f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 159.1588,
+      "phases": {
+        "preparation": 157.8105,
+        "media_svg": 0.8547,
+        "youtube": 0.0119,
+        "content_assembly": 0.393,
+        "monetization": 0.0536,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_official_retractions_a2facc_saucer_panic_context_399740",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 249.5286,
+      "phases": {
+        "preparation": 248.1184,
+        "media_svg": 0.8635,
+        "youtube": 0.011,
+        "content_assembly": 0.4288,
+        "monetization": 0.0667,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_compartmentalized_se_4068d8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 167.7806,
+      "phases": {
+        "preparation": 166.7978,
+        "media_svg": 0.4089,
+        "youtube": 0.0135,
+        "content_assembly": 0.4277,
+        "monetization": 0.089,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_neoprene_balloon_dec_021350",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 201.3812,
+      "phases": {
+        "preparation": 199.4346,
+        "media_svg": 0.8863,
+        "youtube": 0.0324,
+        "content_assembly": 0.8228,
+        "monetization": 0.1445,
+        "quality_write": 0.0607
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_radar_targets_markin_88e9de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 220.2098,
+      "phases": {
+        "preparation": 219.1239,
+        "media_svg": 0.4252,
+        "youtube": 0.0221,
+        "content_assembly": 0.4942,
+        "monetization": 0.0975,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_secret_balloon_debri_52d8e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 235.8947,
+      "phases": {
+        "preparation": 234.9388,
+        "media_svg": 0.4225,
+        "youtube": 0.0136,
+        "content_assembly": 0.4281,
+        "monetization": 0.0571,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_weather_balloon_corr_012c7b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 244.0559,
+      "phases": {
+        "preparation": 243.0574,
+        "media_svg": 0.4525,
+        "youtube": 0.0131,
+        "content_assembly": 0.4306,
+        "monetization": 0.0612,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_balloon_story_too_co_cb51b3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 175.6193,
+      "phases": {
+        "preparation": 174.632,
+        "media_svg": 0.4259,
+        "youtube": 0.0142,
+        "content_assembly": 0.3983,
+        "monetization": 0.1102,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_fort_worth_debris_ph_8c1ee0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 145.6186,
+      "phases": {
+        "preparation": 144.6744,
+        "media_svg": 0.4311,
+        "youtube": 0.0128,
+        "content_assembly": 0.4039,
+        "monetization": 0.0625,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_irving_newton_identi_5eed87",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 111.5951,
+      "phases": {
+        "preparation": 109.4655,
+        "media_svg": 0.3909,
+        "youtube": 1.2592,
+        "content_assembly": 0.3746,
+        "monetization": 0.069,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_mogul_secrecy_balloo_a01653",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 113.8152,
+      "phases": {
+        "preparation": 112.9584,
+        "media_svg": 0.387,
+        "youtube": 0.0117,
+        "content_assembly": 0.3769,
+        "monetization": 0.0486,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_official_reviews_ram_ca6fb4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 147.9617,
+      "phases": {
+        "preparation": 147.0896,
+        "media_svg": 0.4,
+        "youtube": 0.009,
+        "content_assembly": 0.3828,
+        "monetization": 0.0459,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_ramey_correction_cha_8a30d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 179.5141,
+      "phases": {
+        "preparation": 178.6184,
+        "media_svg": 0.394,
+        "youtube": 0.0132,
+        "content_assembly": 0.4011,
+        "monetization": 0.0522,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_brazel_july9_intervi_a10cef",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 111.9594,
+      "phases": {
+        "preparation": 110.5925,
+        "media_svg": 0.8612,
+        "youtube": 0.0157,
+        "content_assembly": 0.3823,
+        "monetization": 0.0731,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_missing_object_detai_4880d2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 140.55,
+      "phases": {
+        "preparation": 139.1595,
+        "media_svg": 0.8856,
+        "youtube": 0.0117,
+        "content_assembly": 0.3887,
+        "monetization": 0.0666,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_july8_july9_timeline_4016a5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 210.958,
+      "phases": {
+        "preparation": 209.558,
+        "media_svg": 0.8764,
+        "youtube": 0.012,
+        "content_assembly": 0.4065,
+        "monetization": 0.0696,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_brazel_debris_detail_f94405",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 142.33,
+      "phases": {
+        "preparation": 140.9672,
+        "media_svg": 0.8636,
+        "youtube": 0.013,
+        "content_assembly": 0.3858,
+        "monetization": 0.066,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_no_bodies_original_r_ede7ec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 190.9335,
+      "phases": {
+        "preparation": 189.5429,
+        "media_svg": 0.8348,
+        "youtube": 0.0189,
+        "content_assembly": 0.4353,
+        "monetization": 0.0656,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_mogul_classified_bal_fb5570",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.0796,
+      "phases": {
+        "preparation": 148.7589,
+        "media_svg": 0.8202,
+        "youtube": 0.0158,
+        "content_assembly": 0.3944,
+        "monetization": 0.0547,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_reading_later_testim_3a3275",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 162.1394,
+      "phases": {
+        "preparation": 160.7639,
+        "media_svg": 0.8813,
+        "youtube": 0.0093,
+        "content_assembly": 0.3901,
+        "monetization": 0.0559,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_wilmot_sighting_sepa_0972e2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 138.9898,
+      "phases": {
+        "preparation": 137.5996,
+        "media_svg": 0.9038,
+        "youtube": 0.0156,
+        "content_assembly": 0.3772,
+        "monetization": 0.0607,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 115.0767,
+      "phases": {
+        "preparation": 113.7141,
+        "media_svg": 0.8908,
+        "youtube": 0.0115,
+        "content_assembly": 0.3653,
+        "monetization": 0.0584,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_marcel_confli_f02fa6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 156.905,
+      "phases": {
+        "preparation": 155.5807,
+        "media_svg": 0.817,
+        "youtube": 0.0129,
+        "content_assembly": 0.3867,
+        "monetization": 0.0699,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_memory_reliab_725731",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 156.1324,
+      "phases": {
+        "preparation": 154.8123,
+        "media_svg": 0.8377,
+        "youtube": 0.0118,
+        "content_assembly": 0.3865,
+        "monetization": 0.0505,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_radar_reflector_matc_828e78",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 110.1506,
+      "phases": {
+        "preparation": 108.7992,
+        "media_svg": 0.8837,
+        "youtube": 0.0123,
+        "content_assembly": 0.3675,
+        "monetization": 0.0532,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_local_report_to_head_f9075d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 203.146,
+      "phases": {
+        "preparation": 202.1991,
+        "media_svg": 0.3962,
+        "youtube": 0.013,
+        "content_assembly": 0.4091,
+        "monetization": 0.0913,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_marcel_wilcox_handof_0d3bca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.6983,
+      "phases": {
+        "preparation": 128.7924,
+        "media_svg": 0.4065,
+        "youtube": 0.01,
+        "content_assembly": 0.3814,
+        "monetization": 0.0755,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_called_air_ba_0c7022",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 136.2364,
+      "phases": {
+        "preparation": 135.347,
+        "media_svg": 0.3913,
+        "youtube": 0.0133,
+        "content_assembly": 0.3938,
+        "monetization": 0.0582,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_credibility_g_baae96",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 167.463,
+      "phases": {
+        "preparation": 166.4631,
+        "media_svg": 0.4379,
+        "youtube": 0.0136,
+        "content_assembly": 0.4452,
+        "monetization": 0.0644,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_decorative_tape_symb_668656",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.0006,
+      "phases": {
+        "preparation": 127.5799,
+        "media_svg": 0.9193,
+        "youtube": 0.0113,
+        "content_assembly": 0.3916,
+        "monetization": 0.0651,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_press_release_a27435",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 166.0079,
+      "phases": {
+        "preparation": 165.038,
+        "media_svg": 0.4217,
+        "youtube": 0.0111,
+        "content_assembly": 0.4384,
+        "monetization": 0.0624,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_secrecy_strange_debr_185e55",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 121.0609,
+      "phases": {
+        "preparation": 119.7755,
+        "media_svg": 0.8117,
+        "youtube": 0.0122,
+        "content_assembly": 0.378,
+        "monetization": 0.0514,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_rubber_balloon_fragm_034d67",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 173.3256,
+      "phases": {
+        "preparation": 171.7823,
+        "media_svg": 0.9789,
+        "youtube": 0.0222,
+        "content_assembly": 0.4394,
+        "monetization": 0.0639,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_historians_rank_evid_fbf81d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 170.8693,
+      "phases": {
+        "preparation": 168.3522,
+        "media_svg": 0.8054,
+        "youtube": 1.2121,
+        "content_assembly": 0.3851,
+        "monetization": 0.0793,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_marcel_debris_photos_4ac40b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 178.236,
+      "phases": {
+        "preparation": 176.8662,
+        "media_svg": 0.856,
+        "youtube": 0.0153,
+        "content_assembly": 0.3946,
+        "monetization": 0.0671,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 155.7083,
+      "phases": {
+        "preparation": 154.3763,
+        "media_svg": 0.8238,
+        "youtube": 0.0154,
+        "content_assembly": 0.3882,
+        "monetization": 0.0701,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_press_reversal_evide_17b525",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 163.9968,
+      "phases": {
+        "preparation": 162.6607,
+        "media_svg": 0.8479,
+        "youtube": 0.0131,
+        "content_assembly": 0.3849,
+        "monetization": 0.0539,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_witness_contradictio_2ae827",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 163.4409,
+      "phases": {
+        "preparation": 162.1639,
+        "media_svg": 0.7823,
+        "youtube": 0.013,
+        "content_assembly": 0.3814,
+        "monetization": 0.0669,
+        "quality_write": 0.0334
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 2,
+    "workers_raw": "auto",
+    "max_workers": 2,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 209,
+    "reused_pages": 2,
+    "rebuilt_pages": 209,
+    "error_pages": 0,
+    "page_work_wall_seconds": 18424.5184,
+    "rebuilt_pages_per_minute": 0.6806,
+    "queued_rebuild_pages_per_minute": 0.6806,
+    "apparent_page_work_speedup": 1.9936,
+    "process_worker_diagnostics": {
+      "completed_pages": 209,
+      "successful_pages": 209,
+      "failed_pages": 0,
+      "worker_summary": {
+        "2332": {
+          "pages": 104,
+          "successes": 104,
+          "failures": 0,
+          "total_worker_seconds": 18418.9175,
+          "max_worker_seconds": 348.8547,
+          "last_base_name": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_witness_contradictio_2ae827"
+        },
+        "25300": {
+          "pages": 105,
+          "successes": 105,
+          "failures": 0,
+          "total_worker_seconds": 18321.0598,
+          "max_worker_seconds": 382.4442,
+          "last_base_name": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_press_reversal_evide_17b525"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42",
+          "level": 2,
+          "success": true,
+          "worker_pid": 25300,
+          "worker_duration_seconds": 382.4442,
+          "total_seconds": 382.4,
+          "worker_started_at_utc": "2026-06-20T08:56:52.689446Z",
+          "worker_finished_at_utc": "2026-06-20T09:03:15.089469Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056",
+          "level": 2,
+          "success": true,
+          "worker_pid": 2332,
+          "worker_duration_seconds": 348.8547,
+          "total_seconds": 348.8094,
+          "worker_started_at_utc": "2026-06-20T09:11:27.568397Z",
+          "worker_finished_at_utc": "2026-06-20T09:17:16.377838Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Roswell_UFO_crash_f2c9c2",
+          "level": 1,
+          "success": true,
+          "worker_pid": 25300,
+          "worker_duration_seconds": 327.7353,
+          "total_seconds": 327.6909,
+          "worker_started_at_utc": "2026-06-20T08:47:24.488449Z",
+          "worker_finished_at_utc": "2026-06-20T08:52:52.179392Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+          "level": 2,
+          "success": true,
+          "worker_pid": 2332,
+          "worker_duration_seconds": 319.4888,
+          "total_seconds": 319.4441,
+          "worker_started_at_utc": "2026-06-20T08:50:17.999769Z",
+          "worker_finished_at_utc": "2026-06-20T08:55:37.443934Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d",
+          "level": 2,
+          "success": true,
+          "worker_pid": 2332,
+          "worker_duration_seconds": 312.0959,
+          "total_seconds": 312.0523,
+          "worker_started_at_utc": "2026-06-20T09:17:16.424583Z",
+          "worker_finished_at_utc": "2026-06-20T09:22:28.476976Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_newspapers_primed_fo_0f88d3",
+          "level": 3,
+          "success": true,
+          "worker_pid": 25300,
+          "worker_duration_seconds": 306.7292,
+          "total_seconds": 306.6799,
+          "worker_started_at_utc": "2026-06-20T10:49:28.062487Z",
+          "worker_finished_at_utc": "2026-06-20T10:54:34.742377Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2",
+          "level": 2,
+          "success": true,
+          "worker_pid": 25300,
+          "worker_duration_seconds": 306.7141,
+          "total_seconds": 306.6745,
+          "worker_started_at_utc": "2026-06-20T09:35:20.440213Z",
+          "worker_finished_at_utc": "2026-06-20T09:40:27.114742Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_late_body_claims_ae2f60",
+          "level": 3,
+          "success": true,
+          "worker_pid": 25300,
+          "worker_duration_seconds": 263.5465,
+          "total_seconds": 263.5077,
+          "worker_started_at_utc": "2026-06-20T10:45:04.514510Z",
+          "worker_finished_at_utc": "2026-06-20T10:49:28.022202Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a",
+          "level": 2,
+          "success": true,
+          "worker_pid": 2332,
+          "worker_duration_seconds": 261.3521,
+          "total_seconds": 261.3117,
+          "worker_started_at_utc": "2026-06-20T09:34:00.779952Z",
+          "worker_finished_at_utc": "2026-06-20T09:38:22.091722Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d",
+          "level": 2,
+          "success": true,
+          "worker_pid": 2332,
+          "worker_duration_seconds": 258.7474,
+          "total_seconds": 258.7028,
+          "worker_started_at_utc": "2026-06-20T09:07:08.819636Z",
+          "worker_finished_at_utc": "2026-06-20T09:11:27.522471Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}
