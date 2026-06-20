@@ -166,6 +166,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+header:
+  og_image: /assets/images/Roswell_UFO_crash_f2c9c2-overview-social.jpg
+  preview_image: /assets/images/Roswell_UFO_crash_f2c9c2-overview-social.jpg
+image: /assets/images/Roswell_UFO_crash_f2c9c2-overview-social.jpg
 site_image_description: A windswept New Mexico ranch field with scattered metallic-looking debris, a distant military truck, and open desert hills under...
 ---
 
