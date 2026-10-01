@@ -266,6 +266,7 @@ next_link:
   short_title: Fort Worth
   heading_title: The Photo Op That Reframed Roswell
 date: '2026-06-20 13:24:04 '
+last_modified_at: '2026-06-20 13:24:04 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_official_retractions_a2facc_first_press_release_a520da-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_official_retractions_a2facc_first_press_release_a520da-Illustration-1.webp

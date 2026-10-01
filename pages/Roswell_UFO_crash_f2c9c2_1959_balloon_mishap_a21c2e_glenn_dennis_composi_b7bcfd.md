@@ -272,6 +272,7 @@ next_link:
   short_title: Fulgham Injury
   heading_title: Could an Injured Airman Look Like an Alien?
 date: '2026-06-20 13:17:07 '
+last_modified_at: '2026-06-20 13:17:07 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd-Illustration-1.webp

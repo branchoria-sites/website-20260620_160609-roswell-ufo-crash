@@ -266,6 +266,7 @@ prev_link:
   short_title: Hospital Trail
   heading_title: Inside the Walker AFB Body Identification Trail
 date: '2026-06-20 12:20:50 '
+last_modified_at: '2026-06-20 12:20:50 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_composite_memory_tim_a87c8f-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_composite_memory_tim_a87c8f-Illustration-1.webp

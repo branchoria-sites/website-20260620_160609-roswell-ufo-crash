@@ -266,6 +266,7 @@ prev_link:
   short_title: Hospital Dates
   heading_title: Can Roswell Witnesses Misplace Twelve Years?
 date: '2026-06-20 13:17:19 '
+last_modified_at: '2026-06-20 13:17:19 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_kittinger_red_haired_50d9bd-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_kittinger_red_haired_50d9bd-Illustration-1.webp

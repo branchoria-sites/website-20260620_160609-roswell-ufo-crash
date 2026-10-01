@@ -272,6 +272,7 @@ next_link:
   short_title: One Day Shift
   heading_title: How the Story Changed Overnight
 date: '2026-06-20 14:28:35 '
+last_modified_at: '2026-06-20 14:28:35 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_no_bodies_original_r_ede7ec-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_no_bodies_original_r_ede7ec-Illustration-1.webp

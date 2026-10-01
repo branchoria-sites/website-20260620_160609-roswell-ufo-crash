@@ -440,6 +440,7 @@ next_link:
   short_title: Media
   heading_title: How Media Turned Roswell Into Legend
 date: '2026-06-20 10:04:54 '
+last_modified_at: '2026-06-20 10:04:54 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f-overview.webp

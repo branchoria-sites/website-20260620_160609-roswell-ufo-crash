@@ -272,6 +272,7 @@ next_link:
   short_title: Memory Gap
   heading_title: Can Marcel's Late Memory Carry the Case?
 date: '2026-06-20 12:16:50 '
+last_modified_at: '2026-06-20 12:16:50 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_jr_kitchen_de_551554-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_jr_kitchen_de_551554-Illustration-1.webp

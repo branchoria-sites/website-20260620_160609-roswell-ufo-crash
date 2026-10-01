@@ -272,6 +272,7 @@ next_link:
   short_title: Dummy Drops
   heading_title: Could Dummy Recoveries Become Alien Bodies?
 date: '2026-06-20 13:09:45 '
+last_modified_at: '2026-06-20 13:09:45 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_balloon_mishap_body_d761d5-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_balloon_mishap_body_d761d5-Illustration-1.webp

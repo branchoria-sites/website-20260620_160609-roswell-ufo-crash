@@ -272,6 +272,7 @@ next_link:
   short_title: Photo Dispute
   heading_title: Were the Fort Worth Photos the Real Debris?
 date: '2026-06-20 12:17:44 '
+last_modified_at: '2026-06-20 12:17:44 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_mogul_vs_marcel_debr_448f87-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_mogul_vs_marcel_debr_448f87-Illustration-1.webp

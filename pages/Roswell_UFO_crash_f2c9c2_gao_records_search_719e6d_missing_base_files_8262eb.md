@@ -272,6 +272,7 @@ next_link:
   short_title: Mogul Link
   heading_title: How GAO Led Back to Project Mogul
 date: '2026-06-20 11:34:45 '
+last_modified_at: '2026-06-20 11:34:45 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_missing_base_files_8262eb-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_missing_base_files_8262eb-Illustration-1.webp

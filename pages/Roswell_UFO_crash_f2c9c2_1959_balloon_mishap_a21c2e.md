@@ -434,6 +434,7 @@ next_link:
   short_title: Air Force
   heading_title: What the Air Force Said Was Case Closed
 date: '2026-06-20 10:19:08 '
+last_modified_at: '2026-06-20 10:19:08 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e-overview.webp

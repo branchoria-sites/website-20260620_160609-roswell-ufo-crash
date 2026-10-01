@@ -272,6 +272,7 @@ next_link:
   short_title: Late Memory
   heading_title: How Reliable Was Cavitt's Late Memory?
 date: '2026-06-20 13:34:42 '
+last_modified_at: '2026-06-20 13:34:42 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_debris_claim_4abddb-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_debris_claim_4abddb-Illustration-1.webp

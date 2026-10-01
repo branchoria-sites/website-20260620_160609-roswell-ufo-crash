@@ -440,6 +440,7 @@ next_link:
   short_title: Announcement
   heading_title: Why the Flying Saucer Press Release Endured
 date: '2026-06-20 10:03:14 '
+last_modified_at: '2026-06-20 10:03:14 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42-overview.webp

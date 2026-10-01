@@ -440,6 +440,7 @@ next_link:
   short_title: Flight 4
   heading_title: Did Mogul Flight 4 Land Near Roswell?
 date: '2026-06-20 10:22:40 '
+last_modified_at: '2026-06-20 10:22:40 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-overview.webp

@@ -440,6 +440,7 @@ next_link:
   short_title: Saucer Craze
   heading_title: Why 1947 Was Ready for Roswell
 date: '2026-06-20 10:34:00 '
+last_modified_at: '2026-06-20 10:34:00 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_official_retractions_a2facc-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_official_retractions_a2facc-overview.webp

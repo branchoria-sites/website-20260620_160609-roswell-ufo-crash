@@ -272,6 +272,7 @@ next_link:
   short_title: Mixed Crowds
   heading_title: Why Believers and Sceptics Both Visit
 date: '2026-06-20 11:14:24 '
+last_modified_at: '2026-06-20 11:14:24 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_ufo_festival_economi_f4fd73-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_ufo_festival_economi_f4fd73-Illustration-1.webp

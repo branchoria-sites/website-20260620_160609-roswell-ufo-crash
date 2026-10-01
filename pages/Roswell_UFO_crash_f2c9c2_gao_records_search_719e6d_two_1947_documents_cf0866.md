@@ -266,6 +266,7 @@ next_link:
   short_title: Crash Rules
   heading_title: Should Roswell Have Had a Crash Report?
 date: '2026-06-20 11:36:32 '
+last_modified_at: '2026-06-20 11:36:32 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_two_1947_documents_cf0866-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_two_1947_documents_cf0866-Illustration-1.webp

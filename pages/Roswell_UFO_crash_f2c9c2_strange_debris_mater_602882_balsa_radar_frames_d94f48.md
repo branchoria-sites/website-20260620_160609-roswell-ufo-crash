@@ -272,6 +272,7 @@ next_link:
   short_title: Foil scraps
   heading_title: Why Did the Roswell Foil Seem So Strange?
 date: '2026-06-20 13:07:57 '
+last_modified_at: '2026-06-20 13:07:57 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_balsa_radar_frames_d94f48-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_balsa_radar_frames_d94f48-Illustration-1.webp

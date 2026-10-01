@@ -272,6 +272,7 @@ next_link:
   short_title: Ramey Photos
   heading_title: Do the Ramey Photos Fit Mogul Debris?
 date: '2026-06-20 13:50:39 '
+last_modified_at: '2026-06-20 13:50:39 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2-Illustration-1.webp

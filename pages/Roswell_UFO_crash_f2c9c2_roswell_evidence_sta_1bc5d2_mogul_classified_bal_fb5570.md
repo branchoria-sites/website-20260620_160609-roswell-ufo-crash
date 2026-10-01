@@ -272,6 +272,7 @@ next_link:
   short_title: Wilmot Sighting
   heading_title: Should the Wilmot Sighting Be Kept Separate?
 date: '2026-06-20 14:30:17 '
+last_modified_at: '2026-06-20 14:30:17 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_mogul_classified_bal_fb5570-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_mogul_classified_bal_fb5570-Illustration-1.webp

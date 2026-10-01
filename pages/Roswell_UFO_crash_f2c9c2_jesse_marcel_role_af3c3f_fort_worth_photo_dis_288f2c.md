@@ -266,6 +266,7 @@ prev_link:
   short_title: Mogul Match
   heading_title: Could Mogul Explain What Marcel Saw?
 date: '2026-06-20 12:14:20 '
+last_modified_at: '2026-06-20 12:14:20 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_fort_worth_photo_dis_288f2c-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_fort_worth_photo_dis_288f2c-Illustration-1.webp

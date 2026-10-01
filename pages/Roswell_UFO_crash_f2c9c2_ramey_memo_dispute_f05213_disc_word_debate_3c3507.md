@@ -266,6 +266,7 @@ next_link:
   short_title: Enhancement Risk
   heading_title: When Enhancement Makes the Memo Too Clear
 date: '2026-06-20 11:05:06 '
+last_modified_at: '2026-06-20 11:05:06 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_disc_word_debate_3c3507-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_disc_word_debate_3c3507-Illustration-1.webp

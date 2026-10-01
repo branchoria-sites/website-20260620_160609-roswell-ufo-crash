@@ -272,6 +272,7 @@ next_link:
   short_title: Merged Memories
   heading_title: How Later Trauma Could Merge With Roswell Legend
 date: '2026-06-20 12:24:10 '
+last_modified_at: '2026-06-20 12:24:10 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46-Illustration-1.webp

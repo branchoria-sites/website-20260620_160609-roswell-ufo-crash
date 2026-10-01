@@ -266,6 +266,7 @@ next_link:
   short_title: Alien Autopsy
   heading_title: The Image That Changed Roswell Forever
 date: '2026-06-20 13:00:23 '
+last_modified_at: '2026-06-20 13:00:23 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_roswell_incident_blu_801f27-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_roswell_incident_blu_801f27-Illustration-1.webp

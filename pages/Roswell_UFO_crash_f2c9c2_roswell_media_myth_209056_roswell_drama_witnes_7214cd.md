@@ -272,6 +272,7 @@ next_link:
   short_title: Marcel Revival
   heading_title: Why Jesse Marcel Restarted the Roswell Story
 date: '2026-06-20 12:59:45 '
+last_modified_at: '2026-06-20 12:59:45 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_roswell_drama_witnes_7214cd-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_roswell_drama_witnes_7214cd-Illustration-1.webp

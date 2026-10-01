@@ -272,6 +272,7 @@ next_link:
   short_title: Crash Template
   heading_title: How Roswell Defined the UFO Cover Up Story
 date: '2026-06-20 11:10:26 '
+last_modified_at: '2026-06-20 11:10:26 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3-Illustration-1.webp

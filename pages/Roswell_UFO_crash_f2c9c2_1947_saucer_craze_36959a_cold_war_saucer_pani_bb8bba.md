@@ -272,6 +272,7 @@ next_link:
   short_title: Daily Record
   heading_title: How One Roswell Page Joined Two Mysteries
 date: '2026-06-20 11:48:29 '
+last_modified_at: '2026-06-20 11:48:29 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_cold_war_saucer_pani_bb8bba-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_cold_war_saucer_pani_bb8bba-Illustration-1.webp

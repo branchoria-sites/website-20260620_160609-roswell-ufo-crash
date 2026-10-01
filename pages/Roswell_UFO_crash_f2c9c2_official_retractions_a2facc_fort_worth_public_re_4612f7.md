@@ -272,6 +272,7 @@ next_link:
   short_title: Half Truth
   heading_title: When a Correction Becomes the Problem
 date: '2026-06-20 14:01:23 '
+last_modified_at: '2026-06-20 14:01:23 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_official_retractions_a2facc_fort_worth_public_re_4612f7-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_official_retractions_a2facc_fort_worth_public_re_4612f7-Illustration-1.webp

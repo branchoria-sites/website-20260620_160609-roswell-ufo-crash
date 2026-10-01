@@ -272,6 +272,7 @@ next_link:
   short_title: Official Reports
   heading_title: Why Debunking Did Not End Roswell
 date: '2026-06-20 13:32:34 '
+last_modified_at: '2026-06-20 13:32:34 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_jesse_marcel_revival_8dec97-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_jesse_marcel_revival_8dec97-Illustration-1.webp

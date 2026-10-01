@@ -272,6 +272,7 @@ next_link:
   short_title: Flying Disc
   heading_title: Why One Press Release Changed Roswell Forever
 date: '2026-06-20 12:44:06 '
+last_modified_at: '2026-06-20 12:44:06 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_ufo_crash_template_41397a-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_ufo_crash_template_41397a-Illustration-1.webp

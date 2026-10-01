@@ -272,6 +272,7 @@ next_link:
   short_title: Saucer Words
   heading_title: How One Headline Shaped the Myth
 date: '2026-06-20 14:25:24 '
+last_modified_at: '2026-06-20 14:25:24 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_july8_july9_timeline_4016a5-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_july8_july9_timeline_4016a5-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: UFO Museum
   heading_title: Why Roswell's UFO Museum Became the Anchor
 date: '2026-06-20 11:13:24 '
+last_modified_at: '2026-06-20 11:13:24 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_portable_alien_brand_924fba-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_portable_alien_brand_924fba-Illustration-1.webp

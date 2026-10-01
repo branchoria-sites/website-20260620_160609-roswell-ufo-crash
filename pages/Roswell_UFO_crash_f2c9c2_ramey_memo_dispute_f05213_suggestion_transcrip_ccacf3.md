@@ -272,6 +272,7 @@ next_link:
   short_title: Transcript Test
   heading_title: How Should a Ramey Transcript Be Tested?
 date: '2026-06-20 12:53:26 '
+last_modified_at: '2026-06-20 12:53:26 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_suggestion_transcrip_ccacf3-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_suggestion_transcrip_ccacf3-Illustration-1.webp

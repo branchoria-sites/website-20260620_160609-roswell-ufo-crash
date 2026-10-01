@@ -271,6 +271,7 @@ next_link:
   short_title: Evidence Gap
   heading_title: What Evidence Supports Mogul Over Alien Claims?
 date: '2026-06-20 03:34:58 '
+last_modified_at: '2026-06-20 03:34:58 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2-Illustration-1.webp

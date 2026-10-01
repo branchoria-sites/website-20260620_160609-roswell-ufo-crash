@@ -266,6 +266,7 @@ next_link:
   short_title: Debris Trail
   heading_title: How Solid Is Marcel's Debris Trail?
 date: '2026-06-20 12:15:09 '
+last_modified_at: '2026-06-20 12:15:09 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_credibility_t_0ed9a8-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_credibility_t_0ed9a8-Illustration-1.webp

@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-20 03:23:06'
+last_modified_at: '2026-06-20 03:23:06'
 parent_title: Was Project Mogul the Real Roswell Object?
 parent_permalink: /mogul/
 parent_nav_short_title: Mogul

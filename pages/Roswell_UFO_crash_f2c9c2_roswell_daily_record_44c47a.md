@@ -440,6 +440,7 @@ next_link:
   short_title: Places
   heading_title: Where Did the Roswell Story Actually Unfold?
 date: '2026-06-20 10:38:21 '
+last_modified_at: '2026-06-20 10:38:21 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a-overview.webp

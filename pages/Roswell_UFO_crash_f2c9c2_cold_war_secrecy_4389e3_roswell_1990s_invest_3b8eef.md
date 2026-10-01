@@ -266,6 +266,7 @@ next_link:
   short_title: Cover Story
   heading_title: Why the Weather Balloon Explanation Sounded Plausible
 date: '2026-06-20 11:32:21 '
+last_modified_at: '2026-06-20 11:32:21 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_roswell_1990s_invest_3b8eef-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_roswell_1990s_invest_3b8eef-Illustration-1.webp

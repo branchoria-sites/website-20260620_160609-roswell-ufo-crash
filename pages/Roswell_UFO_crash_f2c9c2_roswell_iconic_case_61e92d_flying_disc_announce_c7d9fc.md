@@ -272,6 +272,7 @@ next_link:
   short_title: Marcel Revival
   heading_title: How Jesse Marcel Brought Roswell Back
 date: '2026-06-20 13:32:42 '
+last_modified_at: '2026-06-20 13:32:42 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_flying_disc_announce_c7d9fc-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_flying_disc_announce_c7d9fc-Illustration-1.webp
