@@ -272,6 +272,7 @@ next_link:
   short_title: Marcel Debris
   heading_title: Did the Photos Undercut Marcel's Story?
 date: '2026-06-20 14:49:06 '
+last_modified_at: '2026-06-20 14:49:06 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_historians_rank_evid_fbf81d-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_historians_rank_evid_fbf81d-Illustration-1.webp

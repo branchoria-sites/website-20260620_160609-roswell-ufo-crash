@@ -272,6 +272,7 @@ next_link:
   short_title: Photo Proof
   heading_title: What Does the Ramey Photo Really Prove?
 date: '2026-06-20 11:07:22 '
+last_modified_at: '2026-06-20 11:07:22 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_enhancement_risk_250f19-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_enhancement_risk_250f19-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Tape Symbols
   heading_title: Were Roswell's Hieroglyphics Really Decorative Tape?
 date: '2026-06-20 12:09:16 '
+last_modified_at: '2026-06-20 12:09:16 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd-Illustration-1.webp

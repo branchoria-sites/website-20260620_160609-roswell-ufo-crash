@@ -272,6 +272,7 @@ next_link:
   short_title: Radar Target
   heading_title: Did Radar Target Parts Fit Cavitt's Story?
 date: '2026-06-20 14:35:48 '
+last_modified_at: '2026-06-20 14:35:48 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_memory_reliab_725731-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_memory_reliab_725731-Illustration-1.webp

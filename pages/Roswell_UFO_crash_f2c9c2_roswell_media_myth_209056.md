@@ -440,6 +440,7 @@ next_link:
   short_title: Mogul
   heading_title: Was Project Mogul the Real Roswell Object?
 date: '2026-06-20 10:17:15 '
+last_modified_at: '2026-06-20 10:17:15 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056-overview.webp

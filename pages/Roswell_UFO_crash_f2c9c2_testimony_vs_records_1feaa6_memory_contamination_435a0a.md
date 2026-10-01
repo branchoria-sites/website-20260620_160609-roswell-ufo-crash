@@ -272,6 +272,7 @@ next_link:
   short_title: Press Reversal
   heading_title: What Does the Press Reversal Prove?
 date: '2026-06-20 14:51:42 '
+last_modified_at: '2026-06-20 14:51:42 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a-Illustration-1.webp

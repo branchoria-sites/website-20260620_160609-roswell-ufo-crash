@@ -272,6 +272,7 @@ next_link:
   short_title: Witness Count
   heading_title: Do More Roswell Witnesses Mean Stronger Evidence?
 date: '2026-06-20 13:07:49 '
+last_modified_at: '2026-06-20 13:07:49 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2-Illustration-1.webp

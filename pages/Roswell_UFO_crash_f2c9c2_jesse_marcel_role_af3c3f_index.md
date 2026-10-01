@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-jesse-marcel/
 description: Focused pages that expand on Marcel.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f
 parent_title: Marcel

@@ -272,6 +272,7 @@ next_link:
   short_title: Glenn Dennis
   heading_title: Why the coffin call story still divides readers
 date: '2026-06-20 12:05:42 '
+last_modified_at: '2026-06-20 12:05:42 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Rubber strips
   heading_title: Why Was Roswell Debris Spread So Widely?
 date: '2026-06-20 13:40:16 '
+last_modified_at: '2026-06-20 13:40:16 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_roswell_foil_scraps_e7ae12-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_roswell_foil_scraps_e7ae12-Illustration-1.webp

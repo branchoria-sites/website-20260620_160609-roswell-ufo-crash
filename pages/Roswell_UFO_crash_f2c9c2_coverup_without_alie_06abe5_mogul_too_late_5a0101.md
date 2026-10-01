@@ -272,6 +272,7 @@ next_link:
   short_title: Weather Story
   heading_title: How the Weather Balloon Story Misled
 date: '2026-06-20 10:58:18 '
+last_modified_at: '2026-06-20 10:58:18 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_too_late_5a0101-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_too_late_5a0101-Illustration-1.webp

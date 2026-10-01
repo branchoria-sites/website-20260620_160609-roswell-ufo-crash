@@ -266,6 +266,7 @@ prev_link:
   short_title: Project Mogul
   heading_title: Why the Balloon Story Was Not So Simple
 date: '2026-06-20 14:32:36 '
+last_modified_at: '2026-06-20 14:32:36 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_wilmot_sighting_sepa_0972e2-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_wilmot_sighting_sepa_0972e2-Illustration-1.webp

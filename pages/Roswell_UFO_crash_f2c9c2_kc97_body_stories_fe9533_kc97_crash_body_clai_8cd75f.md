@@ -272,6 +272,7 @@ next_link:
   short_title: Dennis Claim
   heading_title: Did Glenn Dennis Remember the Wrong Disaster?
 date: '2026-06-20 12:23:30 '
+last_modified_at: '2026-06-20 12:23:30 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_kc97_crash_body_clai_8cd75f-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_kc97_crash_body_clai_8cd75f-Illustration-1.webp

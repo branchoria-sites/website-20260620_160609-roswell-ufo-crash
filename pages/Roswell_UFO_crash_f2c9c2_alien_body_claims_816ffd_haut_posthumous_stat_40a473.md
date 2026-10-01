@@ -272,6 +272,7 @@ next_link:
   short_title: Proof Standard
   heading_title: Why bodies demand more proof than debris
 date: '2026-06-20 12:09:04 '
+last_modified_at: '2026-06-20 12:09:04 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_haut_posthumous_stat_40a473-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_haut_posthumous_stat_40a473-Illustration-1.webp

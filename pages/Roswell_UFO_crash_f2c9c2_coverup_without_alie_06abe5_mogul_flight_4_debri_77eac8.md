@@ -266,6 +266,7 @@ next_link:
   short_title: Mogul Secrecy
   heading_title: Why Mogul Made Roswell Worth Hiding
 date: '2026-06-20 13:53:35 '
+last_modified_at: '2026-06-20 13:53:35 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_flight_4_debri_77eac8-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_flight_4_debri_77eac8-Illustration-1.webp

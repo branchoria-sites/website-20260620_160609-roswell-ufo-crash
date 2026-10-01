@@ -266,6 +266,7 @@ next_link:
   short_title: Black Box
   heading_title: Was Cavitt's Black Box a Balloon Instrument?
 date: '2026-06-20 14:33:12 '
+last_modified_at: '2026-06-20 14:33:12 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac-Illustration-1.webp

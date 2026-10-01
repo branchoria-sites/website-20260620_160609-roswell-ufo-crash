@@ -272,6 +272,7 @@ next_link:
   short_title: Dummy Drops
   heading_title: Were later accidents remembered as aliens?
 date: '2026-06-20 12:03:07 '
+last_modified_at: '2026-06-20 12:03:07 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_barnett_body_story_m_3c8918-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_barnett_body_story_m_3c8918-Illustration-1.webp

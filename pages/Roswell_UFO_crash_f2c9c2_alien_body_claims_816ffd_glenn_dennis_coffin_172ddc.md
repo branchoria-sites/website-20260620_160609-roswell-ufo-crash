@@ -272,6 +272,7 @@ next_link:
   short_title: Haut Statement
   heading_title: Can a posthumous statement carry Roswell?
 date: '2026-06-20 11:25:27 '
+last_modified_at: '2026-06-20 11:25:27 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_glenn_dennis_coffin_172ddc-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_glenn_dennis_coffin_172ddc-Illustration-1.webp

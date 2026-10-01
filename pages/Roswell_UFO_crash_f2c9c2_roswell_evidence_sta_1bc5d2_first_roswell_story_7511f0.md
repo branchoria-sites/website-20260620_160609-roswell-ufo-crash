@@ -272,6 +272,7 @@ next_link:
   short_title: Later Claims
   heading_title: How to Read Roswell Witness Claims Carefully
 date: '2026-06-20 13:30:13 '
+last_modified_at: '2026-06-20 13:30:13 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_first_roswell_story_7511f0-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_first_roswell_story_7511f0-Illustration-1.webp

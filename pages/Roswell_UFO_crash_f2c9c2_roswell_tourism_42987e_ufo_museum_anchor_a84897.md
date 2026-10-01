@@ -266,6 +266,7 @@ prev_link:
   short_title: Souvenirs
   heading_title: Why Roswell Souvenirs Work So Well
 date: '2026-06-20 10:50:33 '
+last_modified_at: '2026-06-20 10:50:33 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_ufo_museum_anchor_a84897-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_ufo_museum_anchor_a84897-Illustration-1.webp

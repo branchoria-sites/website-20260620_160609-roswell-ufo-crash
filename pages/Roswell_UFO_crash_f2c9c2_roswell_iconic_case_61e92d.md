@@ -440,6 +440,7 @@ next_link:
   short_title: Marcel
   heading_title: Why Jesse Marcel Became Roswell's Key Witness
 date: '2026-06-20 10:22:27 '
+last_modified_at: '2026-06-20 10:22:27 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d-overview.webp

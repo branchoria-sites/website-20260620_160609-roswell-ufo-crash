@@ -266,6 +266,7 @@ prev_link:
   short_title: Walter Haut
   heading_title: How Much Did Walter Haut Know?
 date: '2026-06-20 13:05:19 '
+last_modified_at: '2026-06-20 13:05:19 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_cumulative_witnesses_938db4-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_cumulative_witnesses_938db4-Illustration-1.webp

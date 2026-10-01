@@ -272,6 +272,7 @@ next_link:
   short_title: Red Haired Officer
   heading_title: Who Was Roswell's Red Haired Captain?
 date: '2026-06-20 13:19:12 '
+last_modified_at: '2026-06-20 13:19:12 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_walker_hospital_memo_76f3eb-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_walker_hospital_memo_76f3eb-Illustration-1.webp

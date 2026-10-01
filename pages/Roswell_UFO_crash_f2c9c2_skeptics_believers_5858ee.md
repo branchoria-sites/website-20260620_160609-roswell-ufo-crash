@@ -434,6 +434,7 @@ prev_link:
   short_title: Tourism
   heading_title: How Roswell Became an Alien Tourism Town
 date: '2026-06-20 10:15:59 '
+last_modified_at: '2026-06-20 10:15:59 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee-overview.webp

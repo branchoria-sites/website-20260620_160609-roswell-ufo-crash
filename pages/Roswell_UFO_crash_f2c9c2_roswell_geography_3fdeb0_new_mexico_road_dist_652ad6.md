@@ -272,6 +272,7 @@ next_link:
   short_title: Test Range
   heading_title: Why New Mexico Was Built for Secrets
 date: '2026-06-20 12:37:28 '
+last_modified_at: '2026-06-20 12:37:28 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6-Illustration-1.webp

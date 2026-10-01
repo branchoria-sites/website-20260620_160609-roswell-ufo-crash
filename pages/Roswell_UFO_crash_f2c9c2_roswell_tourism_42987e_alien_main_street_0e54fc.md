@@ -266,6 +266,7 @@ next_link:
   short_title: Festival Boom
   heading_title: How the UFO Festival Pays Off
 date: '2026-06-20 10:46:47 '
+last_modified_at: '2026-06-20 10:46:47 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_alien_main_street_0e54fc-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_alien_main_street_0e54fc-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Barnett Story
   heading_title: Did the Barnett story move Roswell?
 date: '2026-06-20 12:02:31 '
+last_modified_at: '2026-06-20 12:02:31 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_1947_records_body_ga_11554a-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_1947_records_body_ga_11554a-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-project-mogul/
 description: Focused pages that expand on Mogul.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2
 parent_title: Mogul

@@ -272,6 +272,7 @@ next_link:
   short_title: Mogul Test
   heading_title: Why Mogul Became the Sceptics' Anchor
 date: '2026-06-20 13:05:43 '
+last_modified_at: '2026-06-20 13:05:43 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_early_debris_later_c_a637ae-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_early_debris_later_c_a637ae-Illustration-1.webp

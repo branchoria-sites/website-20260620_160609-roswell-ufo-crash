@@ -266,6 +266,7 @@ next_link:
   short_title: Balsa frames
   heading_title: Why Were There Sticks in the Roswell Debris?
 date: '2026-06-20 13:37:58 '
+last_modified_at: '2026-06-20 13:37:58 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_mogul_balloon_train_7aac08-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_mogul_balloon_train_7aac08-Illustration-1.webp
