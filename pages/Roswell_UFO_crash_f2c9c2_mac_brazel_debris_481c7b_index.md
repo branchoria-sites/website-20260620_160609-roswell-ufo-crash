@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-mac-brazel/
 description: Focused pages that expand on Brazel.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b
 parent_title: Brazel
