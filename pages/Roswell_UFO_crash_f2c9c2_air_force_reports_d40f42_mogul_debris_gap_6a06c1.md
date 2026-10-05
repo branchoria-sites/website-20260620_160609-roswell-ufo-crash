@@ -272,6 +272,7 @@ next_link:
   short_title: Why Reopened
   heading_title: Why Roswell Became an Official Records Case
 date: '2026-06-20 10:49:34 '
+last_modified_at: '2026-06-20 10:49:34 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Fort Worth
   heading_title: Why the Famous Photos Were Taken in Texas
 date: '2026-06-20 11:41:56 '
+last_modified_at: '2026-06-20 11:41:56 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_corona_debris_field_8007ba-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_corona_debris_field_8007ba-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: KC 97 Crash
   heading_title: The Real Crash Behind Some Body Stories
 date: '2026-06-20 13:41:16 '
+last_modified_at: '2026-06-20 13:41:16 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_dummy_recovery_evide_74365f-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_dummy_recovery_evide_74365f-Illustration-1.webp

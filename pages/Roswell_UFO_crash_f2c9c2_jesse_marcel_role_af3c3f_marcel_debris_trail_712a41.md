@@ -272,6 +272,7 @@ next_link:
   short_title: Family Account
   heading_title: What Did Marcel's Son Remember Seeing?
 date: '2026-06-20 11:37:20 '
+last_modified_at: '2026-06-20 11:37:20 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_debris_trail_712a41-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_debris_trail_712a41-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Cold War
   heading_title: Why Roswell Felt Believable in 1947
 date: '2026-06-20 12:42:04 '
+last_modified_at: '2026-06-20 12:42:04 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129-Illustration-1.webp

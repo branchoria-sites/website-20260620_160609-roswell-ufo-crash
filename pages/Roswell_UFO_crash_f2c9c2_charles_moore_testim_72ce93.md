@@ -440,6 +440,7 @@ next_link:
   short_title: Newspaper
   heading_title: What the First Roswell Newspaper Story Shows
 date: '2026-06-20 10:26:09 '
+last_modified_at: '2026-06-20 10:26:09 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93-overview.webp

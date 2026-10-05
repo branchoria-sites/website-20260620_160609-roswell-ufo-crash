@@ -272,6 +272,7 @@ next_link:
   short_title: RAAF Route
   heading_title: How Roswell Became the Name Everyone Knows
 date: '2026-06-20 12:34:39 '
+last_modified_at: '2026-06-20 12:34:39 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036-Illustration-1.webp

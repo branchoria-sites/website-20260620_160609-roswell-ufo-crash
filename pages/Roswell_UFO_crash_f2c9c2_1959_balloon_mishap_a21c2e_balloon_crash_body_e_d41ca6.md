@@ -272,6 +272,7 @@ next_link:
   short_title: Dennis Composite
   heading_title: Was Glenn Dennis Remembering More Than One Event?
 date: '2026-06-20 13:15:11 '
+last_modified_at: '2026-06-20 13:15:11 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6-Illustration-1.webp

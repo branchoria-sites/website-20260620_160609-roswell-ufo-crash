@@ -272,6 +272,7 @@ next_link:
   short_title: Press Hunger
   heading_title: Why Roswell Was Ready Made Newspaper Fuel
 date: '2026-06-20 11:52:21 '
+last_modified_at: '2026-06-20 11:52:21 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_daily_record_two_mys_807cd2-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_daily_record_two_mys_807cd2-Illustration-1.webp

@@ -440,6 +440,7 @@ next_link:
   short_title: Views
   heading_title: Why Skeptics and Believers Still Disagree
 date: '2026-06-20 09:55:33 '
+last_modified_at: '2026-06-20 09:55:33 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e-overview.webp

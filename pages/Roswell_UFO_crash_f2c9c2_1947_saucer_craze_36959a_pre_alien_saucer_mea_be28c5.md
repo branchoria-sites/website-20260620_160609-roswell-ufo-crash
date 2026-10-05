@@ -272,6 +272,7 @@ next_link:
   short_title: Speed Risk
   heading_title: Why Roswell Outran Its Own Verification
 date: '2026-06-20 11:55:42 '
+last_modified_at: '2026-06-20 11:55:42 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_pre_alien_saucer_mea_be28c5-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_pre_alien_saucer_mea_be28c5-Illustration-1.webp

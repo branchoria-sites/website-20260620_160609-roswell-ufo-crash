@@ -266,6 +266,7 @@ next_link:
   short_title: Missing Details
   heading_title: What the First Story Never Described
 date: '2026-06-20 14:23:03 '
+last_modified_at: '2026-06-20 14:23:03 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_brazel_july9_intervi_a10cef-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_brazel_july9_intervi_a10cef-Illustration-1.webp

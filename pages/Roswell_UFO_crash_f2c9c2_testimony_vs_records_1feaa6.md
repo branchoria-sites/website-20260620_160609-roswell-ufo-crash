@@ -440,6 +440,7 @@ next_link:
   short_title: Timeline
   heading_title: What Happened at Roswell in 1947?
 date: '2026-06-20 10:46:45 '
+last_modified_at: '2026-06-20 10:46:45 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6-overview.webp

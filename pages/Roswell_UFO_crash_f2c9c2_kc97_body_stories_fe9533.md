@@ -440,6 +440,7 @@ next_link:
   short_title: Legacy
   heading_title: Why Roswell Became the Iconic UFO Case
 date: '2026-06-20 10:06:25 '
+last_modified_at: '2026-06-20 10:06:25 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533-overview.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Record Gaps
   heading_title: Do Missing Mogul Records Weaken the Case?
 date: '2026-06-20 12:48:04 '
+last_modified_at: '2026-06-20 12:48:04 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd-Illustration-1.webp

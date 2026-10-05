@@ -266,6 +266,7 @@ next_link:
   short_title: Cold War Fear
   heading_title: Why Strange Skies Felt Plausible in 1947
 date: '2026-06-20 11:20:41 '
+last_modified_at: '2026-06-20 11:20:41 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_arnold_saucer_label_09908d-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_1947_saucer_craze_36959a_arnold_saucer_label_09908d-Illustration-1.webp

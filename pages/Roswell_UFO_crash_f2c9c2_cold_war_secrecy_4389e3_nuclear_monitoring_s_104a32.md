@@ -265,6 +265,7 @@ prev_link:
   short_title: Mogul Mission
   heading_title: What Was Project Mogul Really Trying to Find?
 date: '2026-06-20 03:35:34 '
+last_modified_at: '2026-06-20 03:35:34 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_nuclear_monitoring_s_104a32-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_nuclear_monitoring_s_104a32-Illustration-1.webp

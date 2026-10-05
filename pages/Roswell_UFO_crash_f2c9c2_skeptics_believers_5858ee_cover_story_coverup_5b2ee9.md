@@ -266,6 +266,7 @@ next_link:
   short_title: Debris Gap
   heading_title: Why the Earliest Debris Descriptions Matter
 date: '2026-06-20 12:45:09 '
+last_modified_at: '2026-06-20 12:45:09 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_cover_story_coverup_5b2ee9-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_cover_story_coverup_5b2ee9-Illustration-1.webp

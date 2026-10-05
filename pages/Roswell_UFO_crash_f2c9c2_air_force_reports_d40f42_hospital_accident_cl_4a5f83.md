@@ -266,6 +266,7 @@ next_link:
   short_title: Case Closed
   heading_title: Why Case Closed Did Not Close Roswell
 date: '2026-06-20 11:58:21 '
+last_modified_at: '2026-06-20 11:58:21 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_hospital_accident_cl_4a5f83-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_hospital_accident_cl_4a5f83-Illustration-1.webp

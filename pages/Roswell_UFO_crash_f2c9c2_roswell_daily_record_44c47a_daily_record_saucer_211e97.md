@@ -272,6 +272,7 @@ next_link:
   short_title: Wilmot Gap
   heading_title: Was the Wilmot Sighting Really Connected?
 date: '2026-06-20 13:26:40 '
+last_modified_at: '2026-06-20 13:26:40 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_daily_record_saucer_211e97-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_daily_record_44c47a_daily_record_saucer_211e97-Illustration-1.webp

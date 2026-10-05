@@ -272,6 +272,7 @@ next_link:
   short_title: Mogul Path
   heading_title: Could a Balloon From Alamogordo Reach Corona?
 date: '2026-06-20 12:35:01 '
+last_modified_at: '2026-06-20 12:35:01 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Cavitt vs Marcel
   heading_title: Why Did Cavitt and Marcel Remember Differently?
 date: '2026-06-20 11:42:00 '
+last_modified_at: '2026-06-20 11:42:00 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_black_box_74697f-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_black_box_74697f-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Drama Film
   heading_title: When Roswell Became a Character Drama
 date: '2026-06-20 12:57:03 '
+last_modified_at: '2026-06-20 12:57:03 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0-Illustration-1.webp

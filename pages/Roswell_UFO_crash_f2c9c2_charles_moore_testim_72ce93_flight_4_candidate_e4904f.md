@@ -266,6 +266,7 @@ next_link:
   short_title: Moore s Role
   heading_title: Why Moore Was Not Just Another Witness
 date: '2026-06-20 12:46:58 '
+last_modified_at: '2026-06-20 12:46:58 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_flight_4_candidate_e4904f-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_flight_4_candidate_e4904f-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Filtering Test
   heading_title: How Officials Picked the KC 97 Crash
 date: '2026-06-20 12:21:42 '
+last_modified_at: '2026-06-20 12:21:42 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_glenn_dennis_mortici_a63ad8-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_glenn_dennis_mortici_a63ad8-Illustration-1.webp

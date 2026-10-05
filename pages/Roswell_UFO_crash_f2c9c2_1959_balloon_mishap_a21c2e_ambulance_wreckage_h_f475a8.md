@@ -266,6 +266,7 @@ next_link:
   short_title: Crash Link
   heading_title: Did a 1959 Crash Feed Roswell Body Stories?
 date: '2026-06-20 13:12:47 '
+last_modified_at: '2026-06-20 13:12:47 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8-Illustration-1.webp

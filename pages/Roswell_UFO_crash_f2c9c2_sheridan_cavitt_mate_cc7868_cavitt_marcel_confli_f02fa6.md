@@ -272,6 +272,7 @@ next_link:
   short_title: Debris Claim
   heading_title: What Did Cavitt Say He Actually Saw?
 date: '2026-06-20 14:35:13 '
+last_modified_at: '2026-06-20 14:35:13 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_marcel_confli_f02fa6-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_marcel_confli_f02fa6-Illustration-1.webp

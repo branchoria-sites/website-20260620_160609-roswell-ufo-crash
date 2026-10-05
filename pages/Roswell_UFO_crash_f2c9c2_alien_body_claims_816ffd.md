@@ -440,6 +440,7 @@ next_link:
   short_title: Brazel
   heading_title: Why Mac Brazel's Debris Report Mattered
 date: '2026-06-20 10:02:31 '
+last_modified_at: '2026-06-20 10:02:31 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd-overview.webp

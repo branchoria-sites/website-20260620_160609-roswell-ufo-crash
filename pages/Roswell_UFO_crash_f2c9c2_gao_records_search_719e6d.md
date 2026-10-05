@@ -440,6 +440,7 @@ next_link:
   short_title: Retraction
   heading_title: When Does an Official Retraction Settle Anything?
 date: '2026-06-20 10:11:27 '
+last_modified_at: '2026-06-20 10:11:27 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d-overview-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d-overview.webp

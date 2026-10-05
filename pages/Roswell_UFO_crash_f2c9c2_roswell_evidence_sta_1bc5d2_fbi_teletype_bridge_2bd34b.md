@@ -272,6 +272,7 @@ next_link:
   short_title: First Story
   heading_title: What the First Roswell Story Really Proves
 date: '2026-06-20 13:29:29 '
+last_modified_at: '2026-06-20 13:29:29 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_fbi_teletype_bridge_2bd34b-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_fbi_teletype_bridge_2bd34b-Illustration-1.webp

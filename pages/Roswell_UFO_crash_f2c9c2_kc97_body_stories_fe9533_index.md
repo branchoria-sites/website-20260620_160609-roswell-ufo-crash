@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-kc97-body/
 description: Focused pages that expand on KC 97.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533
 parent_title: KC 97
