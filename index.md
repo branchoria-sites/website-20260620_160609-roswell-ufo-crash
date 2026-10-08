@@ -233,7 +233,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The Later Balloon Mishap Behind Some Claims | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-1959-balloon-mishap-a21c2e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ '1959-mishap/' | relative_url }}" title="The Later Balloon Mishap Behind Some Claims | Roswell UFO crash" aria-label="Read more about The Later Balloon Mishap Behind Some Claims | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1959-mishap/' | relative_url }}" title="The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?" aria-label="Read more about The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -253,7 +253,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hospital-dates/' | relative_url }}" title="Can Roswell Witnesses Misplace Twelve Years? | Roswell UFO crash f2 c9 c2 1959 balloon mishap" aria-label="Read more about Can Roswell Witnesses Misplace Twelve Years? | Roswell UFO crash f2 c9 c2 1959 balloon mishap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hospital-dates/' | relative_url }}" title="Can Roswell Witnesses Misplace Twelve Years? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?" aria-label="Read more about Can Roswell Witnesses Misplace Twelve Years? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -273,7 +273,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fulgham-injury/' | relative_url }}" title="Could an Injured Airman Look Like an Alien? | Roswell UFO crash f2 c9 c2 1959 balloon mishap" aria-label="Read more about Could an Injured Airman Look Like an Alien? | Roswell UFO crash f2 c9 c2 1959 balloon mishap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fulgham-injury/' | relative_url }}" title="Could an Injured Airman Look Like an Alien? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?" aria-label="Read more about Could an Injured Airman Look Like an Alien? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -293,7 +293,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-link-15167f/' | relative_url }}" title="Did a 1959 Crash Feed Roswell Body Stories? | Roswell UFO crash f2 c9 c2 1959 balloon mishap" aria-label="Read more about Did a 1959 Crash Feed Roswell Body Stories? | Roswell UFO crash f2 c9 c2 1959 balloon mishap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-link-15167f/' | relative_url }}" title="Did a 1959 Crash Feed Roswell Body Stories? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?" aria-label="Read more about Did a 1959 Crash Feed Roswell Body Stories? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -313,7 +313,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dennis-composite/' | relative_url }}" title="Was Glenn Dennis Remembering More Than One Event? | Roswell UFO crash f2 c9 c2 1959 balloon mishap" aria-label="Read more about Was Glenn Dennis Remembering More Than One Event? | Roswell UFO crash f2 c9 c2 1959 balloon mishap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dennis-composite/' | relative_url }}" title="Was Glenn Dennis Remembering More Than One Event? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?" aria-label="Read more about Was Glenn Dennis Remembering More Than One Event? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -333,7 +333,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ambulance-clues/' | relative_url }}" title="Were Roswell Hieroglyphics Inside an Ambulance? | Roswell UFO crash f2 c9 c2 1959 balloon mishap" aria-label="Read more about Were Roswell Hieroglyphics Inside an Ambulance? | Roswell UFO crash f2 c9 c2 1959 balloon mishap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ambulance-clues/' | relative_url }}" title="Were Roswell Hieroglyphics Inside an Ambulance? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?" aria-label="Read more about Were Roswell Hieroglyphics Inside an Ambulance? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -353,7 +353,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'red-haired-officer/' | relative_url }}" title="Who Was Roswell&#x27;s Red Haired Captain? | Roswell UFO crash f2 c9 c2 1959 balloon mishap" aria-label="Read more about Who Was Roswell&#x27;s Red Haired Captain? | Roswell UFO crash f2 c9 c2 1959 balloon mishap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'red-haired-officer/' | relative_url }}" title="Who Was Roswell's Red Haired Captain? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?" aria-label="Read more about Who Was Roswell's Red Haired Captain? | The Later Balloon Mishap Behind Some Claims | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -377,7 +377,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What the Air Force Said Was Case Closed | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-air-force-reports-d40f42"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-force/' | relative_url }}" title="What the Air Force Said Was Case Closed | Roswell UFO crash" aria-label="Read more about What the Air Force Said Was Case Closed | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-force/' | relative_url }}" title="What the Air Force Said Was Case Closed | What Really Fell Near Roswell?" aria-label="Read more about What the Air Force Said Was Case Closed | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -397,7 +397,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-gap/' | relative_url }}" title="Did Project Mogul Explain the Debris? | Roswell UFO crash f2 c9 c2 air force reports" aria-label="Read more about Did Project Mogul Explain the Debris? | Roswell UFO crash f2 c9 c2 air force reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-gap/' | relative_url }}" title="Did Project Mogul Explain the Debris? | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?" aria-label="Read more about Did Project Mogul Explain the Debris? | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -417,7 +417,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dummy-tests/' | relative_url }}" title="How Test Dummies Became Alien Bodies | Roswell UFO crash f2 c9 c2 air force reports" aria-label="Read more about How Test Dummies Became Alien Bodies | Roswell UFO crash f2 c9 c2 air force reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dummy-tests/' | relative_url }}" title="How Test Dummies Became Alien Bodies | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?" aria-label="Read more about How Test Dummies Became Alien Bodies | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -437,7 +437,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'gao-records/' | relative_url }}" title="The Missing Records Problem in Roswell | Roswell UFO crash f2 c9 c2 air force reports" aria-label="Read more about The Missing Records Problem in Roswell | Roswell UFO crash f2 c9 c2 air force reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'gao-records/' | relative_url }}" title="The Missing Records Problem in Roswell | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?" aria-label="Read more about The Missing Records Problem in Roswell | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -457,7 +457,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'accident-claims/' | relative_url }}" title="Were Hospital Stories Really Accident Memories? | Roswell UFO crash f2 c9 c2 air force reports" aria-label="Read more about Were Hospital Stories Really Accident Memories? | Roswell UFO crash f2 c9 c2 air force reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'accident-claims/' | relative_url }}" title="Were Hospital Stories Really Accident Memories? | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?" aria-label="Read more about Were Hospital Stories Really Accident Memories? | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -477,7 +477,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'case-closed/' | relative_url }}" title="Why Case Closed Did Not Close Roswell | Roswell UFO crash f2 c9 c2 air force reports" aria-label="Read more about Why Case Closed Did Not Close Roswell | Roswell UFO crash f2 c9 c2 air force reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'case-closed/' | relative_url }}" title="Why Case Closed Did Not Close Roswell | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?" aria-label="Read more about Why Case Closed Did Not Close Roswell | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -497,7 +497,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'why-reopened/' | relative_url }}" title="Why Roswell Became an Official Records Case | Roswell UFO crash f2 c9 c2 air force reports" aria-label="Read more about Why Roswell Became an Official Records Case | Roswell UFO crash f2 c9 c2 air force reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'why-reopened/' | relative_url }}" title="Why Roswell Became an Official Records Case | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?" aria-label="Read more about Why Roswell Became an Official Records Case | What the Air Force Said Was Case Closed | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -521,7 +521,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why the Flying Saucer Press Release Endured | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-flying-saucer-announ-a0f86d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'announcement/' | relative_url }}" title="Why the Flying Saucer Press Release Endured | Roswell UFO crash" aria-label="Read more about Why the Flying Saucer Press Release Endured | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'announcement/' | relative_url }}" title="Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?" aria-label="Read more about Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -541,7 +541,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sightings-link/' | relative_url }}" title="Did Local Sightings Make the Debris Stranger? | Roswell UFO crash f2 c9 c2 flying saucer announ" aria-label="Read more about Did Local Sightings Make the Debris Stranger? | Roswell UFO crash f2 c9 c2 flying saucer announ">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sightings-link/' | relative_url }}" title="Did Local Sightings Make the Debris Stranger? | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?" aria-label="Read more about Did Local Sightings Make the Debris Stranger? | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -561,7 +561,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'headline-artifact/' | relative_url }}" title="How One Headline Outlived the Correction | Roswell UFO crash f2 c9 c2 flying saucer announ" aria-label="Read more about How One Headline Outlived the Correction | Roswell UFO crash f2 c9 c2 flying saucer announ">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'headline-artifact/' | relative_url }}" title="How One Headline Outlived the Correction | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?" aria-label="Read more about How One Headline Outlived the Correction | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -581,7 +581,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'balloon-reversal/' | relative_url }}" title="How the Balloon Reversal Made Roswell Bigger | Roswell UFO crash f2 c9 c2 flying saucer announ" aria-label="Read more about How the Balloon Reversal Made Roswell Bigger | Roswell UFO crash f2 c9 c2 flying saucer announ">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'balloon-reversal/' | relative_url }}" title="How the Balloon Reversal Made Roswell Bigger | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?" aria-label="Read more about How the Balloon Reversal Made Roswell Bigger | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -601,7 +601,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-wording/' | relative_url }}" title="Why Did RAAF Say Flying Saucer? | Roswell UFO crash f2 c9 c2 flying saucer announ" aria-label="Read more about Why Did RAAF Say Flying Saucer? | Roswell UFO crash f2 c9 c2 flying saucer announ">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-wording/' | relative_url }}" title="Why Did RAAF Say Flying Saucer? | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?" aria-label="Read more about Why Did RAAF Say Flying Saucer? | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -621,7 +621,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'marcel-s-role/' | relative_url }}" title="Why Marcel&#x27;s Name Gave the Story Weight | Roswell UFO crash f2 c9 c2 flying saucer announ" aria-label="Read more about Why Marcel&#x27;s Name Gave the Story Weight | Roswell UFO crash f2 c9 c2 flying saucer announ">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'marcel-s-role/' | relative_url }}" title="Why Marcel's Name Gave the Story Weight | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?" aria-label="Read more about Why Marcel's Name Gave the Story Weight | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -641,7 +641,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '509-th-credibility/' | relative_url }}" title="Why the 509 th Made Roswell Sound Official | Roswell UFO crash f2 c9 c2 flying saucer announ" aria-label="Read more about Why the 509 th Made Roswell Sound Official | Roswell UFO crash f2 c9 c2 flying saucer announ">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '509-th-credibility/' | relative_url }}" title="Why the 509 th Made Roswell Sound Official | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?" aria-label="Read more about Why the 509 th Made Roswell Sound Official | Why the Flying Saucer Press Release Endured | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -665,7 +665,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Alien Body Claims Are Hard to Verify | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-alien-body-claims-816ffd"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bodies/' | relative_url }}" title="Why Alien Body Claims Are Hard to Verify | Roswell UFO crash" aria-label="Read more about Why Alien Body Claims Are Hard to Verify | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bodies/' | relative_url }}" title="Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?" aria-label="Read more about Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -685,7 +685,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'haut-statement/' | relative_url }}" title="Can a posthumous statement carry Roswell? | Roswell UFO crash f2 c9 c2 alien body claims" aria-label="Read more about Can a posthumous statement carry Roswell? | Roswell UFO crash f2 c9 c2 alien body claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'haut-statement/' | relative_url }}" title="Can a posthumous statement carry Roswell? | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?" aria-label="Read more about Can a posthumous statement carry Roswell? | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -705,7 +705,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'barnett-story/' | relative_url }}" title="Did the Barnett story move Roswell? | Roswell UFO crash f2 c9 c2 alien body claims" aria-label="Read more about Did the Barnett story move Roswell? | Roswell UFO crash f2 c9 c2 alien body claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'barnett-story/' | relative_url }}" title="Did the Barnett story move Roswell? | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?" aria-label="Read more about Did the Barnett story move Roswell? | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -725,7 +725,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dummy-drops/' | relative_url }}" title="Were later accidents remembered as aliens? | Roswell UFO crash f2 c9 c2 alien body claims" aria-label="Read more about Were later accidents remembered as aliens? | Roswell UFO crash f2 c9 c2 alien body claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dummy-drops/' | relative_url }}" title="Were later accidents remembered as aliens? | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?" aria-label="Read more about Were later accidents remembered as aliens? | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -745,7 +745,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1947-records-f66cf3/' | relative_url }}" title="What the 1947 record actually says | Roswell UFO crash f2 c9 c2 alien body claims" aria-label="Read more about What the 1947 record actually says | Roswell UFO crash f2 c9 c2 alien body claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1947-records-f66cf3/' | relative_url }}" title="What the 1947 record actually says | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?" aria-label="Read more about What the 1947 record actually says | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -765,7 +765,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-standard/' | relative_url }}" title="Why bodies demand more proof than debris | Roswell UFO crash f2 c9 c2 alien body claims" aria-label="Read more about Why bodies demand more proof than debris | Roswell UFO crash f2 c9 c2 alien body claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-standard/' | relative_url }}" title="Why bodies demand more proof than debris | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?" aria-label="Read more about Why bodies demand more proof than debris | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -785,7 +785,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'glenn-dennis/' | relative_url }}" title="Why the coffin call story still divides readers | Roswell UFO crash f2 c9 c2 alien body claims" aria-label="Read more about Why the coffin call story still divides readers | Roswell UFO crash f2 c9 c2 alien body claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'glenn-dennis/' | relative_url }}" title="Why the coffin call story still divides readers | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?" aria-label="Read more about Why the coffin call story still divides readers | Why Alien Body Claims Are Hard to Verify | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -809,7 +809,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Mac Brazel&#x27;s Debris Report Mattered | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-mac-brazel-debris-481c7b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brazel/' | relative_url }}" title="Why Mac Brazel&#x27;s Debris Report Mattered | Roswell UFO crash" aria-label="Read more about Why Mac Brazel&#x27;s Debris Report Mattered | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brazel/' | relative_url }}" title="Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?" aria-label="Read more about Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -829,7 +829,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-bundle/' | relative_url }}" title="How Much Wreckage Did Brazel Really Find? | Roswell UFO crash f2 c9 c2 mac brazel debris" aria-label="Read more about How Much Wreckage Did Brazel Really Find? | Roswell UFO crash f2 c9 c2 mac brazel debris">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-bundle/' | relative_url }}" title="How Much Wreckage Did Brazel Really Find? | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?" aria-label="Read more about How Much Wreckage Did Brazel Really Find? | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -849,7 +849,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'kite-test/' | relative_url }}" title="What Did the Failed Kite Test Reveal? | Roswell UFO crash f2 c9 c2 mac brazel debris" aria-label="Read more about What Did the Failed Kite Test Reveal? | Roswell UFO crash f2 c9 c2 mac brazel debris">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kite-test/' | relative_url }}" title="What Did the Failed Kite Test Reveal? | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?" aria-label="Read more about What Did the Failed Kite Test Reveal? | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -869,7 +869,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vernon-brazel/' | relative_url }}" title="Who Was With Brazel When He Found Debris? | Roswell UFO crash f2 c9 c2 mac brazel debris" aria-label="Read more about Who Was With Brazel When He Found Debris? | Roswell UFO crash f2 c9 c2 mac brazel debris">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vernon-brazel/' | relative_url }}" title="Who Was With Brazel When He Found Debris? | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?" aria-label="Read more about Who Was With Brazel When He Found Debris? | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -889,7 +889,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'july-4-return/' | relative_url }}" title="Why Did Brazel Go Back for the Debris? | Roswell UFO crash f2 c9 c2 mac brazel debris" aria-label="Read more about Why Did Brazel Go Back for the Debris? | Roswell UFO crash f2 c9 c2 mac brazel debris">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'july-4-return/' | relative_url }}" title="Why Did Brazel Go Back for the Debris? | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?" aria-label="Read more about Why Did Brazel Go Back for the Debris? | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -909,7 +909,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'balloon-doubt/' | relative_url }}" title="Why Did Brazel Reject a Weather Balloon? | Roswell UFO crash f2 c9 c2 mac brazel debris" aria-label="Read more about Why Did Brazel Reject a Weather Balloon? | Roswell UFO crash f2 c9 c2 mac brazel debris">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'balloon-doubt/' | relative_url }}" title="Why Did Brazel Reject a Weather Balloon? | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?" aria-label="Read more about Why Did Brazel Reject a Weather Balloon? | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -929,7 +929,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'remote-ranch/' | relative_url }}" title="Why the Ranch Location Made Roswell Murkier | Roswell UFO crash f2 c9 c2 mac brazel debris" aria-label="Read more about Why the Ranch Location Made Roswell Murkier | Roswell UFO crash f2 c9 c2 mac brazel debris">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'remote-ranch/' | relative_url }}" title="Why the Ranch Location Made Roswell Murkier | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?" aria-label="Read more about Why the Ranch Location Made Roswell Murkier | Why Mac Brazel's Debris Report Mattered | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -953,7 +953,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Sheridan Cavitt Said the Debris Looked Like | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-sheridan-cavitt-mate-cc7868"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cavitt/' | relative_url }}" title="What Sheridan Cavitt Said the Debris Looked Like | Roswell UFO crash" aria-label="Read more about What Sheridan Cavitt Said the Debris Looked Like | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cavitt/' | relative_url }}" title="What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?" aria-label="Read more about What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -973,7 +973,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-target/' | relative_url }}" title="Did Radar Target Parts Fit Cavitt&#x27;s Story? | Roswell UFO crash f2 c9 c2 sheridan cavitt mate" aria-label="Read more about Did Radar Target Parts Fit Cavitt&#x27;s Story? | Roswell UFO crash f2 c9 c2 sheridan cavitt mate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-target/' | relative_url }}" title="Did Radar Target Parts Fit Cavitt's Story? | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?" aria-label="Read more about Did Radar Target Parts Fit Cavitt's Story? | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -993,7 +993,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'late-memory/' | relative_url }}" title="How Reliable Was Cavitt&#x27;s Late Memory? | Roswell UFO crash f2 c9 c2 sheridan cavitt mate" aria-label="Read more about How Reliable Was Cavitt&#x27;s Late Memory? | Roswell UFO crash f2 c9 c2 sheridan cavitt mate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'late-memory/' | relative_url }}" title="How Reliable Was Cavitt's Late Memory? | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?" aria-label="Read more about How Reliable Was Cavitt's Late Memory? | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1013,7 +1013,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'black-box/' | relative_url }}" title="Was Cavitt&#x27;s Black Box a Balloon Instrument? | Roswell UFO crash f2 c9 c2 sheridan cavitt mate" aria-label="Read more about Was Cavitt&#x27;s Black Box a Balloon Instrument? | Roswell UFO crash f2 c9 c2 sheridan cavitt mate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'black-box/' | relative_url }}" title="Was Cavitt's Black Box a Balloon Instrument? | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?" aria-label="Read more about Was Cavitt's Black Box a Balloon Instrument? | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1033,7 +1033,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-claim/' | relative_url }}" title="What Did Cavitt Say He Actually Saw? | Roswell UFO crash f2 c9 c2 sheridan cavitt mate" aria-label="Read more about What Did Cavitt Say He Actually Saw? | Roswell UFO crash f2 c9 c2 sheridan cavitt mate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-claim/' | relative_url }}" title="What Did Cavitt Say He Actually Saw? | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?" aria-label="Read more about What Did Cavitt Say He Actually Saw? | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1053,7 +1053,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cavitt-vs-marcel/' | relative_url }}" title="Why Did Cavitt and Marcel Remember Differently? | Roswell UFO crash f2 c9 c2 sheridan cavitt mate" aria-label="Read more about Why Did Cavitt and Marcel Remember Differently? | Roswell UFO crash f2 c9 c2 sheridan cavitt mate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cavitt-vs-marcel/' | relative_url }}" title="Why Did Cavitt and Marcel Remember Differently? | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?" aria-label="Read more about Why Did Cavitt and Marcel Remember Differently? | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1073,7 +1073,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-force-file/' | relative_url }}" title="Why the Air Force Leaned on Cavitt | Roswell UFO crash f2 c9 c2 sheridan cavitt mate" aria-label="Read more about Why the Air Force Leaned on Cavitt | Roswell UFO crash f2 c9 c2 sheridan cavitt mate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-force-file/' | relative_url }}" title="Why the Air Force Leaned on Cavitt | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?" aria-label="Read more about Why the Air Force Leaned on Cavitt | What Sheridan Cavitt Said the Debris Looked Like | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1097,7 +1097,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Can Roswell Be a Cover Up Without Aliens? | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-coverup-without-alie-06abe5"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-up/' | relative_url }}" title="Can Roswell Be a Cover Up Without Aliens? | Roswell UFO crash" aria-label="Read more about Can Roswell Be a Cover Up Without Aliens? | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-up/' | relative_url }}" title="Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?" aria-label="Read more about Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1117,7 +1117,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy-afterlife/' | relative_url }}" title="How Secrecy Gave Roswell an Afterlife | Roswell UFO crash f2 c9 c2 coverup without alie" aria-label="Read more about How Secrecy Gave Roswell an Afterlife | Roswell UFO crash f2 c9 c2 coverup without alie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy-afterlife/' | relative_url }}" title="How Secrecy Gave Roswell an Afterlife | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?" aria-label="Read more about How Secrecy Gave Roswell an Afterlife | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1137,7 +1137,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'weather-story/' | relative_url }}" title="How the Weather Balloon Story Misled | Roswell UFO crash f2 c9 c2 coverup without alie" aria-label="Read more about How the Weather Balloon Story Misled | Roswell UFO crash f2 c9 c2 coverup without alie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'weather-story/' | relative_url }}" title="How the Weather Balloon Story Misled | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?" aria-label="Read more about How the Weather Balloon Story Misled | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1157,7 +1157,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'need-to-know/' | relative_url }}" title="Why Even Insiders Could Be Confused | Roswell UFO crash f2 c9 c2 coverup without alie" aria-label="Read more about Why Even Insiders Could Be Confused | Roswell UFO crash f2 c9 c2 coverup without alie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'need-to-know/' | relative_url }}" title="Why Even Insiders Could Be Confused | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?" aria-label="Read more about Why Even Insiders Could Be Confused | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1177,7 +1177,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-4-1e445f/' | relative_url }}" title="Why Flight 4 Became the Key Suspect | Roswell UFO crash f2 c9 c2 coverup without alie" aria-label="Read more about Why Flight 4 Became the Key Suspect | Roswell UFO crash f2 c9 c2 coverup without alie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-4-1e445f/' | relative_url }}" title="Why Flight 4 Became the Key Suspect | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?" aria-label="Read more about Why Flight 4 Became the Key Suspect | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1197,7 +1197,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-secrecy/' | relative_url }}" title="Why Mogul Made Roswell Worth Hiding | Roswell UFO crash f2 c9 c2 coverup without alie" aria-label="Read more about Why Mogul Made Roswell Worth Hiding | Roswell UFO crash f2 c9 c2 coverup without alie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-secrecy/' | relative_url }}" title="Why Mogul Made Roswell Worth Hiding | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?" aria-label="Read more about Why Mogul Made Roswell Worth Hiding | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1217,7 +1217,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'too-late/' | relative_url }}" title="Why the Mogul Answer Came Too Late | Roswell UFO crash f2 c9 c2 coverup without alie" aria-label="Read more about Why the Mogul Answer Came Too Late | Roswell UFO crash f2 c9 c2 coverup without alie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'too-late/' | relative_url }}" title="Why the Mogul Answer Came Too Late | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?" aria-label="Read more about Why the Mogul Answer Came Too Late | Can Roswell Be a Cover Up Without Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1241,7 +1241,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why the Roswell Debris Looked So Strange | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-strange-debris-mater-602882"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debris/' | relative_url }}" title="Why the Roswell Debris Looked So Strange | Roswell UFO crash" aria-label="Read more about Why the Roswell Debris Looked So Strange | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debris/' | relative_url }}" title="Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?" aria-label="Read more about Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1261,7 +1261,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'symbol-tape/' | relative_url }}" title="Did Roswell Symbols Start as Decorative Tape? | Roswell UFO crash f2 c9 c2 strange debris mater" aria-label="Read more about Did Roswell Symbols Start as Decorative Tape? | Roswell UFO crash f2 c9 c2 strange debris mater">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'symbol-tape/' | relative_url }}" title="Did Roswell Symbols Start as Decorative Tape? | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?" aria-label="Read more about Did Roswell Symbols Start as Decorative Tape? | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1281,7 +1281,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-context/' | relative_url }}" title="How Secrecy Turned Scraps Into Suspicion | Roswell UFO crash f2 c9 c2 strange debris mater" aria-label="Read more about How Secrecy Turned Scraps Into Suspicion | Roswell UFO crash f2 c9 c2 strange debris mater">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-context/' | relative_url }}" title="How Secrecy Turned Scraps Into Suspicion | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?" aria-label="Read more about How Secrecy Turned Scraps Into Suspicion | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1301,7 +1301,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'balloon-train/' | relative_url }}" title="Why a Balloon Could Leave So Much Debris | Roswell UFO crash f2 c9 c2 strange debris mater" aria-label="Read more about Why a Balloon Could Leave So Much Debris | Roswell UFO crash f2 c9 c2 strange debris mater">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'balloon-train/' | relative_url }}" title="Why a Balloon Could Leave So Much Debris | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?" aria-label="Read more about Why a Balloon Could Leave So Much Debris | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1321,7 +1321,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'foil-scraps/' | relative_url }}" title="Why Did the Roswell Foil Seem So Strange? | Roswell UFO crash f2 c9 c2 strange debris mater" aria-label="Read more about Why Did the Roswell Foil Seem So Strange? | Roswell UFO crash f2 c9 c2 strange debris mater">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'foil-scraps/' | relative_url }}" title="Why Did the Roswell Foil Seem So Strange? | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?" aria-label="Read more about Why Did the Roswell Foil Seem So Strange? | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1341,7 +1341,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rubber-strips/' | relative_url }}" title="Why Was Roswell Debris Spread So Widely? | Roswell UFO crash f2 c9 c2 strange debris mater" aria-label="Read more about Why Was Roswell Debris Spread So Widely? | Roswell UFO crash f2 c9 c2 strange debris mater">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rubber-strips/' | relative_url }}" title="Why Was Roswell Debris Spread So Widely? | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?" aria-label="Read more about Why Was Roswell Debris Spread So Widely? | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1361,7 +1361,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'balsa-frames/' | relative_url }}" title="Why Were There Sticks in the Roswell Debris? | Roswell UFO crash f2 c9 c2 strange debris mater" aria-label="Read more about Why Were There Sticks in the Roswell Debris? | Roswell UFO crash f2 c9 c2 strange debris mater">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'balsa-frames/' | relative_url }}" title="Why Were There Sticks in the Roswell Debris? | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?" aria-label="Read more about Why Were There Sticks in the Roswell Debris? | Why the Roswell Debris Looked So Strange | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1385,7 +1385,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Did Test Dummies Become Roswell Aliens? | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-test-dummies-memory-24363b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dummies/' | relative_url }}" title="Did Test Dummies Become Roswell Aliens? | Roswell UFO crash" aria-label="Read more about Did Test Dummies Become Roswell Aliens? | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dummies/' | relative_url }}" title="Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?" aria-label="Read more about Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1405,7 +1405,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'balloon-mishap/' | relative_url }}" title="A Balloon Accident in the Body Legend | Roswell UFO crash f2 c9 c2 test dummies memory" aria-label="Read more about A Balloon Accident in the Body Legend | Roswell UFO crash f2 c9 c2 test dummies memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'balloon-mishap/' | relative_url }}" title="A Balloon Accident in the Body Legend | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?" aria-label="Read more about A Balloon Accident in the Body Legend | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1425,7 +1425,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dummy-drops-2440bd/' | relative_url }}" title="Could Dummy Recoveries Become Alien Bodies? | Roswell UFO crash f2 c9 c2 test dummies memory" aria-label="Read more about Could Dummy Recoveries Become Alien Bodies? | Roswell UFO crash f2 c9 c2 test dummies memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dummy-drops-2440bd/' | relative_url }}" title="Could Dummy Recoveries Become Alien Bodies? | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?" aria-label="Read more about Could Dummy Recoveries Become Alien Bodies? | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1445,7 +1445,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-merge/' | relative_url }}" title="How Later Memories Moved to 1947 | Roswell UFO crash f2 c9 c2 test dummies memory" aria-label="Read more about How Later Memories Moved to 1947 | Roswell UFO crash f2 c9 c2 test dummies memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-merge/' | relative_url }}" title="How Later Memories Moved to 1947 | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?" aria-label="Read more about How Later Memories Moved to 1947 | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1465,7 +1465,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'kc-97-crash/' | relative_url }}" title="The Real Crash Behind Some Body Stories | Roswell UFO crash f2 c9 c2 test dummies memory" aria-label="Read more about The Real Crash Behind Some Body Stories | Roswell UFO crash f2 c9 c2 test dummies memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kc-97-crash/' | relative_url }}" title="The Real Crash Behind Some Body Stories | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?" aria-label="Read more about The Real Crash Behind Some Body Stories | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1485,7 +1485,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1947-limit/' | relative_url }}" title="What the Dummy Theory Cannot Explain | Roswell UFO crash f2 c9 c2 test dummies memory" aria-label="Read more about What the Dummy Theory Cannot Explain | Roswell UFO crash f2 c9 c2 test dummies memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1947-limit/' | relative_url }}" title="What the Dummy Theory Cannot Explain | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?" aria-label="Read more about What the Dummy Theory Cannot Explain | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1505,7 +1505,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sierra-sam/' | relative_url }}" title="Why Sierra Sam Was Not a Grey Alien | Roswell UFO crash f2 c9 c2 test dummies memory" aria-label="Read more about Why Sierra Sam Was Not a Grey Alien | Roswell UFO crash f2 c9 c2 test dummies memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sierra-sam/' | relative_url }}" title="Why Sierra Sam Was Not a Grey Alien | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?" aria-label="Read more about Why Sierra Sam Was Not a Grey Alien | Did Test Dummies Become Roswell Aliens? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1529,7 +1529,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Did Mogul Flight 4 Land Near Roswell? | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-mogul-flight-4-dbac42"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-4/' | relative_url }}" title="Did Mogul Flight 4 Land Near Roswell? | Roswell UFO crash" aria-label="Read more about Did Mogul Flight 4 Land Near Roswell? | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-4/' | relative_url }}" title="Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?" aria-label="Read more about Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1549,7 +1549,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-match/' | relative_url }}" title="Did the Debris Look Like Mogul? | Roswell UFO crash f2 c9 c2 mogul flight" aria-label="Read more about Did the Debris Look Like Mogul? | Roswell UFO crash f2 c9 c2 mogul flight">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-match/' | relative_url }}" title="Did the Debris Look Like Mogul? | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?" aria-label="Read more about Did the Debris Look Like Mogul? | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1569,7 +1569,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'record-gaps/' | relative_url }}" title="The Missing Paper Trail Problem | Roswell UFO crash f2 c9 c2 mogul flight" aria-label="Read more about The Missing Paper Trail Problem | Roswell UFO crash f2 c9 c2 mogul flight">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'record-gaps/' | relative_url }}" title="The Missing Paper Trail Problem | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?" aria-label="Read more about The Missing Paper Trail Problem | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1589,7 +1589,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flowered-tape/' | relative_url }}" title="Were the Hieroglyphics Just Tape? | Roswell UFO crash f2 c9 c2 mogul flight" aria-label="Read more about Were the Hieroglyphics Just Tape? | Roswell UFO crash f2 c9 c2 mogul flight">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flowered-tape/' | relative_url }}" title="Were the Hieroglyphics Just Tape? | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?" aria-label="Read more about Were the Hieroglyphics Just Tape? | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1609,7 +1609,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-parts/' | relative_url }}" title="What Was Actually Hanging Below Mogul? | Roswell UFO crash f2 c9 c2 mogul flight" aria-label="Read more about What Was Actually Hanging Below Mogul? | Roswell UFO crash f2 c9 c2 mogul flight">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-parts/' | relative_url }}" title="What Was Actually Hanging Below Mogul? | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?" aria-label="Read more about What Was Actually Hanging Below Mogul? | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1629,7 +1629,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'half-truth/' | relative_url }}" title="Why &#x27;Weather Balloon&#x27; Was a Half Truth | Roswell UFO crash f2 c9 c2 mogul flight" aria-label="Read more about Why &#x27;Weather Balloon&#x27; Was a Half Truth | Roswell UFO crash f2 c9 c2 mogul flight">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'half-truth/' | relative_url }}" title="Why 'Weather Balloon' Was a Half Truth | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?" aria-label="Read more about Why 'Weather Balloon' Was a Half Truth | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1649,7 +1649,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'june-4-fit/' | relative_url }}" title="Why June 4 Became the Key Date | Roswell UFO crash f2 c9 c2 mogul flight" aria-label="Read more about Why June 4 Became the Key Date | Roswell UFO crash f2 c9 c2 mogul flight">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'june-4-fit/' | relative_url }}" title="Why June 4 Became the Key Date | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?" aria-label="Read more about Why June 4 Became the Key Date | Did Mogul Flight 4 Land Near Roswell? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1673,7 +1673,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How a 1956 Crash Entered Roswell Lore | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-kc97-body-stories-fe9533"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'kc-97/' | relative_url }}" title="How a 1956 Crash Entered Roswell Lore | Roswell UFO crash" aria-label="Read more about How a 1956 Crash Entered Roswell Lore | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kc-97/' | relative_url }}" title="How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?" aria-label="Read more about How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1693,7 +1693,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-link/' | relative_url }}" title="Did a 1956 Crash Reshape Roswell Body Stories? | Roswell UFO crash f2 c9 c2 kc 97 body stories" aria-label="Read more about Did a 1956 Crash Reshape Roswell Body Stories? | Roswell UFO crash f2 c9 c2 kc 97 body stories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-link/' | relative_url }}" title="Did a 1956 Crash Reshape Roswell Body Stories? | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?" aria-label="Read more about Did a 1956 Crash Reshape Roswell Body Stories? | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1713,7 +1713,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dennis-claim/' | relative_url }}" title="Did Glenn Dennis Remember the Wrong Disaster? | Roswell UFO crash f2 c9 c2 kc 97 body stories" aria-label="Read more about Did Glenn Dennis Remember the Wrong Disaster? | Roswell UFO crash f2 c9 c2 kc 97 body stories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dennis-claim/' | relative_url }}" title="Did Glenn Dennis Remember the Wrong Disaster? | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?" aria-label="Read more about Did Glenn Dennis Remember the Wrong Disaster? | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1733,7 +1733,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'merged-memories/' | relative_url }}" title="How Later Trauma Could Merge With Roswell Legend | Roswell UFO crash f2 c9 c2 kc 97 body stories" aria-label="Read more about How Later Trauma Could Merge With Roswell Legend | Roswell UFO crash f2 c9 c2 kc 97 body stories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'merged-memories/' | relative_url }}" title="How Later Trauma Could Merge With Roswell Legend | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?" aria-label="Read more about How Later Trauma Could Merge With Roswell Legend | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1753,7 +1753,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'filtering-test/' | relative_url }}" title="How Officials Picked the KC 97 Crash | Roswell UFO crash f2 c9 c2 kc 97 body stories" aria-label="Read more about How Officials Picked the KC 97 Crash | Roswell UFO crash f2 c9 c2 kc 97 body stories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'filtering-test/' | relative_url }}" title="How Officials Picked the KC 97 Crash | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?" aria-label="Read more about How Officials Picked the KC 97 Crash | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1773,7 +1773,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hospital-trail/' | relative_url }}" title="Inside the Walker AFB Body Identification Trail | Roswell UFO crash f2 c9 c2 kc 97 body stories" aria-label="Read more about Inside the Walker AFB Body Identification Trail | Roswell UFO crash f2 c9 c2 kc 97 body stories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hospital-trail/' | relative_url }}" title="Inside the Walker AFB Body Identification Trail | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?" aria-label="Read more about Inside the Walker AFB Body Identification Trail | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1793,7 +1793,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'burned-remains/' | relative_url }}" title="Why Burned Remains Became the Key Evidence | Roswell UFO crash f2 c9 c2 kc 97 body stories" aria-label="Read more about Why Burned Remains Became the Key Evidence | Roswell UFO crash f2 c9 c2 kc 97 body stories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'burned-remains/' | relative_url }}" title="Why Burned Remains Became the Key Evidence | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?" aria-label="Read more about Why Burned Remains Became the Key Evidence | How a 1956 Crash Entered Roswell Lore | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1817,7 +1817,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Roswell Became the Iconic UFO Case | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-roswell-iconic-case-61e92d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'legacy/' | relative_url }}" title="Why Roswell Became the Iconic UFO Case | Roswell UFO crash" aria-label="Read more about Why Roswell Became the Iconic UFO Case | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'legacy/' | relative_url }}" title="Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?" aria-label="Read more about Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1837,7 +1837,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'marcel-revival-778d63/' | relative_url }}" title="How Jesse Marcel Brought Roswell Back | Roswell UFO crash f2 c9 c2 roswell iconic case" aria-label="Read more about How Jesse Marcel Brought Roswell Back | Roswell UFO crash f2 c9 c2 roswell iconic case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'marcel-revival-778d63/' | relative_url }}" title="How Jesse Marcel Brought Roswell Back | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?" aria-label="Read more about How Jesse Marcel Brought Roswell Back | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1857,7 +1857,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-template/' | relative_url }}" title="How Roswell Defined the UFO Cover Up Story | Roswell UFO crash f2 c9 c2 roswell iconic case" aria-label="Read more about How Roswell Defined the UFO Cover Up Story | Roswell UFO crash f2 c9 c2 roswell iconic case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-template/' | relative_url }}" title="How Roswell Defined the UFO Cover Up Story | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?" aria-label="Read more about How Roswell Defined the UFO Cover Up Story | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1877,7 +1877,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'official-reports/' | relative_url }}" title="Why Debunking Did Not End Roswell | Roswell UFO crash f2 c9 c2 roswell iconic case" aria-label="Read more about Why Debunking Did Not End Roswell | Roswell UFO crash f2 c9 c2 roswell iconic case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'official-reports/' | relative_url }}" title="Why Debunking Did Not End Roswell | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?" aria-label="Read more about Why Debunking Did Not End Roswell | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1897,7 +1897,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flying-disc/' | relative_url }}" title="Why One Press Release Changed Roswell Forever | Roswell UFO crash f2 c9 c2 roswell iconic case" aria-label="Read more about Why One Press Release Changed Roswell Forever | Roswell UFO crash f2 c9 c2 roswell iconic case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flying-disc/' | relative_url }}" title="Why One Press Release Changed Roswell Forever | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?" aria-label="Read more about Why One Press Release Changed Roswell Forever | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1917,7 +1917,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'body-stories/' | relative_url }}" title="Why Roswell Body Stories Became So Powerful | Roswell UFO crash f2 c9 c2 roswell iconic case" aria-label="Read more about Why Roswell Body Stories Became So Powerful | Roswell UFO crash f2 c9 c2 roswell iconic case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'body-stories/' | relative_url }}" title="Why Roswell Body Stories Became So Powerful | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?" aria-label="Read more about Why Roswell Body Stories Became So Powerful | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1937,7 +1937,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-war/' | relative_url }}" title="Why Roswell Felt Believable in 1947 | Roswell UFO crash f2 c9 c2 roswell iconic case" aria-label="Read more about Why Roswell Felt Believable in 1947 | Roswell UFO crash f2 c9 c2 roswell iconic case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-war/' | relative_url }}" title="Why Roswell Felt Believable in 1947 | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?" aria-label="Read more about Why Roswell Felt Believable in 1947 | Why Roswell Became the Iconic UFO Case | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1961,7 +1961,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Jesse Marcel Became Roswell&#x27;s Key Witness | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-jesse-marcel-role-af3c3f"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'marcel/' | relative_url }}" title="Why Jesse Marcel Became Roswell&#x27;s Key Witness | Roswell UFO crash" aria-label="Read more about Why Jesse Marcel Became Roswell&#x27;s Key Witness | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'marcel/' | relative_url }}" title="Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?" aria-label="Read more about Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -1981,7 +1981,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-gap/' | relative_url }}" title="Can Marcel&#x27;s Late Memory Carry the Case? | Roswell UFO crash f2 c9 c2 jesse marcel role" aria-label="Read more about Can Marcel&#x27;s Late Memory Carry the Case? | Roswell UFO crash f2 c9 c2 jesse marcel role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-gap/' | relative_url }}" title="Can Marcel's Late Memory Carry the Case? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?" aria-label="Read more about Can Marcel's Late Memory Carry the Case? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2001,7 +2001,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-match/' | relative_url }}" title="Could Mogul Explain What Marcel Saw? | Roswell UFO crash f2 c9 c2 jesse marcel role" aria-label="Read more about Could Mogul Explain What Marcel Saw? | Roswell UFO crash f2 c9 c2 jesse marcel role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-match/' | relative_url }}" title="Could Mogul Explain What Marcel Saw? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?" aria-label="Read more about Could Mogul Explain What Marcel Saw? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2021,7 +2021,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility/' | relative_url }}" title="Did Marcel&#x27;s Rank Help or Hurt His Case? | Roswell UFO crash f2 c9 c2 jesse marcel role" aria-label="Read more about Did Marcel&#x27;s Rank Help or Hurt His Case? | Roswell UFO crash f2 c9 c2 jesse marcel role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility/' | relative_url }}" title="Did Marcel's Rank Help or Hurt His Case? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?" aria-label="Read more about Did Marcel's Rank Help or Hurt His Case? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2041,7 +2041,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-trail/' | relative_url }}" title="How Solid Is Marcel&#x27;s Debris Trail? | Roswell UFO crash f2 c9 c2 jesse marcel role" aria-label="Read more about How Solid Is Marcel&#x27;s Debris Trail? | Roswell UFO crash f2 c9 c2 jesse marcel role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-trail/' | relative_url }}" title="How Solid Is Marcel's Debris Trail? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?" aria-label="Read more about How Solid Is Marcel's Debris Trail? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2061,7 +2061,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-dispute/' | relative_url }}" title="Were the Fort Worth Photos the Real Debris? | Roswell UFO crash f2 c9 c2 jesse marcel role" aria-label="Read more about Were the Fort Worth Photos the Real Debris? | Roswell UFO crash f2 c9 c2 jesse marcel role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-dispute/' | relative_url }}" title="Were the Fort Worth Photos the Real Debris? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?" aria-label="Read more about Were the Fort Worth Photos the Real Debris? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2081,7 +2081,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'family-account/' | relative_url }}" title="What Did Marcel&#x27;s Son Remember Seeing? | Roswell UFO crash f2 c9 c2 jesse marcel role" aria-label="Read more about What Did Marcel&#x27;s Son Remember Seeing? | Roswell UFO crash f2 c9 c2 jesse marcel role">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'family-account/' | relative_url }}" title="What Did Marcel's Son Remember Seeing? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?" aria-label="Read more about What Did Marcel's Son Remember Seeing? | Why Jesse Marcel Became Roswell's Key Witness | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2105,7 +2105,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Media Turned Roswell Into Legend | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-roswell-media-myth-209056"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'media/' | relative_url }}" title="How Media Turned Roswell Into Legend | Roswell UFO crash" aria-label="Read more about How Media Turned Roswell Into Legend | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'media/' | relative_url }}" title="How Media Turned Roswell Into Legend | What Really Fell Near Roswell?" aria-label="Read more about How Media Turned Roswell Into Legend | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2125,7 +2125,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1980-book/' | relative_url }}" title="How One Book Gave Roswell Its Plot | Roswell UFO crash f2 c9 c2 roswell media myth" aria-label="Read more about How One Book Gave Roswell Its Plot | Roswell UFO crash f2 c9 c2 roswell media myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1980-book/' | relative_url }}" title="How One Book Gave Roswell Its Plot | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?" aria-label="Read more about How One Book Gave Roswell Its Plot | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2145,7 +2145,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tv-suspense/' | relative_url }}" title="How Television Made Roswell Feel Unsolved | Roswell UFO crash f2 c9 c2 roswell media myth" aria-label="Read more about How Television Made Roswell Feel Unsolved | Roswell UFO crash f2 c9 c2 roswell media myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tv-suspense/' | relative_url }}" title="How Television Made Roswell Feel Unsolved | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?" aria-label="Read more about How Television Made Roswell Feel Unsolved | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2165,7 +2165,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'alien-autopsy/' | relative_url }}" title="The Image That Changed Roswell Forever | Roswell UFO crash f2 c9 c2 roswell media myth" aria-label="Read more about The Image That Changed Roswell Forever | Roswell UFO crash f2 c9 c2 roswell media myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'alien-autopsy/' | relative_url }}" title="The Image That Changed Roswell Forever | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?" aria-label="Read more about The Image That Changed Roswell Forever | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2185,7 +2185,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drama-film/' | relative_url }}" title="When Roswell Became a Character Drama | Roswell UFO crash f2 c9 c2 roswell media myth" aria-label="Read more about When Roswell Became a Character Drama | Roswell UFO crash f2 c9 c2 roswell media myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drama-film/' | relative_url }}" title="When Roswell Became a Character Drama | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?" aria-label="Read more about When Roswell Became a Character Drama | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2205,7 +2205,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'marcel-revival/' | relative_url }}" title="Why Jesse Marcel Restarted the Roswell Story | Roswell UFO crash f2 c9 c2 roswell media myth" aria-label="Read more about Why Jesse Marcel Restarted the Roswell Story | Roswell UFO crash f2 c9 c2 roswell media myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'marcel-revival/' | relative_url }}" title="Why Jesse Marcel Restarted the Roswell Story | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?" aria-label="Read more about Why Jesse Marcel Restarted the Roswell Story | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2225,7 +2225,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-books/' | relative_url }}" title="Why More Witnesses Made Roswell Messier | Roswell UFO crash f2 c9 c2 roswell media myth" aria-label="Read more about Why More Witnesses Made Roswell Messier | Roswell UFO crash f2 c9 c2 roswell media myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-books/' | relative_url }}" title="Why More Witnesses Made Roswell Messier | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?" aria-label="Read more about Why More Witnesses Made Roswell Messier | How Media Turned Roswell Into Legend | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2249,7 +2249,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Was Project Mogul the Real Roswell Object? | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-project-mogul-explan-2128c2"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul/' | relative_url }}" title="Was Project Mogul the Real Roswell Object? | Roswell UFO crash" aria-label="Read more about Was Project Mogul the Real Roswell Object? | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul/' | relative_url }}" title="Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?" aria-label="Read more about Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2269,7 +2269,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-targets-83aed1/' | relative_url }}" title="Could Radar Targets Explain the Strange Markings? | Roswell UFO crash f2 c9 c2 project mogul explan" aria-label="Read more about Could Radar Targets Explain the Strange Markings? | Roswell UFO crash f2 c9 c2 project mogul explan">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-targets-83aed1/' | relative_url }}" title="Could Radar Targets Explain the Strange Markings? | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?" aria-label="Read more about Could Radar Targets Explain the Strange Markings? | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2289,7 +2289,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'balloon-decay/' | relative_url }}" title="How Balloon Rubber Could Look Alien | Roswell UFO crash f2 c9 c2 project mogul explan" aria-label="Read more about How Balloon Rubber Could Look Alien | Roswell UFO crash f2 c9 c2 project mogul explan">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'balloon-decay/' | relative_url }}" title="How Balloon Rubber Could Look Alien | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?" aria-label="Read more about How Balloon Rubber Could Look Alien | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2309,7 +2309,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'need-to-know-f0d020/' | relative_url }}" title="How Secrecy Made Honest Witnesses Disagree | Roswell UFO crash f2 c9 c2 project mogul explan" aria-label="Read more about How Secrecy Made Honest Witnesses Disagree | Roswell UFO crash f2 c9 c2 project mogul explan">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'need-to-know-f0d020/' | relative_url }}" title="How Secrecy Made Honest Witnesses Disagree | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?" aria-label="Read more about How Secrecy Made Honest Witnesses Disagree | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2329,7 +2329,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-4-738f15/' | relative_url }}" title="Was Mogul Flight 4 the Missing Link? | Roswell UFO crash f2 c9 c2 project mogul explan" aria-label="Read more about Was Mogul Flight 4 the Missing Link? | Roswell UFO crash f2 c9 c2 project mogul explan">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-4-738f15/' | relative_url }}" title="Was Mogul Flight 4 the Missing Link? | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?" aria-label="Read more about Was Mogul Flight 4 the Missing Link? | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2349,7 +2349,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-balloons/' | relative_url }}" title="Why Ordinary Debris Could Still Be Secret | Roswell UFO crash f2 c9 c2 project mogul explan" aria-label="Read more about Why Ordinary Debris Could Still Be Secret | Roswell UFO crash f2 c9 c2 project mogul explan">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-balloons/' | relative_url }}" title="Why Ordinary Debris Could Still Be Secret | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?" aria-label="Read more about Why Ordinary Debris Could Still Be Secret | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2369,7 +2369,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-story-8d56e6/' | relative_url }}" title="Why the Weather Balloon Story Did Not Settle Roswell | Roswell UFO crash f2 c9 c2 project mogul explan" aria-label="Read more about Why the Weather Balloon Story Did Not Settle Roswell | Roswell UFO crash f2 c9 c2 project mogul explan">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-story-8d56e6/' | relative_url }}" title="Why the Weather Balloon Story Did Not Settle Roswell | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?" aria-label="Read more about Why the Weather Balloon Story Did Not Settle Roswell | Was Project Mogul the Real Roswell Object? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2393,7 +2393,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How a Mogul Engineer Read the Roswell Debris | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-charles-moore-testim-72ce93"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'moore/' | relative_url }}" title="How a Mogul Engineer Read the Roswell Debris | Roswell UFO crash" aria-label="Read more about How a Mogul Engineer Read the Roswell Debris | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'moore/' | relative_url }}" title="How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?" aria-label="Read more about How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2413,7 +2413,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-targets/' | relative_url }}" title="Could Radar Targets Explain the Strange Debris? | Roswell UFO crash f2 c9 c2 charles moore testim" aria-label="Read more about Could Radar Targets Explain the Strange Debris? | Roswell UFO crash f2 c9 c2 charles moore testim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-targets/' | relative_url }}" title="Could Radar Targets Explain the Strange Debris? | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?" aria-label="Read more about Could Radar Targets Explain the Strange Debris? | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2433,7 +2433,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'record-gaps-059cb0/' | relative_url }}" title="Do Missing Mogul Records Weaken the Case? | Roswell UFO crash f2 c9 c2 charles moore testim" aria-label="Read more about Do Missing Mogul Records Weaken the Case? | Roswell UFO crash f2 c9 c2 charles moore testim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'record-gaps-059cb0/' | relative_url }}" title="Do Missing Mogul Records Weaken the Case? | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?" aria-label="Read more about Do Missing Mogul Records Weaken the Case? | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2453,7 +2453,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey-photos/' | relative_url }}" title="Do the Ramey Photos Fit Mogul Debris? | Roswell UFO crash f2 c9 c2 charles moore testim" aria-label="Read more about Do the Ramey Photos Fit Mogul Debris? | Roswell UFO crash f2 c9 c2 charles moore testim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey-photos/' | relative_url }}" title="Do the Ramey Photos Fit Mogul Debris? | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?" aria-label="Read more about Do the Ramey Photos Fit Mogul Debris? | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2473,7 +2473,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tape-symbols/' | relative_url }}" title="Were Roswell&#x27;s Hieroglyphics Really Decorative Tape? | Roswell UFO crash f2 c9 c2 charles moore testim" aria-label="Read more about Were Roswell&#x27;s Hieroglyphics Really Decorative Tape? | Roswell UFO crash f2 c9 c2 charles moore testim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tape-symbols/' | relative_url }}" title="Were Roswell's Hieroglyphics Really Decorative Tape? | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?" aria-label="Read more about Were Roswell's Hieroglyphics Really Decorative Tape? | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2493,7 +2493,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-4-d4d6b4/' | relative_url }}" title="Why Flight 4 Became the Central Candidate | Roswell UFO crash f2 c9 c2 charles moore testim" aria-label="Read more about Why Flight 4 Became the Central Candidate | Roswell UFO crash f2 c9 c2 charles moore testim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-4-d4d6b4/' | relative_url }}" title="Why Flight 4 Became the Central Candidate | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?" aria-label="Read more about Why Flight 4 Became the Central Candidate | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2513,7 +2513,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'moore-s-role/' | relative_url }}" title="Why Moore Was Not Just Another Witness | Roswell UFO crash f2 c9 c2 charles moore testim" aria-label="Read more about Why Moore Was Not Just Another Witness | Roswell UFO crash f2 c9 c2 charles moore testim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'moore-s-role/' | relative_url }}" title="Why Moore Was Not Just Another Witness | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?" aria-label="Read more about Why Moore Was Not Just Another Witness | How a Mogul Engineer Read the Roswell Debris | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2537,7 +2537,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What the First Roswell Newspaper Story Shows | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-roswell-daily-record-44c47a"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'newspaper/' | relative_url }}" title="What the First Roswell Newspaper Story Shows | Roswell UFO crash" aria-label="Read more about What the First Roswell Newspaper Story Shows | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'newspaper/' | relative_url }}" title="What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?" aria-label="Read more about What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2557,7 +2557,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brazel-interview/' | relative_url }}" title="How Brazel&#x27;s Interview Changed the Story | Roswell UFO crash f2 c9 c2 roswell daily record" aria-label="Read more about How Brazel&#x27;s Interview Changed the Story | Roswell UFO crash f2 c9 c2 roswell daily record">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brazel-interview/' | relative_url }}" title="How Brazel's Interview Changed the Story | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?" aria-label="Read more about How Brazel's Interview Changed the Story | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2577,7 +2577,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-words/' | relative_url }}" title="How One Headline Shaped the Myth | Roswell UFO crash f2 c9 c2 roswell daily record" aria-label="Read more about How One Headline Shaped the Myth | Roswell UFO crash f2 c9 c2 roswell daily record">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-words/' | relative_url }}" title="How One Headline Shaped the Myth | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?" aria-label="Read more about How One Headline Shaped the Myth | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2597,7 +2597,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'one-day-shift/' | relative_url }}" title="How the Story Changed Overnight | Roswell UFO crash f2 c9 c2 roswell daily record" aria-label="Read more about How the Story Changed Overnight | Roswell UFO crash f2 c9 c2 roswell daily record">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'one-day-shift/' | relative_url }}" title="How the Story Changed Overnight | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?" aria-label="Read more about How the Story Changed Overnight | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2617,7 +2617,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wilmot-gap/' | relative_url }}" title="Was the Wilmot Sighting Really Connected? | Roswell UFO crash f2 c9 c2 roswell daily record" aria-label="Read more about Was the Wilmot Sighting Really Connected? | Roswell UFO crash f2 c9 c2 roswell daily record">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wilmot-gap/' | relative_url }}" title="Was the Wilmot Sighting Really Connected? | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?" aria-label="Read more about Was the Wilmot Sighting Really Connected? | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2637,7 +2637,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-details/' | relative_url }}" title="What the First Story Never Described | Roswell UFO crash f2 c9 c2 roswell daily record" aria-label="Read more about What the First Story Never Described | Roswell UFO crash f2 c9 c2 roswell daily record">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-details/' | relative_url }}" title="What the First Story Never Described | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?" aria-label="Read more about What the First Story Never Described | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2657,7 +2657,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'no-bodies/' | relative_url }}" title="Where Were the Alien Bodies? | Roswell UFO crash f2 c9 c2 roswell daily record" aria-label="Read more about Where Were the Alien Bodies? | Roswell UFO crash f2 c9 c2 roswell daily record">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'no-bodies/' | relative_url }}" title="Where Were the Alien Bodies? | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?" aria-label="Read more about Where Were the Alien Bodies? | What the First Roswell Newspaper Story Shows | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2681,7 +2681,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Where Did the Roswell Story Actually Unfold? | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-roswell-geography-3fdeb0"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'places/' | relative_url }}" title="Where Did the Roswell Story Actually Unfold? | Roswell UFO crash" aria-label="Read more about Where Did the Roswell Story Actually Unfold? | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'places/' | relative_url }}" title="Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?" aria-label="Read more about Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2701,7 +2701,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-path/' | relative_url }}" title="Could a Balloon From Alamogordo Reach Corona? | Roswell UFO crash f2 c9 c2 roswell geography" aria-label="Read more about Could a Balloon From Alamogordo Reach Corona? | Roswell UFO crash f2 c9 c2 roswell geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-path/' | relative_url }}" title="Could a Balloon From Alamogordo Reach Corona? | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?" aria-label="Read more about Could a Balloon From Alamogordo Reach Corona? | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2721,7 +2721,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'raaf-route/' | relative_url }}" title="How Roswell Became the Name Everyone Knows | Roswell UFO crash f2 c9 c2 roswell geography" aria-label="Read more about How Roswell Became the Name Everyone Knows | Roswell UFO crash f2 c9 c2 roswell geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'raaf-route/' | relative_url }}" title="How Roswell Became the Name Everyone Knows | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?" aria-label="Read more about How Roswell Became the Name Everyone Knows | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2741,7 +2741,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'test-range/' | relative_url }}" title="Why New Mexico Was Built for Secrets | Roswell UFO crash f2 c9 c2 roswell geography" aria-label="Read more about Why New Mexico Was Built for Secrets | Roswell UFO crash f2 c9 c2 roswell geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'test-range/' | relative_url }}" title="Why New Mexico Was Built for Secrets | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?" aria-label="Read more about Why New Mexico Was Built for Secrets | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2761,7 +2761,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'corona-field/' | relative_url }}" title="Why the Debris Field Was Near Corona | Roswell UFO crash f2 c9 c2 roswell geography" aria-label="Read more about Why the Debris Field Was Near Corona | Roswell UFO crash f2 c9 c2 roswell geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'corona-field/' | relative_url }}" title="Why the Debris Field Was Near Corona | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?" aria-label="Read more about Why the Debris Field Was Near Corona | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2781,7 +2781,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fort-worth/' | relative_url }}" title="Why the Famous Photos Were Taken in Texas | Roswell UFO crash f2 c9 c2 roswell geography" aria-label="Read more about Why the Famous Photos Were Taken in Texas | Roswell UFO crash f2 c9 c2 roswell geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fort-worth/' | relative_url }}" title="Why the Famous Photos Were Taken in Texas | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?" aria-label="Read more about Why the Famous Photos Were Taken in Texas | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2801,7 +2801,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'road-distances/' | relative_url }}" title="Why the Roswell Timeline Was So Slow | Roswell UFO crash f2 c9 c2 roswell geography" aria-label="Read more about Why the Roswell Timeline Was So Slow | Roswell UFO crash f2 c9 c2 roswell geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'road-distances/' | relative_url }}" title="Why the Roswell Timeline Was So Slow | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?" aria-label="Read more about Why the Roswell Timeline Was So Slow | Where Did the Roswell Story Actually Unfold? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2825,7 +2825,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why the Weather Balloon Reversal Looked Suspicious | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-ramey-weather-balloo-6c24b9"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey/' | relative_url }}" title="Why the Weather Balloon Reversal Looked Suspicious | Roswell UFO crash" aria-label="Read more about Why the Weather Balloon Reversal Looked Suspicious | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey/' | relative_url }}" title="Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?" aria-label="Read more about Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2845,7 +2845,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-secrecy-5af406/' | relative_url }}" title="The Secret Project Behind the Balloon Story | Roswell UFO crash f2 c9 c2 ramey weather balloo" aria-label="Read more about The Secret Project Behind the Balloon Story | Roswell UFO crash f2 c9 c2 ramey weather balloo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-secrecy-5af406/' | relative_url }}" title="The Secret Project Behind the Balloon Story | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?" aria-label="Read more about The Secret Project Behind the Balloon Story | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2865,7 +2865,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'newton/' | relative_url }}" title="Was Irving Newton Right About the Debris? | Roswell UFO crash f2 c9 c2 ramey weather balloo" aria-label="Read more about Was Irving Newton Right About the Debris? | Roswell UFO crash f2 c9 c2 ramey weather balloo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'newton/' | relative_url }}" title="Was Irving Newton Right About the Debris? | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?" aria-label="Read more about Was Irving Newton Right About the Debris? | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2885,7 +2885,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-photos/' | relative_url }}" title="What Did the Fort Worth Photos Show? | Roswell UFO crash f2 c9 c2 ramey weather balloo" aria-label="Read more about What Did the Fort Worth Photos Show? | Roswell UFO crash f2 c9 c2 ramey weather balloo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-photos/' | relative_url }}" title="What Did the Fort Worth Photos Show? | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?" aria-label="Read more about What Did the Fort Worth Photos Show? | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2905,7 +2905,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'official-reviews/' | relative_url }}" title="What Later Reviews Changed About Ramey&#x27;s Story | Roswell UFO crash f2 c9 c2 ramey weather balloo" aria-label="Read more about What Later Reviews Changed About Ramey&#x27;s Story | Roswell UFO crash f2 c9 c2 ramey weather balloo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'official-reviews/' | relative_url }}" title="What Later Reviews Changed About Ramey's Story | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?" aria-label="Read more about What Later Reviews Changed About Ramey's Story | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2925,7 +2925,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey-s-shift/' | relative_url }}" title="Why Ramey&#x27;s Correction Changed Roswell | Roswell UFO crash f2 c9 c2 ramey weather balloo" aria-label="Read more about Why Ramey&#x27;s Correction Changed Roswell | Roswell UFO crash f2 c9 c2 ramey weather balloo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey-s-shift/' | relative_url }}" title="Why Ramey's Correction Changed Roswell | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?" aria-label="Read more about Why Ramey's Correction Changed Roswell | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2945,7 +2945,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'too-convenient/' | relative_url }}" title="Why the Balloon Story Felt Suspicious | Roswell UFO crash f2 c9 c2 ramey weather balloo" aria-label="Read more about Why the Balloon Story Felt Suspicious | Roswell UFO crash f2 c9 c2 ramey weather balloo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'too-convenient/' | relative_url }}" title="Why the Balloon Story Felt Suspicious | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?" aria-label="Read more about Why the Balloon Story Felt Suspicious | Why the Weather Balloon Reversal Looked Suspicious | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2969,7 +2969,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Can the Ramey Memo Prove Anything? | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-ramey-memo-dispute-f05213"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey-memo/' | relative_url }}" title="Can the Ramey Memo Prove Anything? | Roswell UFO crash" aria-label="Read more about Can the Ramey Memo Prove Anything? | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey-memo/' | relative_url }}" title="Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?" aria-label="Read more about Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -2989,7 +2989,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'victims-phrase/' | relative_url }}" title="Can the Memo Really Say Victims? | Roswell UFO crash f2 c9 c2 ramey memo dispute" aria-label="Read more about Can the Memo Really Say Victims? | Roswell UFO crash f2 c9 c2 ramey memo dispute">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'victims-phrase/' | relative_url }}" title="Can the Memo Really Say Victims? | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?" aria-label="Read more about Can the Memo Really Say Victims? | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3009,7 +3009,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'transcript-test/' | relative_url }}" title="How Should a Ramey Transcript Be Tested? | Roswell UFO crash f2 c9 c2 ramey memo dispute" aria-label="Read more about How Should a Ramey Transcript Be Tested? | Roswell UFO crash f2 c9 c2 ramey memo dispute">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'transcript-test/' | relative_url }}" title="How Should a Ramey Transcript Be Tested? | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?" aria-label="Read more about How Should a Ramey Transcript Be Tested? | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3029,7 +3029,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-proof/' | relative_url }}" title="What Does the Ramey Photo Really Prove? | Roswell UFO crash f2 c9 c2 ramey memo dispute" aria-label="Read more about What Does the Ramey Photo Really Prove? | Roswell UFO crash f2 c9 c2 ramey memo dispute">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-proof/' | relative_url }}" title="What Does the Ramey Photo Really Prove? | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?" aria-label="Read more about What Does the Ramey Photo Really Prove? | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3049,7 +3049,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'enhancement-risk/' | relative_url }}" title="When Enhancement Makes the Memo Too Clear | Roswell UFO crash f2 c9 c2 ramey memo dispute" aria-label="Read more about When Enhancement Makes the Memo Too Clear | Roswell UFO crash f2 c9 c2 ramey memo dispute">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'enhancement-risk/' | relative_url }}" title="When Enhancement Makes the Memo Too Clear | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?" aria-label="Read more about When Enhancement Makes the Memo Too Clear | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3069,7 +3069,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'suggestion-test/' | relative_url }}" title="Why People Read Different Ramey Memos | Roswell UFO crash f2 c9 c2 ramey memo dispute" aria-label="Read more about Why People Read Different Ramey Memos | Roswell UFO crash f2 c9 c2 ramey memo dispute">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'suggestion-test/' | relative_url }}" title="Why People Read Different Ramey Memos | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?" aria-label="Read more about Why People Read Different Ramey Memos | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3089,7 +3089,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'disc-reading/' | relative_url }}" title="Would the Word Disc Prove Anything? | Roswell UFO crash f2 c9 c2 ramey memo dispute" aria-label="Read more about Would the Word Disc Prove Anything? | Roswell UFO crash f2 c9 c2 ramey memo dispute">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'disc-reading/' | relative_url }}" title="Would the Word Disc Prove Anything? | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?" aria-label="Read more about Would the Word Disc Prove Anything? | Can the Ramey Memo Prove Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3113,7 +3113,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Government Records Added to Roswell | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-gao-records-search-719e6d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'records/' | relative_url }}" title="What Government Records Added to Roswell | Roswell UFO crash" aria-label="Read more about What Government Records Added to Roswell | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'records/' | relative_url }}" title="What Government Records Added to Roswell | What Really Fell Near Roswell?" aria-label="Read more about What Government Records Added to Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3133,7 +3133,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-link/' | relative_url }}" title="How GAO Led Back to Project Mogul | Roswell UFO crash f2 c9 c2 gao records search" aria-label="Read more about How GAO Led Back to Project Mogul | Roswell UFO crash f2 c9 c2 gao records search">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-link/' | relative_url }}" title="How GAO Led Back to Project Mogul | What Government Records Added to Roswell | What Really Fell Near Roswell?" aria-label="Read more about How GAO Led Back to Project Mogul | What Government Records Added to Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3153,7 +3153,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-rules/' | relative_url }}" title="Should Roswell Have Had a Crash Report? | Roswell UFO crash f2 c9 c2 gao records search" aria-label="Read more about Should Roswell Have Had a Crash Report? | Roswell UFO crash f2 c9 c2 gao records search">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-rules/' | relative_url }}" title="Should Roswell Have Had a Crash Report? | What Government Records Added to Roswell | What Really Fell Near Roswell?" aria-label="Read more about Should Roswell Have Had a Crash Report? | What Government Records Added to Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3173,7 +3173,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'schiff-role/' | relative_url }}" title="The Congressman Who Forced the Paper Trail | Roswell UFO crash f2 c9 c2 gao records search" aria-label="Read more about The Congressman Who Forced the Paper Trail | Roswell UFO crash f2 c9 c2 gao records search">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'schiff-role/' | relative_url }}" title="The Congressman Who Forced the Paper Trail | What Government Records Added to Roswell | What Really Fell Near Roswell?" aria-label="Read more about The Congressman Who Forced the Paper Trail | What Government Records Added to Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3193,7 +3193,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1947-records/' | relative_url }}" title="The Two Records That Survived | Roswell UFO crash f2 c9 c2 gao records search" aria-label="Read more about The Two Records That Survived | Roswell UFO crash f2 c9 c2 gao records search">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1947-records/' | relative_url }}" title="The Two Records That Survived | What Government Records Added to Roswell | What Really Fell Near Roswell?" aria-label="Read more about The Two Records That Survived | What Government Records Added to Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3213,7 +3213,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'gao-findings/' | relative_url }}" title="What Did the GAO Actually Find? | Roswell UFO crash f2 c9 c2 gao records search" aria-label="Read more about What Did the GAO Actually Find? | Roswell UFO crash f2 c9 c2 gao records search">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'gao-findings/' | relative_url }}" title="What Did the GAO Actually Find? | What Government Records Added to Roswell | What Really Fell Near Roswell?" aria-label="Read more about What Did the GAO Actually Find? | What Government Records Added to Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3233,7 +3233,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-files/' | relative_url }}" title="Why Missing Files Keep Roswell Alive | Roswell UFO crash f2 c9 c2 gao records search" aria-label="Read more about Why Missing Files Keep Roswell Alive | Roswell UFO crash f2 c9 c2 gao records search">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-files/' | relative_url }}" title="Why Missing Files Keep Roswell Alive | What Government Records Added to Roswell | What Really Fell Near Roswell?" aria-label="Read more about Why Missing Files Keep Roswell Alive | What Government Records Added to Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3257,7 +3257,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Does an Official Retraction Settle Anything? | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-official-retractions-a2facc"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'retraction/' | relative_url }}" title="When Does an Official Retraction Settle Anything? | Roswell UFO crash" aria-label="Read more about When Does an Official Retraction Settle Anything? | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'retraction/' | relative_url }}" title="When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?" aria-label="Read more about When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3277,7 +3277,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fort-worth-4ff675/' | relative_url }}" title="The Photo Op That Reframed Roswell | Roswell UFO crash f2 c9 c2 official retractions" aria-label="Read more about The Photo Op That Reframed Roswell | Roswell UFO crash f2 c9 c2 official retractions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fort-worth-4ff675/' | relative_url }}" title="The Photo Op That Reframed Roswell | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?" aria-label="Read more about The Photo Op That Reframed Roswell | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3297,7 +3297,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'half-truth-f22736/' | relative_url }}" title="When a Correction Becomes the Problem | Roswell UFO crash f2 c9 c2 official retractions" aria-label="Read more about When a Correction Becomes the Problem | Roswell UFO crash f2 c9 c2 official retractions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'half-truth-f22736/' | relative_url }}" title="When a Correction Becomes the Problem | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?" aria-label="Read more about When a Correction Becomes the Problem | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3317,7 +3317,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-panic/' | relative_url }}" title="Why 1947 Was Ready for Roswell | Roswell UFO crash f2 c9 c2 official retractions" aria-label="Read more about Why 1947 Was Ready for Roswell | Roswell UFO crash f2 c9 c2 official retractions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-panic/' | relative_url }}" title="Why 1947 Was Ready for Roswell | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?" aria-label="Read more about Why 1947 Was Ready for Roswell | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3337,7 +3337,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'later-reports/' | relative_url }}" title="Why Official Answers Came Too Late | Roswell UFO crash f2 c9 c2 official retractions" aria-label="Read more about Why Official Answers Came Too Late | Roswell UFO crash f2 c9 c2 official retractions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'later-reports/' | relative_url }}" title="Why Official Answers Came Too Late | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?" aria-label="Read more about Why Official Answers Came Too Late | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3357,7 +3357,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'first-release/' | relative_url }}" title="Why the First Roswell Statement Stuck | Roswell UFO crash f2 c9 c2 official retractions" aria-label="Read more about Why the First Roswell Statement Stuck | Roswell UFO crash f2 c9 c2 official retractions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'first-release/' | relative_url }}" title="Why the First Roswell Statement Stuck | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?" aria-label="Read more about Why the First Roswell Statement Stuck | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3377,7 +3377,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey-memo-4334be/' | relative_url }}" title="Why the Ramey Memo Still Matters | Roswell UFO crash f2 c9 c2 official retractions" aria-label="Read more about Why the Ramey Memo Still Matters | Roswell UFO crash f2 c9 c2 official retractions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey-memo-4334be/' | relative_url }}" title="Why the Ramey Memo Still Matters | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?" aria-label="Read more about Why the Ramey Memo Still Matters | When Does an Official Retraction Settle Anything? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3401,7 +3401,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why 1947 Was Ready for Roswell | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-1947-saucer-craze-36959a"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-craze/' | relative_url }}" title="Why 1947 Was Ready for Roswell | Roswell UFO crash" aria-label="Read more about Why 1947 Was Ready for Roswell | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-craze/' | relative_url }}" title="Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?" aria-label="Read more about Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3421,7 +3421,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'arnold-label/' | relative_url }}" title="How Arnold&#x27;s Report Named the Roswell Moment | Roswell UFO crash f2 c9 c2 1947 saucer craze" aria-label="Read more about How Arnold&#x27;s Report Named the Roswell Moment | Roswell UFO crash f2 c9 c2 1947 saucer craze">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'arnold-label/' | relative_url }}" title="How Arnold's Report Named the Roswell Moment | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?" aria-label="Read more about How Arnold's Report Named the Roswell Moment | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3441,7 +3441,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'daily-record/' | relative_url }}" title="How One Roswell Page Joined Two Mysteries | Roswell UFO crash f2 c9 c2 1947 saucer craze" aria-label="Read more about How One Roswell Page Joined Two Mysteries | Roswell UFO crash f2 c9 c2 1947 saucer craze">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'daily-record/' | relative_url }}" title="How One Roswell Page Joined Two Mysteries | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?" aria-label="Read more about How One Roswell Page Joined Two Mysteries | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3461,7 +3461,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-meaning/' | relative_url }}" title="What Did Flying Saucer Mean Before Aliens? | Roswell UFO crash f2 c9 c2 1947 saucer craze" aria-label="Read more about What Did Flying Saucer Mean Before Aliens? | Roswell UFO crash f2 c9 c2 1947 saucer craze">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-meaning/' | relative_url }}" title="What Did Flying Saucer Mean Before Aliens? | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?" aria-label="Read more about What Did Flying Saucer Mean Before Aliens? | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3481,7 +3481,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'speed-risk/' | relative_url }}" title="Why Roswell Outran Its Own Verification | Roswell UFO crash f2 c9 c2 1947 saucer craze" aria-label="Read more about Why Roswell Outran Its Own Verification | Roswell UFO crash f2 c9 c2 1947 saucer craze">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'speed-risk/' | relative_url }}" title="Why Roswell Outran Its Own Verification | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?" aria-label="Read more about Why Roswell Outran Its Own Verification | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3501,7 +3501,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'press-hunger/' | relative_url }}" title="Why Roswell Was Ready Made Newspaper Fuel | Roswell UFO crash f2 c9 c2 1947 saucer craze" aria-label="Read more about Why Roswell Was Ready Made Newspaper Fuel | Roswell UFO crash f2 c9 c2 1947 saucer craze">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'press-hunger/' | relative_url }}" title="Why Roswell Was Ready Made Newspaper Fuel | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?" aria-label="Read more about Why Roswell Was Ready Made Newspaper Fuel | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3521,7 +3521,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-war-fear/' | relative_url }}" title="Why Strange Skies Felt Plausible in 1947 | Roswell UFO crash f2 c9 c2 1947 saucer craze" aria-label="Read more about Why Strange Skies Felt Plausible in 1947 | Roswell UFO crash f2 c9 c2 1947 saucer craze">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-war-fear/' | relative_url }}" title="Why Strange Skies Felt Plausible in 1947 | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?" aria-label="Read more about Why Strange Skies Felt Plausible in 1947 | Why 1947 Was Ready for Roswell | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3545,7 +3545,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Was Roswell Really Covering Up? | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-cold-war-secrecy-4389e3"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy/' | relative_url }}" title="What Was Roswell Really Covering Up? | Roswell UFO crash" aria-label="Read more about What Was Roswell Really Covering Up? | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy/' | relative_url }}" title="What Was Roswell Really Covering Up? | What Really Fell Near Roswell?" aria-label="Read more about What Was Roswell Really Covering Up? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3565,7 +3565,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records/' | relative_url }}" title="Did Missing Files Help Create the Roswell Mystery? | Roswell UFO crash f2 c9 c2 cold war secrecy" aria-label="Read more about Did Missing Files Help Create the Roswell Mystery? | Roswell UFO crash f2 c9 c2 cold war secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records/' | relative_url }}" title="Did Missing Files Help Create the Roswell Mystery? | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?" aria-label="Read more about Did Missing Files Help Create the Roswell Mystery? | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3585,7 +3585,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-gap/' | relative_url }}" title="What Evidence Supports Mogul Over Alien Claims? | Roswell UFO crash f2 c9 c2 cold war secrecy" aria-label="Read more about What Evidence Supports Mogul Over Alien Claims? | Roswell UFO crash f2 c9 c2 cold war secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-gap/' | relative_url }}" title="What Evidence Supports Mogul Over Alien Claims? | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?" aria-label="Read more about What Evidence Supports Mogul Over Alien Claims? | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3605,7 +3605,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-mission/' | relative_url }}" title="What Was Project Mogul Really Trying to Find? | Roswell UFO crash f2 c9 c2 cold war secrecy" aria-label="Read more about What Was Project Mogul Really Trying to Find? | Roswell UFO crash f2 c9 c2 cold war secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-mission/' | relative_url }}" title="What Was Project Mogul Really Trying to Find? | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?" aria-label="Read more about What Was Project Mogul Really Trying to Find? | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3625,7 +3625,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'why-secret/' | relative_url }}" title="Why Did Nuclear Monitoring Need Such Secrecy? | Roswell UFO crash f2 c9 c2 cold war secrecy" aria-label="Read more about Why Did Nuclear Monitoring Need Such Secrecy? | Roswell UFO crash f2 c9 c2 cold war secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'why-secret/' | relative_url }}" title="Why Did Nuclear Monitoring Need Such Secrecy? | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?" aria-label="Read more about Why Did Nuclear Monitoring Need Such Secrecy? | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3645,7 +3645,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1990-s-review/' | relative_url }}" title="Why Roswell Was Reinvestigated Decades Later | Roswell UFO crash f2 c9 c2 cold war secrecy" aria-label="Read more about Why Roswell Was Reinvestigated Decades Later | Roswell UFO crash f2 c9 c2 cold war secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1990-s-review/' | relative_url }}" title="Why Roswell Was Reinvestigated Decades Later | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?" aria-label="Read more about Why Roswell Was Reinvestigated Decades Later | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3665,7 +3665,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-story-d54fb1/' | relative_url }}" title="Why the Weather Balloon Explanation Sounded Plausible | Roswell UFO crash f2 c9 c2 cold war secrecy" aria-label="Read more about Why the Weather Balloon Explanation Sounded Plausible | Roswell UFO crash f2 c9 c2 cold war secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-story-d54fb1/' | relative_url }}" title="Why the Weather Balloon Explanation Sounded Plausible | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?" aria-label="Read more about Why the Weather Balloon Explanation Sounded Plausible | What Was Roswell Really Covering Up? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3689,7 +3689,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How the Roswell Report Reached the Military | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-sheriff-wilcox-chain-973fbe"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sheriff/' | relative_url }}" title="How the Roswell Report Reached the Military | Roswell UFO crash" aria-label="Read more about How the Roswell Report Reached the Military | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sheriff/' | relative_url }}" title="How the Roswell Report Reached the Military | What Really Fell Near Roswell?" aria-label="Read more about How the Roswell Report Reached the Military | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3709,7 +3709,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-gate/' | relative_url }}" title="Did Wilcox Make Roswell More Believable? | Roswell UFO crash f2 c9 c2 sheriff wilcox chain" aria-label="Read more about Did Wilcox Make Roswell More Believable? | Roswell UFO crash f2 c9 c2 sheriff wilcox chain">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-gate/' | relative_url }}" title="Did Wilcox Make Roswell More Believable? | How the Roswell Report Reached the Military | What Really Fell Near Roswell?" aria-label="Read more about Did Wilcox Make Roswell More Believable? | How the Roswell Report Reached the Military | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3729,7 +3729,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'overnight-headline/' | relative_url }}" title="How Did Roswell Escalate So Fast? | Roswell UFO crash f2 c9 c2 sheriff wilcox chain" aria-label="Read more about How Did Roswell Escalate So Fast? | Roswell UFO crash f2 c9 c2 sheriff wilcox chain">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'overnight-headline/' | relative_url }}" title="How Did Roswell Escalate So Fast? | How the Roswell Report Reached the Military | What Really Fell Near Roswell?" aria-label="Read more about How Did Roswell Escalate So Fast? | How the Roswell Report Reached the Military | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3749,7 +3749,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'the-hand-off-from-sheriff-george/' | relative_url }}" title="The Hand Off That Made Roswell Military | Roswell UFO crash f2 c9 c2 sheriff wilcox chain" aria-label="Read more about The Hand Off That Made Roswell Military | Roswell UFO crash f2 c9 c2 sheriff wilcox chain">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'the-hand-off-from-sheriff-george/' | relative_url }}" title="The Hand Off That Made Roswell Military | How the Roswell Report Reached the Military | What Really Fell Near Roswell?" aria-label="Read more about The Hand Off That Made Roswell Military | How the Roswell Report Reached the Military | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3769,7 +3769,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brazel-visit/' | relative_url }}" title="What Did Brazel Tell Sheriff Wilcox? | Roswell UFO crash f2 c9 c2 sheriff wilcox chain" aria-label="Read more about What Did Brazel Tell Sheriff Wilcox? | Roswell UFO crash f2 c9 c2 sheriff wilcox chain">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brazel-visit/' | relative_url }}" title="What Did Brazel Tell Sheriff Wilcox? | How the Roswell Report Reached the Military | What Really Fell Near Roswell?" aria-label="Read more about What Did Brazel Tell Sheriff Wilcox? | How the Roswell Report Reached the Military | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3789,7 +3789,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'why-call-raaf/' | relative_url }}" title="Why Did Wilcox Call the Air Base? | Roswell UFO crash f2 c9 c2 sheriff wilcox chain" aria-label="Read more about Why Did Wilcox Call the Air Base? | Roswell UFO crash f2 c9 c2 sheriff wilcox chain">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'why-call-raaf/' | relative_url }}" title="Why Did Wilcox Call the Air Base? | How the Roswell Report Reached the Military | What Really Fell Near Roswell?" aria-label="Read more about Why Did Wilcox Call the Air Base? | How the Roswell Report Reached the Military | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3809,7 +3809,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'press-chain/' | relative_url }}" title="Why the Press Release Named the Sheriff | Roswell UFO crash f2 c9 c2 sheriff wilcox chain" aria-label="Read more about Why the Press Release Named the Sheriff | Roswell UFO crash f2 c9 c2 sheriff wilcox chain">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'press-chain/' | relative_url }}" title="Why the Press Release Named the Sheriff | How the Roswell Report Reached the Military | What Really Fell Near Roswell?" aria-label="Read more about Why the Press Release Named the Sheriff | How the Roswell Report Reached the Military | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3833,7 +3833,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Evidence Should Roswell Beginners Read First? | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-roswell-evidence-sta-1bc5d2"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'start-here/' | relative_url }}" title="What Evidence Should Roswell Beginners Read First? | Roswell UFO crash" aria-label="Read more about What Evidence Should Roswell Beginners Read First? | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'start-here/' | relative_url }}" title="What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?" aria-label="Read more about What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3853,7 +3853,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'later-claims/' | relative_url }}" title="How to Read Roswell Witness Claims Carefully | Roswell UFO crash f2 c9 c2 roswell evidence sta" aria-label="Read more about How to Read Roswell Witness Claims Carefully | Roswell UFO crash f2 c9 c2 roswell evidence sta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'later-claims/' | relative_url }}" title="How to Read Roswell Witness Claims Carefully | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?" aria-label="Read more about How to Read Roswell Witness Claims Carefully | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3873,7 +3873,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wilmot-sighting/' | relative_url }}" title="Should the Wilmot Sighting Be Kept Separate? | Roswell UFO crash f2 c9 c2 roswell evidence sta" aria-label="Read more about Should the Wilmot Sighting Be Kept Separate? | Roswell UFO crash f2 c9 c2 roswell evidence sta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wilmot-sighting/' | relative_url }}" title="Should the Wilmot Sighting Be Kept Separate? | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?" aria-label="Read more about Should the Wilmot Sighting Be Kept Separate? | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3893,7 +3893,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fbi-teletype/' | relative_url }}" title="The Roswell Document Between Saucer and Balloon | Roswell UFO crash f2 c9 c2 roswell evidence sta" aria-label="Read more about The Roswell Document Between Saucer and Balloon | Roswell UFO crash f2 c9 c2 roswell evidence sta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fbi-teletype/' | relative_url }}" title="The Roswell Document Between Saucer and Balloon | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?" aria-label="Read more about The Roswell Document Between Saucer and Balloon | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3913,7 +3913,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'first-story/' | relative_url }}" title="What the First Roswell Story Really Proves | Roswell UFO crash f2 c9 c2 roswell evidence sta" aria-label="Read more about What the First Roswell Story Really Proves | Roswell UFO crash f2 c9 c2 roswell evidence sta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'first-story/' | relative_url }}" title="What the First Roswell Story Really Proves | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?" aria-label="Read more about What the First Roswell Story Really Proves | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3933,7 +3933,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brazel-debris/' | relative_url }}" title="Why Brazel&#x27;s Debris Details Still Matter | Roswell UFO crash f2 c9 c2 roswell evidence sta" aria-label="Read more about Why Brazel&#x27;s Debris Details Still Matter | Roswell UFO crash f2 c9 c2 roswell evidence sta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brazel-debris/' | relative_url }}" title="Why Brazel's Debris Details Still Matter | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?" aria-label="Read more about Why Brazel's Debris Details Still Matter | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3953,7 +3953,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'project-mogul/' | relative_url }}" title="Why the Balloon Story Was Not So Simple | Roswell UFO crash f2 c9 c2 roswell evidence sta" aria-label="Read more about Why the Balloon Story Was Not So Simple | Roswell UFO crash f2 c9 c2 roswell evidence sta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'project-mogul/' | relative_url }}" title="Why the Balloon Story Was Not So Simple | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?" aria-label="Read more about Why the Balloon Story Was Not So Simple | What Evidence Should Roswell Beginners Read First? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3977,7 +3977,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Which Roswell Evidence Should Count Most? | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-testimony-vs-records-1feaa6"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'testimony/' | relative_url }}" title="Which Roswell Evidence Should Count Most? | Roswell UFO crash" aria-label="Read more about Which Roswell Evidence Should Count Most? | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'testimony/' | relative_url }}" title="Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?" aria-label="Read more about Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -3997,7 +3997,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-drift/' | relative_url }}" title="Can Roswell Memories Be Trusted Decades Later? | Roswell UFO crash f2 c9 c2 testimony vs records" aria-label="Read more about Can Roswell Memories Be Trusted Decades Later? | Roswell UFO crash f2 c9 c2 testimony vs records">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-drift/' | relative_url }}" title="Can Roswell Memories Be Trusted Decades Later? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?" aria-label="Read more about Can Roswell Memories Be Trusted Decades Later? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4017,7 +4017,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'marcel-debris/' | relative_url }}" title="Did the Photos Undercut Marcel&#x27;s Story? | Roswell UFO crash f2 c9 c2 testimony vs records" aria-label="Read more about Did the Photos Undercut Marcel&#x27;s Story? | Roswell UFO crash f2 c9 c2 testimony vs records">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'marcel-debris/' | relative_url }}" title="Did the Photos Undercut Marcel's Story? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?" aria-label="Read more about Did the Photos Undercut Marcel's Story? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4037,7 +4037,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'press-reversal/' | relative_url }}" title="What Does the Press Reversal Prove? | Roswell UFO crash f2 c9 c2 testimony vs records" aria-label="Read more about What Does the Press Reversal Prove? | Roswell UFO crash f2 c9 c2 testimony vs records">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'press-reversal/' | relative_url }}" title="What Does the Press Reversal Prove? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?" aria-label="Read more about What Does the Press Reversal Prove? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4057,7 +4057,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-rank/' | relative_url }}" title="Which Roswell Evidence Should Count Most? | Roswell UFO crash f2 c9 c2 testimony vs records" aria-label="Read more about Which Roswell Evidence Should Count Most? | Roswell UFO crash f2 c9 c2 testimony vs records">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-rank/' | relative_url }}" title="Which Roswell Evidence Should Count Most? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?" aria-label="Read more about Which Roswell Evidence Should Count Most? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4077,7 +4077,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'body-claims/' | relative_url }}" title="Why Did Body Stories Appear So Late? | Roswell UFO crash f2 c9 c2 testimony vs records" aria-label="Read more about Why Did Body Stories Appear So Late? | Roswell UFO crash f2 c9 c2 testimony vs records">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'body-claims/' | relative_url }}" title="Why Did Body Stories Appear So Late? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?" aria-label="Read more about Why Did Body Stories Appear So Late? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4097,7 +4097,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'conflicts/' | relative_url }}" title="Why Do Roswell Witnesses Disagree? | Roswell UFO crash f2 c9 c2 testimony vs records" aria-label="Read more about Why Do Roswell Witnesses Disagree? | Roswell UFO crash f2 c9 c2 testimony vs records">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'conflicts/' | relative_url }}" title="Why Do Roswell Witnesses Disagree? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?" aria-label="Read more about Why Do Roswell Witnesses Disagree? | Which Roswell Evidence Should Count Most? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4121,7 +4121,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Happened at Roswell in 1947? | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-1947-recovery-timeli-73ec70"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'timeline/' | relative_url }}" title="What Happened at Roswell in 1947? | Roswell UFO crash" aria-label="Read more about What Happened at Roswell in 1947? | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'timeline/' | relative_url }}" title="What Happened at Roswell in 1947? | What Really Fell Near Roswell?" aria-label="Read more about What Happened at Roswell in 1947? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4141,7 +4141,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fbi-teletype-8f5cc1/' | relative_url }}" title="Did the FBI Record Explain the Confusion? | Roswell UFO crash f2 c9 c2 1947 recovery timeli" aria-label="Read more about Did the FBI Record Explain the Confusion? | Roswell UFO crash f2 c9 c2 1947 recovery timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fbi-teletype-8f5cc1/' | relative_url }}" title="Did the FBI Record Explain the Confusion? | What Happened at Roswell in 1947? | What Really Fell Near Roswell?" aria-label="Read more about Did the FBI Record Explain the Confusion? | What Happened at Roswell in 1947? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4161,7 +4161,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sheriff-link/' | relative_url }}" title="How Sheriff Wilcox Made Roswell Official | Roswell UFO crash f2 c9 c2 1947 recovery timeli" aria-label="Read more about How Sheriff Wilcox Made Roswell Official | Roswell UFO crash f2 c9 c2 1947 recovery timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sheriff-link/' | relative_url }}" title="How Sheriff Wilcox Made Roswell Official | What Happened at Roswell in 1947? | What Really Fell Near Roswell?" aria-label="Read more about How Sheriff Wilcox Made Roswell Official | What Happened at Roswell in 1947? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4181,7 +4181,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'announcement-f3f851/' | relative_url }}" title="The Headline That Made Roswell Endure | Roswell UFO crash f2 c9 c2 1947 recovery timeli" aria-label="Read more about The Headline That Made Roswell Endure | Roswell UFO crash f2 c9 c2 1947 recovery timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'announcement-f3f851/' | relative_url }}" title="The Headline That Made Roswell Endure | What Happened at Roswell in 1947? | What Really Fell Near Roswell?" aria-label="Read more about The Headline That Made Roswell Endure | What Happened at Roswell in 1947? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4201,7 +4201,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brazel-find/' | relative_url }}" title="Why Brazel&#x27;s Ranch Find Still Matters | Roswell UFO crash f2 c9 c2 1947 recovery timeli" aria-label="Read more about Why Brazel&#x27;s Ranch Find Still Matters | Roswell UFO crash f2 c9 c2 1947 recovery timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brazel-find/' | relative_url }}" title="Why Brazel's Ranch Find Still Matters | What Happened at Roswell in 1947? | What Really Fell Near Roswell?" aria-label="Read more about Why Brazel's Ranch Find Still Matters | What Happened at Roswell in 1947? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4221,7 +4221,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-theory/' | relative_url }}" title="Why Project Mogul Became the Official Answer | Roswell UFO crash f2 c9 c2 1947 recovery timeli" aria-label="Read more about Why Project Mogul Became the Official Answer | Roswell UFO crash f2 c9 c2 1947 recovery timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-theory/' | relative_url }}" title="Why Project Mogul Became the Official Answer | What Happened at Roswell in 1947? | What Really Fell Near Roswell?" aria-label="Read more about Why Project Mogul Became the Official Answer | What Happened at Roswell in 1947? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4241,7 +4241,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'army-recovery/' | relative_url }}" title="Why the Army Recovery Changed Everything | Roswell UFO crash f2 c9 c2 1947 recovery timeli" aria-label="Read more about Why the Army Recovery Changed Everything | Roswell UFO crash f2 c9 c2 1947 recovery timeli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'army-recovery/' | relative_url }}" title="Why the Army Recovery Changed Everything | What Happened at Roswell in 1947? | What Really Fell Near Roswell?" aria-label="Read more about Why the Army Recovery Changed Everything | What Happened at Roswell in 1947? | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4265,7 +4265,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Roswell Became an Alien Tourism Town | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-roswell-tourism-42987e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tourism/' | relative_url }}" title="How Roswell Became an Alien Tourism Town | Roswell UFO crash" aria-label="Read more about How Roswell Became an Alien Tourism Town | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tourism/' | relative_url }}" title="How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?" aria-label="Read more about How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4285,7 +4285,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'alien-identity/' | relative_url }}" title="How Roswell Put Aliens on Main Street | Roswell UFO crash f2 c9 c2 roswell tourism" aria-label="Read more about How Roswell Put Aliens on Main Street | Roswell UFO crash f2 c9 c2 roswell tourism">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'alien-identity/' | relative_url }}" title="How Roswell Put Aliens on Main Street | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?" aria-label="Read more about How Roswell Put Aliens on Main Street | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4305,7 +4305,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'festival-boom/' | relative_url }}" title="How the UFO Festival Pays Off | Roswell UFO crash f2 c9 c2 roswell tourism" aria-label="Read more about How the UFO Festival Pays Off | Roswell UFO crash f2 c9 c2 roswell tourism">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'festival-boom/' | relative_url }}" title="How the UFO Festival Pays Off | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?" aria-label="Read more about How the UFO Festival Pays Off | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4325,7 +4325,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mixed-crowds/' | relative_url }}" title="Why Believers and Sceptics Both Visit | Roswell UFO crash f2 c9 c2 roswell tourism" aria-label="Read more about Why Believers and Sceptics Both Visit | Roswell UFO crash f2 c9 c2 roswell tourism">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mixed-crowds/' | relative_url }}" title="Why Believers and Sceptics Both Visit | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?" aria-label="Read more about Why Believers and Sceptics Both Visit | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4345,7 +4345,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-ops/' | relative_url }}" title="Why Everyone Takes Alien Photos in Roswell | Roswell UFO crash f2 c9 c2 roswell tourism" aria-label="Read more about Why Everyone Takes Alien Photos in Roswell | Roswell UFO crash f2 c9 c2 roswell tourism">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-ops/' | relative_url }}" title="Why Everyone Takes Alien Photos in Roswell | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?" aria-label="Read more about Why Everyone Takes Alien Photos in Roswell | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4365,7 +4365,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'souvenirs/' | relative_url }}" title="Why Roswell Souvenirs Work So Well | Roswell UFO crash f2 c9 c2 roswell tourism" aria-label="Read more about Why Roswell Souvenirs Work So Well | Roswell UFO crash f2 c9 c2 roswell tourism">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'souvenirs/' | relative_url }}" title="Why Roswell Souvenirs Work So Well | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?" aria-label="Read more about Why Roswell Souvenirs Work So Well | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4385,7 +4385,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ufo-museum/' | relative_url }}" title="Why Roswell&#x27;s UFO Museum Became the Anchor | Roswell UFO crash f2 c9 c2 roswell tourism" aria-label="Read more about Why Roswell&#x27;s UFO Museum Became the Anchor | Roswell UFO crash f2 c9 c2 roswell tourism">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ufo-museum/' | relative_url }}" title="Why Roswell's UFO Museum Became the Anchor | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?" aria-label="Read more about Why Roswell's UFO Museum Became the Anchor | How Roswell Became an Alien Tourism Town | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4409,7 +4409,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Skeptics and Believers Still Disagree | Roswell UFO crash" aria-expanded="false" aria-controls="home-vertical-children-node-roswell-ufo-crash-f2c9c2-skeptics-believers-5858ee"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'views/' | relative_url }}" title="Why Skeptics and Believers Still Disagree | Roswell UFO crash" aria-label="Read more about Why Skeptics and Believers Still Disagree | Roswell UFO crash">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'views/' | relative_url }}" title="Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?" aria-label="Read more about Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4429,7 +4429,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey-memo-b8bacb/' | relative_url }}" title="Can the Ramey Memo Change Roswell? | Roswell UFO crash f2 c9 c2 skeptics believers" aria-label="Read more about Can the Ramey Memo Change Roswell? | Roswell UFO crash f2 c9 c2 skeptics believers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ramey-memo-b8bacb/' | relative_url }}" title="Can the Ramey Memo Change Roswell? | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?" aria-label="Read more about Can the Ramey Memo Change Roswell? | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4449,7 +4449,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-count/' | relative_url }}" title="Do More Roswell Witnesses Mean Stronger Evidence? | Roswell UFO crash f2 c9 c2 skeptics believers" aria-label="Read more about Do More Roswell Witnesses Mean Stronger Evidence? | Roswell UFO crash f2 c9 c2 skeptics believers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-count/' | relative_url }}" title="Do More Roswell Witnesses Mean Stronger Evidence? | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?" aria-label="Read more about Do More Roswell Witnesses Mean Stronger Evidence? | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4469,7 +4469,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'walter-haut/' | relative_url }}" title="How Much Did Walter Haut Know? | Roswell UFO crash f2 c9 c2 skeptics believers" aria-label="Read more about How Much Did Walter Haut Know? | Roswell UFO crash f2 c9 c2 skeptics believers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'walter-haut/' | relative_url }}" title="How Much Did Walter Haut Know? | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?" aria-label="Read more about How Much Did Walter Haut Know? | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4489,7 +4489,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-story-e5a924/' | relative_url }}" title="When Does a Cover Story Become Proof? | Roswell UFO crash f2 c9 c2 skeptics believers" aria-label="Read more about When Does a Cover Story Become Proof? | Roswell UFO crash f2 c9 c2 skeptics believers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-story-e5a924/' | relative_url }}" title="When Does a Cover Story Become Proof? | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?" aria-label="Read more about When Does a Cover Story Become Proof? | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4509,7 +4509,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-test/' | relative_url }}" title="Why Mogul Became the Sceptics&#x27; Anchor | Roswell UFO crash f2 c9 c2 skeptics believers" aria-label="Read more about Why Mogul Became the Sceptics&#x27; Anchor | Roswell UFO crash f2 c9 c2 skeptics believers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-test/' | relative_url }}" title="Why Mogul Became the Sceptics' Anchor | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?" aria-label="Read more about Why Mogul Became the Sceptics' Anchor | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
@@ -4529,7 +4529,7 @@ site_image_description: A windswept New Mexico ranch field with scattered metall
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-gap/' | relative_url }}" title="Why the Earliest Debris Descriptions Matter | Roswell UFO crash f2 c9 c2 skeptics believers" aria-label="Read more about Why the Earliest Debris Descriptions Matter | Roswell UFO crash f2 c9 c2 skeptics believers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-gap/' | relative_url }}" title="Why the Earliest Debris Descriptions Matter | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?" aria-label="Read more about Why the Earliest Debris Descriptions Matter | Why Skeptics and Believers Still Disagree | What Really Fell Near Roswell?">Read more</a>
 </div>
 </div>
 </div>
