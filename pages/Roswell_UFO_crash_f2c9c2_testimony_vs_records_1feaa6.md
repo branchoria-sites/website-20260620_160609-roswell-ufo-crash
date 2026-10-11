@@ -55,8 +55,8 @@ permalink: /testimony/
 sidebar_expanded_urls:
 - /roswell-ufo-crash/
 nav_short_title: Testimony
-title: Which Roswell Evidence Should Count Most?
-title_full: Which Roswell Evidence Should Count Most?
+title: "Which Roswell Evidence Should Count Most? (testimony)"
+title_full: "Which Roswell Evidence Should Count Most? (testimony)"
 display_title_short: Testimony
 display_title: Testimony
 heading_title: Which Roswell Evidence Should Count Most?

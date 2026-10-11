@@ -27,8 +27,8 @@ sidebar_expanded_urls:
 - /roswell-ufo-crash/
 - /testimony/
 nav_short_title: Evidence Rank
-title: Which Roswell Evidence Should Count Most?
-title_full: Which Roswell Evidence Should Count Most?
+title: "Which Roswell Evidence Should Count Most? (evidence rank)"
+title_full: "Which Roswell Evidence Should Count Most? (evidence rank)"
 display_title_short: Evidence Rank
 display_title: Evidence Rank
 heading_title: Which Roswell Evidence Should Count Most?
