@@ -27,8 +27,8 @@ sidebar_expanded_urls:
 - /roswell-ufo-crash/
 - /retraction/
 nav_short_title: Saucer Panic
-title: Why 1947 Was Ready for Roswell
-title_full: Why 1947 Was Ready for Roswell
+title: "Why 1947 Was Ready for Roswell (saucer panic)"
+title_full: "Why 1947 Was Ready for Roswell (saucer panic)"
 display_title_short: Saucer Panic
 display_title: Saucer Panic
 heading_title: Why 1947 Was Ready for Roswell

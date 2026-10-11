@@ -55,8 +55,8 @@ permalink: /saucer-craze/
 sidebar_expanded_urls:
 - /roswell-ufo-crash/
 nav_short_title: Saucer Craze
-title: Why 1947 Was Ready for Roswell
-title_full: Why 1947 Was Ready for Roswell
+title: "Why 1947 Was Ready for Roswell (saucer craze)"
+title_full: "Why 1947 Was Ready for Roswell (saucer craze)"
 display_title_short: Saucer Craze
 display_title: Saucer Craze
 heading_title: Why 1947 Was Ready for Roswell
